@@ -399,6 +399,68 @@ mark.gm{background:var(--warn-s);color:inherit;border-bottom:2px solid var(--war
 .tybig small{font-size:11.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;font-weight:600}
 @media (max-width: 640px){ .tystats div{flex-direction:column;align-items:flex-start;gap:0} .tystats .typrog{flex-direction:row;align-items:center;gap:10px} .tytext{font-size:18px} .tybox{height:calc(18px*1.9*6);padding:0 14px} .tystats b{font-size:20px} .tybig b{font-size:22px} .tyres .tybig{grid-template-columns:repeat(2,minmax(0,1fr))} }
 
+/* typing statistics */
+.tystat{margin-top:26px}
+.tystatc{padding:20px 22px;display:grid;gap:22px}
+.tystatc>*,.tysub{min-width:0}
+.tystat{min-width:0}
+.tyempty{padding:18px 22px;margin-bottom:12px}
+.tytiles{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+.tytiles>div{background:var(--soft);border-radius:12px;padding:12px 14px;display:grid;gap:2px;align-content:start}
+.tytiles small{font-size:12.5px;color:var(--muted);font-weight:500}
+.tytiles b{font-size:26px;font-weight:700;letter-spacing:-.01em;line-height:1.2}
+.tyd{font-size:12px;color:var(--muted)}
+.tyd.up{color:var(--good)} .tyd.down{color:var(--bad)}
+.tysub h3{font-size:14.5px;margin:0 0 10px;font-weight:700;display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 10px}
+.tysub h3 small{font-size:12px;color:var(--muted);font-weight:500}
+.tylegend{display:flex;gap:16px;font-size:12.5px;color:var(--muted);margin:-4px 0 6px;flex-wrap:wrap}
+.tylegend span{display:inline-flex;align-items:center;gap:6px}
+.lgd.dot{width:9px;height:9px;border-radius:50%;background:var(--muted);opacity:.55;display:inline-block}
+.lgd.line{width:16px;height:2px;border-radius:2px;background:var(--accent);display:inline-block}
+.tych{position:relative;width:100%;touch-action:pan-y}
+.tych svg{display:block;overflow:visible}
+.tych .gl{stroke:var(--line);stroke-width:1}
+.tych .ax{fill:var(--muted);font-size:11px;font-family:var(--sans);font-variant-numeric:tabular-nums}
+.tych .xh{stroke:var(--muted);stroke-width:1;opacity:.5}
+.tych .hit{fill:transparent;cursor:crosshair}
+.tych .bar{fill:var(--accent);transition:opacity .12s}
+.tych .bar.dim{opacity:.35}
+.tych .ln{fill:none;stroke:var(--accent);stroke-width:2;stroke-linejoin:round;stroke-linecap:round}
+.tych .dt{stroke:var(--panel);stroke-width:2;pointer-events:none}
+.tych .dt.raw{fill:var(--muted);opacity:.55}
+.tych .dt.avg{fill:var(--accent)}
+.tytip{position:absolute;pointer-events:none;background:var(--panel);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);padding:8px 11px;font-size:12.5px;line-height:1.45;display:none;max-width:230px;z-index:2}
+.tytip.on{display:block}
+.tytip .mut{color:var(--muted)}
+.tykb{display:grid;gap:5px;max-width:640px}
+.tykr{display:flex;gap:5px}
+.tykr.r2{padding-left:18px} .tykr.r3{padding-left:38px} .tykr.r4{padding-left:22%}
+.tykey{box-sizing:border-box;flex:0 1 auto;width:calc((100% - 50px)/11);min-width:0;height:46px;border-radius:8px;border:1px solid var(--line);background:color-mix(in srgb,var(--C1) var(--k,0%),var(--panel));color:var(--ink);display:grid;place-items:center;align-content:center;gap:0;font-weight:700;font-size:13px;cursor:default;padding:0;font-family:var(--sans)}
+.tykey small{font-size:9.5px;font-weight:600;opacity:.85;font-variant-numeric:tabular-nums}
+.tykey.dk{color:var(--bg);border-color:transparent}
+.tykey.na{opacity:.45}
+.tykey.sp{width:52%;height:38px}
+.tykscale{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--muted);margin:10px 0 6px}
+.tykscale i{width:120px;height:8px;border-radius:99px;background:linear-gradient(90deg,color-mix(in srgb,var(--C1) 14%,var(--panel)),var(--C1))}
+.tybw{cursor:pointer}
+.tybw em{font-style:normal;color:var(--muted)}
+.tymap{display:grid;gap:8px}
+.tymrow{display:grid;grid-template-columns:34px 1fr;gap:8px;align-items:start}
+.tymrow .badge{justify-content:center;margin-top:5px}
+.tymcells{display:flex;flex-wrap:wrap;gap:4px}
+.tymc{width:30px;height:28px;border-radius:7px;border:1px solid var(--line);background:var(--bg);color:var(--muted);font-size:11px;font-variant-numeric:tabular-nums;padding:0;cursor:pointer;font-family:var(--sans)}
+.tymc.has{background:color-mix(in srgb,var(--accent) var(--k,30%),var(--panel));border-color:transparent;color:var(--ink);font-weight:600}
+.tymc.has.dk{color:var(--bg)}
+.tymc.cur{outline:2px solid var(--ink);outline-offset:1px}
+.tytbl{overflow-x:auto}
+.tytbl table{width:100%;border-collapse:collapse;font-size:13px}
+.tytbl th{font-size:11.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;font-weight:600;text-align:left;padding:6px 8px;border-bottom:1px solid var(--line);white-space:nowrap}
+.tytbl td{padding:7px 8px;border-bottom:1px solid var(--line);white-space:nowrap;font-variant-numeric:tabular-nums}
+.tytbl .r{text-align:right}
+.lnk{border:0;background:none;padding:0;color:var(--ink);cursor:pointer;font:inherit;text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:3px}
+.lnk:hover{text-decoration-color:var(--accent)}
+@media (max-width: 640px){ .tystatc{padding:16px 14px} .tytiles{grid-template-columns:repeat(2,minmax(0,1fr))} .tytiles b{font-size:21px} .tykb{gap:3px} .tykr{gap:3px} .tykey{width:calc((100% - 30px)/11);height:38px;font-size:11px;border-radius:6px} .tykey small{font-size:8px} .tykr.r2{padding-left:10px} .tykr.r3{padding-left:22px} .tymc{width:28px;height:26px} }
+
 @media (max-width: 900px){
   .wrap{grid-template-columns:1fr}
   .menu-btn{display:block}

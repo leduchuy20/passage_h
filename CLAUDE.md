@@ -100,6 +100,15 @@ DATA = {
     `ox5k_ty_<n>` = `{best:{w,a,d}, runs, cur:{t,ms,k,e,m,x}}` (`m` = index ký tự từng gõ sai, `x` = số lần sai theo
     ký tự); mỗi lượt hoàn thành được ghi vào `ox5k_tyhist` (tối đa 500 mục `{d,n,w,a,ms,s,x}`), là dữ liệu cho giai đoạn 2.
     Kỷ lục WPM hiện trên dòng meta của đoạn.
+  - **Thống kê luyện gõ** (giai đoạn 2, section `#tyStat` bên dưới khung gõ, vẽ bởi `drawTyStats()`): chọn khoảng
+    7 ngày / 30 ngày / tất cả (`opts.tyRange`). Gồm: 4 ô tổng quan (số lượt, thời gian luyện, WPM trung bình kèm chênh
+    lệch so với khoảng trước, độ chính xác TB); biểu đồ SVG tự vẽ bằng `tyChart()` (WPM từng lượt + đường trung bình
+    5 lượt, độ chính xác từng lượt, số phút luyện mỗi ngày; có tooltip khi rê chuột hoặc chạm); bàn phím heatmap
+    "Phím hay gõ sai" (tỉ lệ = lần sai / (lần đúng + lần sai), số lần đúng ước từ ký tự của các đoạn đã gõ qua
+    `paraKeyCount`, ký tự shift quy về phím gốc qua `keyOf`); "Từ hay gõ sai" (gộp `bw` của các lượt, kèm nghĩa nếu là
+    headword trong `D`); bản đồ 114 đoạn tô màu theo kỷ lục WPM (bấm để mở đoạn); bảng lịch sử gần đây; nút xoá lịch sử.
+    Mục lịch sử `ox5k_tyhist` (tối đa 1000) = `{d, t, n, w, a, ms, s, k, e, c, x, bw}`: ngày, timestamp, số đoạn, WPM,
+    độ chính xác, thời gian, kiểu nghiêm ngặt, số phím, số lỗi, số ký tự, lỗi theo ký tự, các từ gõ sai.
 - **Ôn tập theo lịch (SRS)**: nút "Ôn tập" trên top bar hiện số từ đến hạn. Bấm "Đánh dấu thuộc" sẽ đưa từ vào lịch
   `ox5k_srs` = `{alias: {i: bậc, d: ngày đến hạn (số ngày local), r: số lần ôn, l: số lần quên}}`, đến hạn ngày hôm sau.
   Khoảng cách các bậc `INT = [1,3,7,21,60,150]` ngày. Quên → về bậc 0 (ôn lại sau 1 ngày) và hỏi lại trong lượt;

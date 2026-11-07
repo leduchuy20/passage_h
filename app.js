@@ -7,7 +7,7 @@ const store = {
 };
 let learned = new Set(store.get('learned', []));
 let cur = Math.min(Math.max(store.get('cur', 0),0), P.length-1);
-let opts = Object.assign({trans:false, test:false, hl:true, filter:'all', lvTab:'all', intro:true, mode:'read', rate:0.92, dir:'en', size:20, gVi:false, gAll:false, gHard:false, tyStrict:false, tyMean:true, tyHl:true}, store.get('opts', {}));
+let opts = Object.assign({trans:false, test:false, hl:true, filter:'all', lvTab:'all', intro:true, mode:'read', rate:0.92, dir:'en', size:20, gVi:false, gAll:false, gHard:false, tyStrict:false, tyMean:true, tyHl:true, tyRange:'30', tyMore:false}, store.get('opts', {}));
 const firstPara = {}, WINFO = {};
 P.forEach((p,i)=>p.w.forEach(w=>{ if(!(w.a in firstPara)){ firstPara[w.a]=i; WINFO[w.a]=Object.assign({pi:i}, w); } }));
 const TOTAL = Object.keys(D).length;
@@ -434,7 +434,8 @@ function typeBody(p){
     <div class="kbd">Đồng hồ chạy từ phím đầu tiên; khoảng nghỉ dài hơn 5 giây chỉ tính 5 giây. <b>Esc</b> để tạm dừng. Dấu “—” gõ bằng “-”, chữ “é” gõ bằng “e”. Tiến độ được lưu tự động.</div>
     <div class="tynew ${opts.tyMean?'':'off'}" id="tyNew"></div>
     <div id="tyOut"></div>
-  </div>`;
+  </div>
+  <section class="sec tystat" id="tyStat"></section>`;
 }
 function bindType(p){
   const s = TY, text = s.text, N = text.length;
@@ -495,11 +496,12 @@ function bindType(p){
     s.runs++;
     const rec = !s.best || w > s.best.w;
     if(rec) s.best = {w, a, d: today()};
-    const hist = store.get('tyhist', []); hist.push({d: today(), n: p.n, w, a, ms: Math.round(s.ms), s: opts.tyStrict?1:0, x: s.miss});
-    store.set('tyhist', hist.slice(-500));
     // từ có lỗi
     const bad = new Map();
     s.missed.forEach(i=>{ let a0=i, b0=i; while(a0>0 && /[A-Za-z'é’-]/.test(text[a0-1])) a0--; while(b0<N && /[A-Za-z'é’-]/.test(text[b0])) b0++; if(b0>a0){ const wd = text.slice(a0,b0); bad.set(wd, (bad.get(wd)||0)+1); } });
+    const hist = store.get('tyhist', []);
+    hist.push({d: today(), t: Date.now(), n: p.n, w, a, ms: Math.round(s.ms), s: opts.tyStrict?1:0, k: s.keys, e: s.errs, c: N, x: s.miss, bw: [...bad.keys()].slice(0, 40)});
+    store.set('tyhist', hist.slice(-1000));
     const badList = [...bad.keys()].slice(0, 40);
     const keyList = Object.entries(s.miss).sort((x,y)=>y[1]-x[1]).slice(0,8);
     tySave(s, true);
@@ -515,6 +517,7 @@ function bindType(p){
     $('#tyRead').onclick = () => { opts.mode='read'; saveO(); renderPara(); window.scrollTo({top:0}); };
     s.done = true; inp.blur(); wrap.classList.add('fin');
     $('#tyOut').scrollIntoView({behavior:'smooth', block:'nearest'});
+    drawTyStats();
   };
   const typeChar = ch => {
     if(s.done) return;
@@ -568,9 +571,178 @@ function bindType(p){
     s.t=''; s.ms=0; s.keys=0; s.errs=0; s.missed=new Set(); s.miss={}; tySave(s, true); TY=null; renderPara();
     setTimeout(()=>{ const i=$('#tyIn'); if(i) i.focus({preventScroll:true}); }, 30);
   };
+  drawTyStats();
   // nhấn phím bất kỳ khi chưa focus thì bắt đầu gõ
   if(!s.done && matchMedia('(hover:hover)').matches) setTimeout(()=>{ if(inp.isConnected && !document.activeElement.closest('input,textarea')) inp.focus({preventScroll:true}); }, 0);
 }
+
+/* ---------- typing statistics (luyện gõ – giai đoạn 2) ---------- */
+const TY_RANGES = [['7','7 ngày'],['30','30 ngày'],['all','Tất cả']];
+const dayStr = d => { const x = new Date(d*86400000); return String(x.getUTCDate()).padStart(2,'0')+'/'+String(x.getUTCMonth()+1).padStart(2,'0'); };
+const fmtN = n => Math.round(n).toLocaleString('vi-VN');
+const fmtMin = ms => { const m = Math.round(ms/60000); return m < 60 ? m+' phút' : (m/60).toFixed(1).replace('.',',')+' giờ'; };
+const KEY_MAP = {' ':'space','—':'-','–':'-','é':'e','’':"'",'‘':"'",'“':"'",'”':"'",'"':"'",'?':'/','!':'1',':':';','(':'9',')':'0'};
+const keyOf = ch => /[a-z0-9]/.test(ch) ? ch : /[A-Z]/.test(ch) ? ch.toLowerCase() : (KEY_MAP[ch] || ch);
+const KB_ROWS = [['1','2','3','4','5','6','7','8','9','0','-'],['q','w','e','r','t','y','u','i','o','p'],['a','s','d','f','g','h','j','k','l',';',"'"],['z','x','c','v','b','n','m',',','.','/']];
+const KEY_LABEL = {"'":"' \"", ';':'; :', '/':'/ ?', '1':'1 !', '9':'9 (', '0':'0 )', '-':'- —'};
+const PARA_KEYS = {};
+function paraKeyCount(n){
+  if(PARA_KEYS[n]) return PARA_KEYS[n];
+  const p = P.find(x=>x.n===n); const c = {};
+  if(p) for(const ch of p.ss.map(x=>x[0]).join(' ')){ const k = keyOf(ch); c[k] = (c[k]||0)+1; }
+  return PARA_KEYS[n] = c;
+}
+const HEAD = (()=>{ const m = {}; for(const [a,d] of Object.entries(D)){ const k = d.w.toLowerCase(); if(!(k in m)) m[k] = a; } return m; })();
+function niceTicks(lo, hi, n){
+  const span = Math.max(hi-lo, 1e-9), raw = span/n, mag = Math.pow(10, Math.floor(Math.log10(raw)));
+  const step = [1,2,2.5,5,10].map(x=>x*mag).find(x=>x>=raw) || mag*10;
+  const a = Math.floor(lo/step)*step, b = Math.ceil(hi/step)*step; const out = [];
+  for(let v=a; v<=b+step*0.001; v+=step) out.push(+v.toFixed(6));
+  return out;
+}
+// Biểu đồ SVG nhỏ: cột (bar) hoặc đường + chấm, có tooltip khi rê chuột / chạm.
+function tyChart(host, cfg){
+  if(!host) return;
+  const W = Math.max(260, host.clientWidth || 600), H = cfg.h || 180;
+  const ml = 38, mr = 12, mt = 12, mb = 24, iw = W-ml-mr, ih = H-mt-mb, n = cfg.n;
+  const ticks = niceTicks(cfg.y[0], cfg.y[1], 4), y0 = ticks[0], y1 = ticks[ticks.length-1];
+  const band = iw / Math.max(n,1), X = i => ml + band*(i+0.5), Y = v => mt + ih - (v-y0)/(y1-y0||1)*ih;
+  let g = '';
+  ticks.forEach(t=>{ g += `<line class="gl" x1="${ml}" x2="${W-mr}" y1="${Y(t)}" y2="${Y(t)}"/><text class="ax" x="${ml-6}" y="${Y(t)+3.5}" text-anchor="end">${cfg.fmtY?cfg.fmtY(t):fmtN(t)}</text>`; });
+  const lblEvery = Math.max(1, Math.ceil(n / Math.max(2, Math.floor(iw/58))));
+  for(let i=0;i<n;i++) if(i%lblEvery===0 || (i===n-1 && (n-1)%lblEvery > lblEvery*0.6)) g += `<text class="ax" x="${X(i)}" y="${H-6}" text-anchor="middle">${esc(cfg.xl(i))}</text>`;
+  let m = '';
+  cfg.series.forEach(se=>{
+    if(se.type==='bar'){
+      const bw = Math.max(2, Math.min(24, band-2));
+      se.v.forEach((v,i)=>{ if(!v) return; const x = X(i)-bw/2, top = Y(v), base = Y(y0), h = base-top, r = Math.min(4, h, bw/2);
+        m += `<path class="bar" data-i="${i}" d="M${x},${base}V${top+r}Q${x},${top} ${x+r},${top}H${x+bw-r}Q${x+bw},${top} ${x+bw},${top+r}V${base}Z"/>`; });
+    } else if(se.type==='line'){
+      let d = ''; se.v.forEach((v,i)=>{ if(v==null) return; d += (d?'L':'M')+X(i).toFixed(1)+','+Y(v).toFixed(1); });
+      if(d) m += `<path class="ln ${se.cls||''}" d="${d}"/>`;
+      if(se.dots) se.v.forEach((v,i)=>{ if(v!=null) m += `<circle class="dt ${se.cls||''}" cx="${X(i)}" cy="${Y(v)}" r="4"/>`; });
+    } else if(se.type==='dots'){
+      se.v.forEach((v,i)=>{ if(v!=null) m += `<circle class="dt ${se.cls||''}" cx="${X(i)}" cy="${Y(v)}" r="4"/>`; });
+    }
+  });
+  host.innerHTML = `<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(cfg.label||'')}">${g}<line class="xh" id="" x1="0" x2="0" y1="${mt}" y2="${mt+ih}" style="display:none"/>${m}<rect class="hit" x="${ml}" y="${mt}" width="${iw}" height="${ih}"/></svg><div class="tytip"></div>`;
+  const svg = host.querySelector('svg'), tip = host.querySelector('.tytip'), xh = svg.querySelector('.xh'), hit = svg.querySelector('.hit');
+  const show = ev => {
+    const r = svg.getBoundingClientRect(); const mx = ev.clientX - r.left; const i = Math.max(0, Math.min(n-1, Math.floor((mx-ml)/band)));
+    if(n<=0) return;
+    xh.setAttribute('x1', X(i)); xh.setAttribute('x2', X(i)); xh.style.display = '';
+    svg.querySelectorAll('.bar').forEach(b=>b.classList.toggle('dim', +b.dataset.i!==i));
+    tip.innerHTML = cfg.tip(i); tip.classList.add('on');
+    const tw = tip.offsetWidth; let left = X(i) + 12; if(left + tw > W - 4) left = X(i) - tw - 12;
+    tip.style.left = Math.max(0,left)+'px'; tip.style.top = mt+'px';
+  };
+  const hide = () => { xh.style.display='none'; tip.classList.remove('on'); svg.querySelectorAll('.bar').forEach(b=>b.classList.remove('dim')); };
+  hit.addEventListener('pointermove', show); hit.addEventListener('pointerdown', show); hit.addEventListener('pointerleave', hide);
+}
+function tyHist(){ const h = store.get('tyhist', []); return Array.isArray(h) ? h.filter(r=>r && r.n && r.w!=null) : []; }
+function drawTyStats(){
+  const host = $('#tyStat'); if(!host) return;
+  const all = tyHist(); const rg = opts.tyRange || '30'; const t0 = today();
+  const days = rg==='all' ? null : +rg;
+  const H = days ? all.filter(r=>r.d > t0-days) : all;
+  const prev = days ? all.filter(r=>r.d > t0-2*days && r.d <= t0-days) : [];
+  const head = `<div class="sec-head"><h2>Thống kê luyện gõ</h2><div class="filters">${TY_RANGES.map(([k,l])=>`<button class="chip ${rg===k?'on':''}" data-tr="${k}">${l}</button>`).join('')}</div></div>`;
+  // bản đồ 114 đoạn (kỷ lục mọi thời gian)
+  const bests = {}; P.forEach(p=>{ const sv = store.get('ty_'+p.n, null); if(sv && sv.best) bests[p.n] = sv.best.w; });
+  const maxBest = Math.max(1, ...Object.values(bests));
+  const doneN = Object.keys(bests).length;
+  const mapHtml = `<div class="tysub"><h3>Các đoạn đã gõ <small>${doneN}/${P.length} đoạn · màu càng đậm, kỷ lục WPM càng cao</small></h3>
+    <div class="tymap">${LV.map(l=>`<div class="tymrow"><span class="badge ${l}">${l}</span><div class="tymcells">${P.map((p,i)=>[p,i]).filter(([p])=>p.lv===l).map(([p,i])=>{ const b = bests[p.n];
+      const kv = b!=null ? Math.round(18 + 62*b/maxBest) : 0, st = b!=null ? `style="--k:${kv}%"` : '';
+      return `<button class="tymc ${b!=null?'has':''} ${kv>=50?'dk':''} ${i===cur?'cur':''}" data-pi="${i}" ${st} title="Đoạn ${p.n}: ${esc(p.t)}${b!=null?` · kỷ lục ${b} WPM`:' · chưa gõ'}">${p.n}</button>`; }).join('')}</div></div>`).join('')}</div></div>`;
+  if(!all.length){
+    host.innerHTML = head + `<div class="card tyempty"><div class="note">Chưa có lượt gõ nào. Gõ xong ít nhất một đoạn thì biểu đồ tốc độ, độ chính xác, phím hay gõ sai và từ hay gõ sai sẽ hiện ở đây.</div></div>` + `<div class="card tystatc">${mapHtml}</div>`;
+    bindTyStats(host, []); return;
+  }
+  const sum = (arr, f) => arr.reduce((a,r)=>a+f(r), 0);
+  const avgW = H.length ? sum(H, r=>r.w)/H.length : 0, avgA = H.length ? sum(H, r=>r.a)/H.length : 0;
+  const pAvgW = prev.length ? sum(prev, r=>r.w)/prev.length : null;
+  const best = H.length ? Math.max(...H.map(r=>r.w)) : 0;
+  const delta = pAvgW!=null && H.length ? Math.round(avgW - pAvgW) : null;
+  const dHtml = delta==null ? '' : delta===0 ? `<span class="tyd">= ${rg} ngày trước</span>` : `<span class="tyd ${delta>0?'up':'down'}">${delta>0?'▲':'▼'} ${Math.abs(delta)} so với ${rg} ngày trước</span>`;
+  const tiles = `<div class="tytiles">
+    <div><small>Số lượt gõ</small><b>${fmtN(H.length)}</b><span class="tyd">${new Set(H.map(r=>r.n)).size} đoạn khác nhau</span></div>
+    <div><small>Thời gian luyện</small><b>${fmtMin(sum(H,r=>r.ms||0))}</b><span class="tyd">${new Set(H.map(r=>r.d)).size} ngày có luyện</span></div>
+    <div><small>WPM trung bình</small><b>${H.length?Math.round(avgW):'–'}</b>${dHtml}</div>
+    <div><small>Độ chính xác TB</small><b>${H.length?Math.round(avgA)+'%':'–'}</b><span class="tyd">cao nhất ${best} WPM</span></div>
+  </div>`;
+  if(!H.length){
+    host.innerHTML = head + `<div class="card tystatc">${tiles}<div class="note">Không có lượt gõ nào trong ${rg} ngày qua. Chọn "Tất cả" để xem toàn bộ lịch sử.</div>${mapHtml}</div>`;
+    bindTyStats(host, H); return;
+  }
+  // phím hay gõ sai: tỉ lệ = số lần sai / số lần xuất hiện trong các đoạn đã gõ
+  const occ = {}, mis = {};
+  H.forEach(r=>{ const c = paraKeyCount(r.n); for(const k in c) occ[k] = (occ[k]||0) + c[k]; for(const ch in (r.x||{})){ const k = keyOf(ch); mis[k] = (mis[k]||0) + r.x[ch]; } });
+  // tỉ lệ = lần sai / (lần gõ đúng + lần sai) → luôn ≤ 100% kể cả khi một ký tự bị gõ sai nhiều lần liền
+  const rate = k => occ[k] ? (mis[k]||0)/(occ[k] + (mis[k]||0)) : 0;
+  const allKeys = [...KB_ROWS.flat(), 'space'];
+  const maxRate = Math.max(1e-9, ...allKeys.map(rate));
+  const keyCell = k => { const r = rate(k), o = occ[k]||0;
+    const lvl = o && mis[k] ? Math.round(14 + 66*r/maxRate) : 0;
+    return `<button class="tykey ${k==='space'?'sp':''} ${o?'':'na'} ${lvl>=50?'dk':''}" data-k="${esc(k)}" ${lvl?`style="--k:${lvl}%"`:''}><span>${k==='space'?'dấu cách':esc(KEY_LABEL[k]||k.toUpperCase())}</span>${o&&mis[k]?`<small>${(r*100).toFixed(r<0.01?1:0)}%</small>`:''}</button>`; };
+  const worst = allKeys.filter(k=>mis[k] && occ[k]>=20).sort((a,b)=>rate(b)-rate(a)).slice(0,3);
+  const keyInfo = k => `Phím <b>${k==='space'?'dấu cách':esc(KEY_LABEL[k]||k.toUpperCase())}</b>: sai ${fmtN(mis[k]||0)} lần, đúng ${fmtN(occ[k]||0)} lần (${((rate(k))*100).toFixed(1).replace('.',',')}%)`;
+  const kbHtml = `<div class="tysub"><h3>Phím hay gõ sai <small>tỉ lệ sai = số lần gõ sai phím đó / tổng số lần gõ phím đó</small></h3>
+    <div class="tykb">${KB_ROWS.map((row,ri)=>`<div class="tykr r${ri}">${row.map(keyCell).join('')}</div>`).join('')}<div class="tykr r4">${keyCell('space')}</div></div>
+    <div class="tykscale"><span>Ít sai</span><i></i><span>Sai nhiều</span></div>
+    <div class="note" id="tyKeyInfo">${worst.length ? 'Yếu nhất: ' + worst.map(k=>`<b>${k==='space'?'dấu cách':esc(KEY_LABEL[k]||k.toUpperCase())}</b> (${(rate(k)*100).toFixed(1).replace('.',',')}%)`).join(', ') + '. Rê chuột hoặc chạm vào một phím để xem chi tiết.' : 'Bạn chưa gõ sai phím nào trong khoảng thời gian này.'}</div></div>`;
+  // từ hay gõ sai
+  const bw = new Map(); H.forEach(r=>(r.bw||[]).forEach(w=>bw.set(w, (bw.get(w)||0)+1)));
+  const bwList = [...bw.entries()].sort((a,b)=>b[1]-a[1] || a[0].localeCompare(b[0])).slice(0, 30);
+  const bwHtml = `<div class="tysub"><h3>Từ hay gõ sai <small>${bw.size ? `${bw.size} từ · bấm để nghe` : ''}</small></h3>${bwList.length ? `<div class="typrev">${bwList.map(([w,c])=>{ const a = HEAD[w.toLowerCase()]; const d = a ? D[a] : null;
+      return `<span class="hint tybw" data-say="${esc(w)}" title="${d?esc(d.m):''}"><b>${esc(w)}</b>${d?` · ${esc(d.m.length>28?d.m.slice(0,26)+'…':d.m)}`:''}${c>1?` <em>× ${c}</em>`:''}</span>`; }).join('')}</div>` : `<div class="note">${H.some(r=>r.bw) ? 'Không có từ nào bị gõ sai. Tuyệt vời!' : 'Danh sách này bắt đầu được ghi từ phiên bản có thống kê; hãy gõ thêm một đoạn.'}</div>`}</div>`;
+  // lịch sử gần đây
+  const recent = H.slice().reverse().slice(0, opts.tyMore ? 60 : 10);
+  const histHtml = `<div class="tysub"><h3>Lịch sử gần đây</h3><div class="tytbl"><table><thead><tr><th>Ngày</th><th>Đoạn</th><th class="r">WPM</th><th class="r">Chính xác</th><th class="r">Thời gian</th><th>Kiểu</th></tr></thead><tbody>
+    ${recent.map(r=>{ const pi = P.findIndex(p=>p.n===r.n); return `<tr><td>${dayStr(r.d)}</td><td><button class="lnk" data-pi="${pi}" title="${esc(P[pi]?P[pi].t:'')}">${r.n}. ${esc(P[pi]?(P[pi].t.length>26?P[pi].t.slice(0,24)+'…':P[pi].t):'')}</button></td><td class="r">${r.w}</td><td class="r">${r.a}%</td><td class="r">${fmtTime(r.ms||0)}</td><td>${r.s?'Nghiêm ngặt':'Tự do'}</td></tr>`; }).join('')}
+    </tbody></table></div>
+    <div class="acts">${H.length>10?`<button class="chip" id="tyMore">${opts.tyMore?'Thu gọn':'Xem thêm'}</button>`:''}<span class="sp"></span><button class="chip" id="tyClear">Xoá lịch sử luyện gõ</button></div></div>`;
+  host.innerHTML = head + `<div class="card tystatc">${tiles}
+    <div class="tysub"><h3>Tốc độ theo từng lượt <small>${H.length} lượt</small></h3>
+      <div class="tylegend"><span><i class="lgd dot"></i>WPM từng lượt</span><span><i class="lgd line"></i>Trung bình 5 lượt gần nhất</span></div>
+      <div class="tych" id="tyChW"></div></div>
+    <div class="tysub"><h3>Độ chính xác theo từng lượt</h3><div class="tych" id="tyChA"></div></div>
+    <div class="tysub"><h3>Thời gian luyện mỗi ngày</h3><div class="tych" id="tyChD"></div></div>
+    ${kbHtml}${bwHtml}${mapHtml}${histHtml}</div>`;
+  // vẽ biểu đồ
+  const R = H.slice(-120); const nR = R.length;
+  const pTitle = n => { const p = P.find(x=>x.n===n); return p ? p.t : ''; };
+  const runTip = i => { const r = R[i]; return `<b>${dayStr(r.d)} · Đoạn ${r.n}</b><div>${esc(pTitle(r.n))}</div><div>${r.w} WPM · ${r.a}% · ${fmtTime(r.ms||0)}</div>${ma[i]!=null?`<div class="mut">TB 5 lượt: ${Math.round(ma[i])} WPM</div>`:''}`; };
+  const ma = R.map((r,i)=>{ const s0 = R.slice(Math.max(0,i-4), i+1); return s0.reduce((a,x)=>a+x.w,0)/s0.length; });
+  const xlRun = i => dayStr(R[i].d);
+  tyChart($('#tyChW'), {n:nR, y:[0, Math.max(10, ...R.map(r=>r.w))], xl:xlRun, label:'WPM theo từng lượt', tip:runTip,
+    series:[{type:'dots', v:R.map(r=>r.w), cls:'raw'}, {type:'line', v:ma, cls:'avg'}]});
+  const minA = Math.min(...R.map(r=>r.a));
+  tyChart($('#tyChA'), {n:nR, h:150, y:[Math.max(0, Math.min(90, minA-2)), 100], xl:xlRun, label:'Độ chính xác theo từng lượt', fmtY:v=>fmtN(v)+'%', tip:runTip,
+    series:[{type:'line', v:R.map(r=>r.a), cls:'avg', dots:true}]});
+  const firstD = Math.min(...H.map(r=>r.d)); const nD = days ? days : Math.min(90, t0-firstD+1);
+  const dayList = Array.from({length:nD}, (_,i)=>t0-nD+1+i);
+  const perDay = dayList.map(d=>{ const rs = H.filter(r=>r.d===d); return {ms: sum(rs, r=>r.ms||0), n: rs.length}; });
+  tyChart($('#tyChD'), {n:nD, h:150, y:[0, Math.max(5, ...perDay.map(x=>x.ms/60000))], xl:i=>dayStr(dayList[i]), label:'Số phút luyện gõ mỗi ngày', fmtY:v=>fmtN(v)+'′',
+    tip:i=>`<b>${dayStr(dayList[i])}</b><div>${perDay[i].n ? `${(perDay[i].ms/60000).toFixed(1).replace('.',',')} phút · ${perDay[i].n} lượt` : 'Không luyện'}</div>`,
+    series:[{type:'bar', v:perDay.map(x=>x.ms/60000)}]});
+  bindTyStats(host, H, keyInfo);
+}
+function bindTyStats(host, H, keyInfo){
+  host.querySelectorAll('[data-tr]').forEach(b=>b.onclick=()=>{ opts.tyRange = b.dataset.tr; saveO(); drawTyStats(); });
+  host.querySelectorAll('[data-pi]').forEach(b=>b.onclick=()=>{ const i = +b.dataset.pi; if(i>=0){ go(i); } });
+  host.querySelectorAll('.tybw').forEach(b=>b.onclick=()=>speak(b.dataset.say));
+  if(keyInfo) host.querySelectorAll('.tykey:not(.na)').forEach(b=>{ const f = ()=>{ $('#tyKeyInfo').innerHTML = keyInfo(b.dataset.k); }; b.onmouseenter = f; b.onclick = f; });
+  const mo = $('#tyMore'); if(mo) mo.onclick = () => { opts.tyMore = !opts.tyMore; saveO(); drawTyStats(); };
+  const cl = $('#tyClear');
+  if(cl) cl.onclick = () => {
+    if(!cl.dataset.armed){ cl.dataset.armed='1'; cl.textContent='Bấm lần nữa để xoá (không hoàn tác được)'; setTimeout(()=>{ if(cl.isConnected){ delete cl.dataset.armed; cl.textContent='Xoá lịch sử luyện gõ'; } }, 3500); return; }
+    store.set('tyhist', []); P.forEach(p=>{ const sv = store.get('ty_'+p.n, null); if(sv){ delete sv.best; sv.runs = 0; store.set('ty_'+p.n, sv); } });
+    TY = null; renderPara();
+  };
+}
+let tyRsz = null;
+addEventListener('resize', ()=>{ clearTimeout(tyRsz); tyRsz = setTimeout(()=>{ if(view==='para' && opts.mode==='type') drawTyStats(); }, 200); });
 
 /* ---------- review (spaced repetition) ---------- */
 let sess = null;

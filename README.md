@@ -15,7 +15,7 @@ thấp hơn cấp của từ.
 | **Phân tích câu** | Câu được tô màu theo S / V / O / C / A, đánh dấu mệnh đề phụ, ghi thì và thể bị động. 326 câu khó có giải thích viết tay. |
 | **Dịch ngược** | Dịch từng câu từ Việt sang Anh rồi so với câu gốc. |
 | **Nghe chép chính tả** | Máy đọc từng câu (TTS) ở 3 tốc độ để bạn gõ lại. |
-| **Luyện gõ** | Gõ lại cả đoạn văn, đo WPM và độ chính xác, có 2 kiểu Tự do / Nghiêm ngặt. Gõ xong từ mới nào thì nghĩa của từ đó hiện ra. |
+| **Luyện gõ** | Gõ lại cả đoạn văn, đo WPM và độ chính xác, có 2 kiểu Tự do / Nghiêm ngặt. Gõ xong từ mới nào thì nghĩa của từ đó hiện ra. Có thống kê: biểu đồ WPM và độ chính xác, thời gian luyện mỗi ngày, bàn phím tô màu phím hay gõ sai, từ hay gõ sai và bản đồ các đoạn đã gõ. |
 | **Ôn tập (SRS)** | Ôn theo lịch lặp lại ngắt quãng 1-3-7-21-60-150 ngày, theo cả hai chiều Anh→Việt và Việt→Anh. |
 
 Phím tắt: `←` / `→` chuyển đoạn, `/` tìm từ.
