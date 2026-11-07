@@ -1,0 +1,48 @@
+56|0|A magazine article written by Mr Hai himself|A letter from an architect to his son|A school report about buildings in the city
+56|1|His father was a priest at the local temple.|The temple was next to his house.|It was a family tradition for every child.
+56|2|He studied architecture at a famous university in the capital.|His father was an architect.|He won a design competition for young people.
+56|3|Magazines and advertising companies|Rich and powerful people|The architect himself
+56|4|He never made any serious mistakes in his career.|They should be hidden.|They are always expensive.
+57|0|Old things are always valuable, so families should keep them forever.|You should never throw anything away.|Charity shops need more donations.
+57|2|He was a politician and worked with the president for many years.|He played music at a ceremony.|He designed the president's house.
+57|3|The grandfather asked them in a letter to give everything away.|They needed money and sold most of it online.|The neighbours wanted the house.
+57|4|A young man who repaired old radios|The writer's mother|A charity shop
+58|0|Spending too much money online|Checking the news all day|Arriving late
+58|1|A friend gave her advice about social media.|She read a book about happiness.|She lost her job.
+58|2|Some books are much longer than others, so they are harder to finish.|She should read more books.|Other people write better than her.
+58|3|Other people's progress online|Her social media followers|Her monthly spending
+58|4|She wants them to celebrate her success in the same way.|It is polite.|Her friends asked her to.
+59|0|At a beach hotel by the sea|In the city centre|On a boat
+59|1|She was good at climbing and enjoyed the physical challenges.|She was the best at puzzles.|She did not like teamwork.
+59|2|They acted immediately and solved problems as quickly as possible.|The leader decided everything.|They worked separately.
+59|3|She hated climbing and refused to try it.|She wanted a new job.|She was better than the engineer.
+59|4|She started working on weekends to finish her projects on time.|She joined a ski club.|She changed teams.
+60|0|He thinks smartphones should be banned for people under thirty years old.|He thinks they only make people happy.|He has stopped using a phone.
+60|1|He used it only for work and to pay bills.|He used it less than his friends.|He never read advertisements.
+60|2|It has no effect, because most people use it only for a short time each day.|It always makes people happier.|It improves concentration.
+60|3|They create a lot of noise pollution in cities, especially at night.|They are difficult to recycle at home.|They cause forest fires.
+60|4|Phones should do our jobs so that we have more free time.|We should work harder with phones.|Phones are better than people.
+61|0|An exciting adventure|A film about the war|A sad lecture from a guide
+61|1|He wanted to go home and see his mother and his little sister again.|He hated the enemy.|He had won the battle.
+61|2|They were cruel and cold, and they did not care about the people they fought.|They wanted to win at any cost.|They were older and stronger.
+61|3|To learn to hate the enemy|To prepare for a history exam the next week|To see famous weapons
+62|0|His old car broke down on the way to work.|He wanted to start a taxi business.|His father gave him money.
+62|1|Buy the cheapest car you can find, because all used cars have problems.|Only buy a new car.|Buy from a friend.
+62|2|The price was too high and the seller refused to discuss it.|The car was too small.|The seller was rude.
+62|3|It was the most fashionable car he could afford in the town.|It was a racing car.|It was the cheapest.
+62|4|Always trust the promises of people who seem honest.|Never make big decisions.|Ask your father before every decision.
+63|0|He did not like his brother's new wife and her family.|He did not know the bride.|He was ill.
+63|1|Make people laugh with a lot of jokes.|Keep the speech very short.|Read from a book.
+63|2|How his brother met the bride at university|How they travelled together|How his brother got his first job
+63|3|It was very expensive and made in Paris.|It was red.|It was designed by the writer.
+63|4|It is mainly a big celebration for the two families and their friends.|It is about the ring.|It is only for young people.
+64|0|A story about a holiday he took at eighteen|A report about teenagers|An interview with a teacher
+64|1|Fear is always right, so you should listen to it.|You should never feel fear.|Fear helps you choose friends.
+64|2|Friends who make you feel comfortable and never criticize you|Friends with a lot of money|Friends who agree with everything
+64|3|Not travelling more|Not studying harder at school|Getting married too early
+64|4|A single big moment of luck|Being liked by everyone|Earning a high salary
+65|0|Cook|Camp manager|Swimming teacher at the lake
+65|1|Children always share their sweets with other children.|Children do not like sweets at camp.|Parents always know about them.
+65|2|They went fishing.|They flew kites on the hill.|They had boat races on the lake and swam with the instructor.
+65|3|Be strict with children so they follow the rules.|Never let children play outside.|Always give them sweets.
+65|4|Control and clear rules|Rules and punishment|Games and fun

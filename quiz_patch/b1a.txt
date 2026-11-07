@@ -1,0 +1,73 @@
+38|1|Get fit and feel healthier by the end of the year.|Become a better person.|Learn a language this year.
+38|4|It is too easy and does not motivate you to work hard.|Other people will forget about it.|It costs too much.
+39|0|Friends should always say nice things, even when they are not true.|Copying from the internet is common.|University assignments are too difficult.
+39|2|It was too short and did not answer the question of the assignment.|The ideas were boring.|It was written in the wrong language.
+39|3|She failed the writer and reported her to the university.|She told the whole class.|She was angry with Linh.
+39|4|Always tell the truth immediately, even if the moment is wrong.|Never criticize friends.|Only tell the truth by message, never face to face.
+40|0|How to become a successful estate agent in a big city|Why living with your parents is better than renting|How to decorate a flat cheaply
+40|1|It was too expensive and the agent refused to lower the rent.|It was too far from the bus stop.|The neighbours were noisy.
+40|2|The agent asked him to do it because the owner lived in another city.|He wanted to practise writing.|The flat had no heating.
+40|3|Nothing happened because he washed them later.|His mother cleaned them.|The landlord complained.
+40|4|Just a place to sleep after work|A good investment for the future, because prices will rise|A reason to miss his family
+41|1|They did not have any cars or trucks to use.|It was faster than driving through the villages.|The charity wanted them to exercise.
+41|2|She asked the volunteers for money and clothes.|She left the village.|She guarded the supplies.
+41|3|Try to solve every problem.|Do not talk to the victims about their loss.|Work faster.
+41|4|That floods are not really dangerous for local people|That charities waste money|That villagers are unfriendly
+42|0|He failed a fitness test at the gym near his office.|His friend got sick.|He lost his job.
+42|1|Breathe quickly through the mouth whenever you start to feel nervous.|Hold your breath as long as possible.|Breathe only when exercising.
+42|3|Alcohol was too expensive for him at the weekend.|His doctor banned it.|His gym did not allow it.
+42|4|Speak quietly to your body when you feel any pain in it.|Ignore small pains.|Go to the doctor every week, even when you feel completely well.
+43|1|She quit her job immediately and started applying to schools.|She asked her parents for money to pay for a course.|She moved to another country.
+43|2|To earn extra money at the weekends for her course|Because her course required it|To meet new friends
+43|3|It was not useful for teaching young students at all.|It was too short.|It was more important than her teaching qualifications.
+43|4|do not do any sport without a coach to help you|do not leave your job ever|do not move to a new house
+44|0|It was exciting and full of stories about real people.|It was her favourite subject.|It was too easy.
+44|1|She was poor and had to work in the palace.|She died young in a battle.|She had no family.
+44|2|It was the biggest and busiest port in the world.|It was built by the prince.|It was destroyed by a storm.
+44|3|To hate our enemies|The names of all the soldiers who died|To build more graves
+44|4|Famous leaders and the decisions they made|Wars and battles|Kings and royal families
+45|0|He became well informed and much calmer than before.|He became a journalist.|He stopped voting.
+45|1|Violent things happen more often than good things.|Journalists prefer sad stories.|Good news is illegal.
+45|2|Share it with friends.|Read the comments under the article to see what other people think.|Watch a documentary about it.
+45|4|Know nothing about the news.|Read news all day so you never miss an important story.|Only watch good news.
+46|0|She loved science more than any other subject.|The teacher forced her.|She wanted to win a prize.
+46|1|Building a small robot that could clean a pond|Measuring the temperature of a pond|Growing plants without soil
+46|2|They gave up and chose a different, easier experiment.|They asked the teacher to do it.|They bought a new filter.
+46|4|She would never be good at science, however hard she tried.|Robots are more interesting than water.|She should study engineering at university, like her friend Phong.
+47|0|It was exciting and modern, but too long.|It was easy to understand.|It was her favourite subject.
+47|1|A teacher's lesson about a poem by a famous classical poet|A poetry competition|A film about a poet's life
+47|2|A poem is always longer and more difficult to read.|A poem has a plot and chapters.|A poem is easier to write.
+47|3|To publish a book of poems and become a well-known poet one day|To win competitions|To make money
+47|4|Read only classical poets because they are the best.|Write a long poem.|Take a poetry course at a university or a small studio.
+48|0|How to become a farmer and keep bees in the countryside|Why horror stories are dangerous for young children|How to keep bees safely
+48|3|Funny jokes about her neighbours|Stories about her travels|History lessons
+48|4|She visits the cottage every weekend with her cousins.|She plays with her cousins.|She keeps bees on her balcony.
+49|0|A doctor's advice after a health check at work|A television programme about famous runners|A bet with his brother
+49|2|Increase it as fast as possible to finish the race sooner.|Distance does not matter.|Only run long distances.
+49|3|Stop and rest for ten minutes, then start again slowly.|Run faster to finish sooner.|Drink more water.
+49|4|Big goals are impossible for most people.|You should choose small goals only, because they are easier.|Big goals need big teams.
+50|0|Very organized and calm|Rich and relaxed|Afraid of flying
+50|1|He took a heavy suitcase so that he would have everything he might need.|He travelled with a big group.|He stayed in a luxury hotel.
+50|2|The hotel organized it for its guests.|He knew the bride.|He saw an advertisement.
+50|3|There was a big festival in the square.|He lost his passport again.|He missed his flight.
+51|1|The oven broke and he had to close the shop for a month.|The employees left.|The bank closed his account.
+51|2|The lowest price in the area|More types of cake and sweet bread|Home delivery
+51|3|It became cheaper than the large bakery on the street.|It opened 24 hours a day.|It sold only cakes.
+52|0|A lot of money from selling their house|Their own small business|Many relatives who already lived there
+52|1|She felt proud of her two cultures from an early age.|She felt more at home at school.|She did not notice any difference.
+52|2|Winning a rugby match for her school|Learning a new language|Visiting her parents' country for the first time
+52|3|She teaches history at a secondary school.|She works for an airline.|She organizes religious festivals for her community.
+52|4|It is too personal to ask a stranger.|She does not know the answer.|It is asked too often by her family.
+53|0|Clever students never needed to study very hard.|Group study was the best method.|Grades were not important.
+53|1|It takes too little time.|It is too difficult for most students to concentrate.|It damages your eyes.
+53|2|Copying long quotes into your notes|Highlighting every line in a different colour so you can find it later|Reading faster
+53|4|You should stop studying and find a job instead.|You should change your university.|Directions are hard to follow.
+54|0|They argued loudly at the dinner table.|They asked a friend to help.|They wrote letters to each other.
+54|1|He was often late for meetings with clients.|He was rude to customers.|He never shared his work.
+54|2|To win the argument|To avoid the other person in future|To show you are right
+54|3|"You are dishonest."|"You are a careless guy who never listens to anyone in this team."|"You never think about others."
+54|4|The colleague got angry and refused to talk about it.|The colleague left the company soon after the conversation.|Their manager joined the conversation.
+55|1|By guessing quickly|By asking the police what they think happened|By trusting her first impression of every person in the house
+55|2|He assumed the worst.|He stopped talking to her until she explained.|He asked another friend.
+55|3|Real life is simpler.|There are no crimes in real life.|Detectives in real life are smarter and always find the person who committed the crime.
+55|4|Memory for names and faces|Cooking|Public speaking

@@ -1,0 +1,47 @@
+94|0|A lesson on human rights given by a visiting lawyer at the academy|A political campaign at school|A photography competition
+94|1|The classmate did not want to attend lessons and blamed the building for it.|The science building was brand new.|The government had banned ramps.
+94|2|She left the school and continued the campaign from home.|She attacked the teacher publicly in the school magazine.|She stopped the campaign.
+94|3|Through one dramatic moment that changes everyone's mind|Through violent protest|Through luck
+94|4|make others look and dress the same.|pay others to help.|stop others from caring.
+95|0|Judge at the high court|Police officer|Politician
+95|1|Lawyers need more clients, and difficult cases bring them more money and fame.|All clients are innocent.|It is good for his reputation.
+95|3|Lawyers should own ships so they can travel to visit their clients abroad.|Cases always move slowly.|Public opinion is always right.
+95|4|Winning many famous cases in the highest courts of the country|Becoming a member of the legal assembly|Owning a beautiful office
+96|0|Unhappy and poor, with very little free time|Boring and quiet|Dangerous
+96|1|The writer got a promotion and a bigger bonus from his manager.|The client cancelled the contract.|The writer fainted.
+96|2|He had no money saved for emergencies.|His computer memory was full.|He had no friends left.
+96|3|He wanted to become a priest like the bishop.|He should move to the countryside forever.|He should work harder.
+96|4|Markets are always bad, because they only reward the people who are already rich.|Capitalism is perfect.|He has no opinion.
+97|0|She enjoyed them and often joined in to support her father's views.|She always agreed with her mother.|She recorded them for a TV studio.
+97|1|It had no budget at all, so the members argued about how to raise money.|The dean refused to meet them.|Too few students joined.
+97|2|Who is the real leader of this committee?|How much money do you need?|Why did you join the committee?
+97|3|Vote immediately so that the majority decides|Leave the room and come back the next day with a written report|Write a report
+98|0|Politics and corruption|International news|Business and the local economy
+98|1|With a tip from the police about a corrupt contractor|With a public complaint at a meeting|With a leaked video
+98|2|It always proves guilt if the numbers are large enough and come from official documents.|It is impossible to find.|It is the same as evidence.
+98|3|Journalists earn little money, so they must protect their reputation to get better jobs.|Credit cards are important for journalists.|Only famous reporters are trusted.
+98|4|The newspaper was closed after the councillor took the editor to court for the story.|The writer lost his job.|Nothing changed.
+99|2|How to pay for care without selling the family home|Who should live with him|Whether to tell the newspapers
+99|3|The sister made all the decisions with the doctors.|Nobody could change the plan.|The care worker decided everything.
+99|4|Grand declarations are most important, because they show people what we believe.|Paperwork matters more than wishes.|Love becomes weaker over time.
+100|0|Her teaching was ineffective and parents complained.|The school was losing money.|She broke a school rule.
+100|1|The school was rich but still paid its teachers well and treated them fairly.|The teacher was popular but had low results.|The head teacher was kind but strict.
+100|2|Witness statements from students and their parents|Videos of lessons recorded by the school|A letter from parents
+100|3|It proved the teacher was wrong about the reasons for her dismissal.|It helped the school.|It made the case shorter.
+100|4|Only through cruelty and violence|Through bad laws|Through lack of money
+101|0|By bus with her brothers and sisters|Her father drove her.|She studied at home.
+101|1|She studied abroad.|She did not pay any fees because of a scholarship.|She studied at night only.
+101|2|Medicine for the epidemic that killed hundreds|Evolutionary biology|Agriculture
+101|3|A scientific discovery about clean water that made her famous across the country|Becoming mayor|Making a documentary
+101|4|It was loud and angry, which made people listen to her.|It was secret.|It was supported by the government and the political establishment.
+102|0|In a war zone while filming|From an illness|In a plane crash
+102|1|The salary was too low for the dangerous work he did.|He wanted to retire.|He did not like travelling.
+102|3|Moving to a new city where nobody knew about the accident|Writing a book|Suing the driver
+102|4|Forgetting him completely so that the pain disappears more quickly over time|Keeping all his belongings|Never talking about him
+103|1|Write about his crime and explain why he did it.|Write a letter to his family.|Copy a famous poem.
+103|2|Fire and smoke|Water|A key
+103|3|Education level and reading ability|Family size|Age
+103|4|Prisons should be closed and replaced by schools.|All prisoners are innocent.|Writing classes are useless.
+104|1|To check the writer's language skills and understanding of the forms|To decide which hospital to use|To ask for money
+104|2|Proud and excited|Bored|Relieved
+104|3|From the hospital's new digital system|From a newspaper|From the surgeon

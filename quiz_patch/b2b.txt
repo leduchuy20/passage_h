@@ -1,0 +1,58 @@
+81|0|Habits are impossible to change once you become an adult, whatever you do.|Habits are good for everyone.|Only children can change habits.
+81|2|He used more willpower and tried hard not to open the apps.|He deleted his phone.|He asked a friend to hide his phone.
+81|3|The routine of scrolling|The app on his screen|Nothing at all
+81|4|It makes goals easier to reach in a short time.|It is required by researchers who study habits.|It makes rewards bigger.
+82|0|The job paid very little and she had to use her savings.|The writer could not speak the language.|The agency was not well known.
+82|1|When volunteers work too slowly in the clinic|When the weather is bad|When there is not enough money
+82|3|They won an international photography prize and were shown in a gallery abroad.|They were criticized by the agency.|They were sold to a magazine.
+82|4|Yes, definitely; she believes she changed the lives of most people in the region.|No, it was a waste of time.|She says the agency made no difference.
+83|0|To sell vegetables at the local market and make some extra money|Because the council asked her|To win a competition
+83|1|That gardens are too expensive for poor areas|That the land should be sold|That the residents were lazy
+83|2|Sold it to supermarkets in the district|Gave it to the council for its staff canteen|Threw it away
+83|3|It made him rich because he sold the vegetables.|His doctor told him to do it every day.|He liked the vegetables.
+83|4|New buildings|Money|Gardens
+84|1|To walk faster on the steep slopes|Because the boots were too big for him|To look neat
+84|2|Speed is the most important thing when you climb a mountain.|Mountains are dangerous for slow people.|You should always climb alone.
+84|4|He works as a mountain guide and rescue worker like his uncle.|He avoids difficult problems.|He goes hunting.
+85|0|A song she wrote about a popular TV show|A photo with a celebrity|A news article about her
+85|1|She stopped posting and her followers were disappointed.|A company stopped sponsoring her.|Her friends criticized her.
+85|2|Her account was hacked.|The platform did not allow it.|Her friends had copied it and posted it.
+85|4|it moves very fast around the world.|it is expensive.|everyone can see it at night, wherever they live.
+86|0|He was afraid of snow and cold weather.|He had a knee injury.|He lived in a hot country with no mountains.
+86|1|Ski wherever you want if you feel confident.|Always look back.|Ski fast to keep warm.
+86|2|He was angry and told the writer to be more careful near children.|He sent him back to the hotel.|He laughed loudly.
+86|3|Activities that are dangerous for people who have never done any sport before|Things that are illegal|Expensive products
+86|4|It is a professional photo taken by a film crew.|It was in a commercial.|His friend gave it to him.
+87|0|Her uncle owned the museum and offered her a job for the summer holidays.|She was the only applicant.|She won a competition.
+87|1|Selling tickets in the small wooden cabin in the garden|Cleaning the rooms|Managing the staff
+87|2|Stand above them so they listen and respect you.|Only talk to their parents.|Use difficult words.
+87|3|The one about health and diseases|The one about whales|The one about electricity
+87|4|Long and detailed|Funny and loud|Based on textbooks
+88|0|Became an economist at a bank|Started a business|Continued studying abroad
+88|1|The salary and the tips|The free food|The long hours
+88|3|To avoid difficulties whenever possible|To work longer hours|To read newspapers
+88|4|He was fired after a bad evaluation from his manager.|He was seasick.|His parents asked him to come home.
+89|0|Twins always think alike because they share the same genes.|Genetics decide everything about personality.|Twins should not live in different cities.
+89|1|They had the same hobbies until they went to university in different cities.|The brother was quieter.|The writer played guitar in bars.
+89|2|She asked them to write essays.|She took blood samples and studied their genes in a laboratory.|She interviewed their parents.
+89|3|He stopped talking to the family.|He moved away.|He became even angrier and refused to come to family events.
+89|4|They decide everything about who we are and what we like.|They are not important.|They only affect appearance.
+90|0|To travel around the world|To go back home immediately|To read his favourite books
+90|1|To win a prize|To lose weight|To become a professional runner
+90|3|Drinking energy gel every forty minutes|A stranger's advice|The cheering crowd
+90|4|A medal for finishing the race|Money for research|A faster time
+91|0|As friends and neighbours who needed help|As heroes|She had no opinion.
+91|1|The classes were too difficult for students who had never been to school.|They did not like the teacher.|They wanted to go home.
+91|2|Hunger and cold|Cold weather|Learning a new language
+91|3|They protested back and shouted at the protesters outside the centre.|They stopped coming to class.|They called the police.
+91|4|Migration should be stopped because integration is too difficult for everyone.|All refugees should get jobs immediately.|Governments should not regulate migration.
+92|0|For his job at an electronics company|To sell a product|To give a presentation
+92|1|He thought it was magnificent and wanted one for his own company.|He lost it.|He did not notice it.
+92|2|Serve coffee with a smile|Fly like a drone over the crowd|Speak Japanese
+92|3|She was famous and had won many prizes.|She gave free samples.|She spoke very quickly.
+92|4|It should replace people in dangerous jobs.|It is too dangerous.|It is boring.
+93|0|Train driver for a large company|Journalist|Police officer
+93|1|It was too expensive and the company did not have the budget for it.|The director did not like it.|It was illegal.
+93|2|Resign immediately|Speak to the families of the passengers|Write a public apology
+93|3|She could not find another job for more than a year and had to move.|The company sued her.|The director apologized to her.
+93|4|She earned a lot of money after leaving her job.|She found gold in her garden.|She became a teacher.

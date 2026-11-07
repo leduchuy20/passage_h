@@ -1,0 +1,30 @@
+=== 70 | B2 | Why I Changed the Way I Live for the Planet | Vì sao tôi thay đổi lối sống vì hành tinh
+EN:
+I grew up in a rural area surrounded by a vast landscape of rice fields and forests. Twenty years later, much of that landscape has been transformed. A massive factory has replaced the forest, the river is polluted and a long drought last year destroyed most of the local crops. Seeing this destruction with my own eyes made the climate crisis feel urgent and personal.
+
+Scientists have warned for decades that carbon emissions from fossil fuels are causing global warming through the greenhouse effect. The consequences are now widespread across the globe: extreme heat, floods, a decline in the oxygen-producing forests and the loss of habitat for countless species. Wildlife populations have decreased dramatically, and some experts believe that, unless we act, further damage is inevitable.
+
+At first, I felt helpless. The problem seemed too large, and globalization and excessive consumption seemed impossible to stop. But I realized that despair does not help anyone. Ultimately, every large change is made of many small decisions.
+
+So I adopted a more sustainable lifestyle. I eat mainly organic, locally grown food and much less meat, because modern agriculture, especially beef production, generates a considerable amount of greenhouse gas. My family installed solar panels, which convert sunlight into electricity and have reduced our energy bills significantly. I also joined a conservation initiative that works to restore damaged forests and preserve wetlands near my hometown.
+
+Of course, individual action has limits. To a large extent, the transition to clean energy depends on governments and businesses being willing to implement new policies, invest in green infrastructure and support innovation. Urban areas need better public transport; farmers need help to grow wheat and other crops in a changing climate. Consequently, I also vote for leaders who take environmental protection seriously.
+
+The scale of the threat is frightening, and it potentially threatens everything we care about. Yet I believe we can still ensure a liveable future, as long as we stop doing harm and start working together.
+VI:
+Tôi lớn lên ở một vùng nông thôn bao quanh bởi cảnh quan rộng lớn của đồng lúa và rừng cây. Hai mươi năm sau, phần lớn cảnh quan ấy đã bị biến đổi. Một nhà máy khổng lồ đã thay thế khu rừng, dòng sông bị ô nhiễm và một đợt hạn hán kéo dài năm ngoái đã phá hủy phần lớn mùa màng địa phương. Tận mắt chứng kiến sự tàn phá này khiến cuộc khủng hoảng khí hậu trở nên cấp bách và gần gũi với tôi.
+
+Các nhà khoa học đã cảnh báo hàng chục năm rằng khí thải carbon từ nhiên liệu hóa thạch đang gây ra sự nóng lên toàn cầu thông qua hiệu ứng nhà kính. Hậu quả giờ lan rộng khắp địa cầu: nắng nóng cực đoan, lũ lụt, sự suy giảm của những khu rừng tạo ra oxy và việc mất môi trường sống của vô số loài. Số lượng động vật hoang dã giảm mạnh, và một số chuyên gia tin rằng, nếu chúng ta không hành động, thiệt hại thêm là điều không thể tránh khỏi.
+
+Lúc đầu, tôi cảm thấy bất lực. Vấn đề có vẻ quá lớn, còn toàn cầu hóa và tiêu dùng quá mức dường như không thể ngăn lại. Nhưng tôi nhận ra rằng tuyệt vọng chẳng giúp được ai. Rốt cuộc, mọi thay đổi lớn đều được tạo nên từ nhiều quyết định nhỏ.
+
+Vì vậy tôi chọn một lối sống bền vững hơn. Tôi chủ yếu ăn thực phẩm hữu cơ trồng tại địa phương và ăn ít thịt hơn nhiều, vì nông nghiệp hiện đại, đặc biệt là chăn nuôi bò, tạo ra lượng khí nhà kính đáng kể. Gia đình tôi lắp tấm pin mặt trời, chuyển ánh nắng thành điện và đã giảm hóa đơn năng lượng đáng kể. Tôi cũng tham gia một sáng kiến bảo tồn nhằm phục hồi những khu rừng bị tàn phá và bảo vệ vùng đất ngập nước gần quê nhà.
+
+Tất nhiên, hành động cá nhân có giới hạn. Ở mức độ lớn, quá trình chuyển đổi sang năng lượng sạch phụ thuộc vào việc chính phủ và doanh nghiệp sẵn sàng thực thi chính sách mới, đầu tư vào cơ sở hạ tầng xanh và hỗ trợ đổi mới. Khu vực đô thị cần giao thông công cộng tốt hơn; nông dân cần được giúp đỡ để trồng lúa mì và các loại cây khác trong khí hậu đang thay đổi. Do đó, tôi cũng bỏ phiếu cho những nhà lãnh đạo coi trọng việc bảo vệ môi trường.
+
+Quy mô của mối đe dọa thật đáng sợ, và nó có khả năng đe dọa mọi thứ chúng ta trân trọng. Thế nhưng tôi tin chúng ta vẫn có thể đảm bảo một tương lai đáng sống, miễn là chúng ta ngừng gây hại và bắt đầu cùng nhau hành động.
+GR:
+To a large extent, ... :: "To a large extent, the transition ... depends on..." — ở mức độ lớn; biến thể: to some extent (ở mức độ nào đó).
+depend on + sb + V-ing :: "depends on governments and businesses being willing to..." — phụ thuộc vào việc ai đó làm gì.
+as long as + mệnh đề :: "as long as we stop doing harm" — miễn là.
+Consequently, ... :: Từ nối kết quả trang trọng (= As a result).

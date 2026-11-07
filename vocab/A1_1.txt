@@ -1,0 +1,900 @@
+a|một (mạo từ không xác định; dùng "an" trước nguyên âm)
+about|về; khoảng (chừng)
+above|ở trên, phía trên
+across|ngang qua, băng qua
+action|hành động
+activity|hoạt động
+actor|nam diễn viên
+actress|nữ diễn viên
+add|thêm vào, cộng
+address|địa chỉ
+adult|người lớn
+advice|lời khuyên (không đếm được)
+afraid|sợ, e ngại
+after|sau, sau khi
+afternoon|buổi chiều
+again|lại, lần nữa
+age|tuổi
+ago|cách đây (trước)
+agree|đồng ý
+air|không khí
+airport|sân bay
+all|tất cả
+also|cũng
+always|luôn luôn
+amazing|tuyệt vời, đáng kinh ngạc
+and|và
+angry|tức giận
+animal|động vật
+another|một cái khác, thêm một
+answer|câu trả lời; trả lời
+any|bất kỳ; nào (câu hỏi/phủ định)
+anyone|bất kỳ ai
+anything|bất cứ thứ gì
+apartment|căn hộ
+apple|quả táo
+april|tháng Tư
+area|khu vực
+arm|cánh tay
+around|xung quanh; khoảng
+arrive|đến nơi
+art|nghệ thuật
+article|bài báo
+artist|nghệ sĩ, họa sĩ
+as|như, với tư cách là
+ask|hỏi; yêu cầu
+at|ở, tại; vào lúc
+august|tháng Tám
+aunt|cô, dì, bác gái
+autumn|mùa thu
+away|đi xa, rời đi
+baby|em bé
+back|lưng; trở lại
+bad|tệ, xấu
+bag|túi, cặp
+ball|quả bóng
+banana|quả chuối
+band|ban nhạc
+bank:money|ngân hàng
+bath|bồn tắm; việc tắm
+bathroom|phòng tắm
+be|là, thì, ở
+beach|bãi biển
+beautiful|đẹp
+because|bởi vì
+become|trở thành
+bed|giường
+bedroom|phòng ngủ
+beer|bia
+before|trước, trước khi
+begin|bắt đầu
+beginning|sự bắt đầu, phần đầu
+behind|phía sau
+believe|tin, tin tưởng
+below|bên dưới
+best|tốt nhất
+better|tốt hơn
+between|ở giữa
+bicycle|xe đạp
+big|to, lớn
+bike|xe đạp (thân mật)
+bill|hóa đơn
+bird|con chim
+birthday|sinh nhật
+black|màu đen
+blog|blog, nhật ký trực tuyến
+blonde|tóc vàng
+blue|màu xanh dương
+boat|thuyền
+body|cơ thể
+book|quyển sách
+boot|giày ống, bốt
+bored|chán (cảm thấy)
+boring|nhàm chán (gây chán)
+born|được sinh ra (be born)
+both|cả hai
+bottle|cái chai
+box|cái hộp
+boy|cậu bé, con trai
+boyfriend|bạn trai
+bread|bánh mì
+break|làm vỡ; giờ giải lao
+breakfast|bữa sáng
+bring|mang đến
+brother|anh/em trai
+brown|màu nâu
+build|xây dựng
+building|tòa nhà
+bus|xe buýt
+business|kinh doanh; doanh nghiệp
+busy|bận rộn
+but|nhưng
+butter|bơ
+buy|mua
+by|bởi; bằng (phương tiện); gần
+bye|tạm biệt
+cafe|quán cà phê
+cake|bánh ngọt
+call|gọi; cuộc gọi
+camera|máy ảnh
+can1|có thể (động từ khuyết thiếu)
+cannot|không thể
+capital|thủ đô; chữ in hoa
+car|ô tô
+card|thẻ; thiệp
+career|sự nghiệp
+carrot|cà rốt
+carry|mang, bê, xách
+cat|con mèo
+cd|đĩa CD
+cent|xu (1/100 đô la/euro)
+centre|trung tâm
+century|thế kỷ
+chair|cái ghế
+change|thay đổi; sự thay đổi
+chart|biểu đồ
+cheap|rẻ
+check|kiểm tra
+cheese|phô mai
+chicken|con gà; thịt gà
+child|đứa trẻ (số nhiều: children)
+chocolate|sô-cô-la
+choose|chọn
+cinema|rạp chiếu phim
+city|thành phố
+class|lớp học
+classroom|phòng học
+clean|sạch; lau dọn
+climb|leo, trèo
+clock|đồng hồ (treo tường)
+close1|đóng; nhắm (mắt)
+clothes|quần áo
+club|câu lạc bộ
+coat|áo khoác dài
+coffee|cà phê
+cold|lạnh; cảm lạnh
+college|trường cao đẳng
+colour|màu sắc
+come|đến
+common|phổ biến, chung
+company|công ty
+compare|so sánh
+complete|hoàn thành; đầy đủ
+computer|máy tính
+concert|buổi hòa nhạc
+conversation|cuộc trò chuyện
+cook|nấu ăn
+cooking|việc nấu ăn
+cool|mát; tuyệt (thân mật)
+correct|đúng; sửa
+cost|giá; tốn (tiền)
+could|có thể (quá khứ của can; lời đề nghị lịch sự)
+country|đất nước; nông thôn
+course|khóa học
+cousin|anh chị em họ
+cow|con bò cái
+cream|kem (sữa, dưỡng da)
+create|tạo ra
+culture|văn hóa
+cup|cái tách
+customer|khách hàng
+cut|cắt
+dad|bố
+dance|nhảy, múa; điệu nhảy
+dancer|vũ công
+dancing|việc nhảy múa
+dangerous|nguy hiểm
+dark|tối
+date|ngày tháng; cuộc hẹn
+daughter|con gái
+day|ngày
+dear|thân mến (mở đầu thư)
+december|tháng Mười Hai
+decide|quyết định
+delicious|ngon
+describe|mô tả
+description|sự mô tả
+design|thiết kế
+desk|bàn học, bàn làm việc
+detail|chi tiết
+dialogue|cuộc đối thoại
+dictionary|từ điển
+die|chết
+diet|chế độ ăn
+difference|sự khác biệt
+different|khác nhau
+difficult|khó
+dinner|bữa tối
+dirty|bẩn
+discuss|thảo luận
+dish|món ăn; cái đĩa
+do|làm
+doctor|bác sĩ
+dog|con chó
+dollar|đô la
+door|cửa ra vào
+down|xuống
+downstairs|tầng dưới
+draw|vẽ
+dress|váy liền; mặc quần áo
+drink|uống; đồ uống
+drive|lái xe
+driver|tài xế
+during|trong suốt (khoảng thời gian)
+dvd|đĩa DVD
+each|mỗi
+ear|tai
+early|sớm
+east|phía đông
+easy|dễ
+eat|ăn
+egg|quả trứng
+eight|số tám
+eighteen|mười tám
+eighty|tám mươi
+elephant|con voi
+eleven|mười một
+else|khác (what else, someone else)
+email|thư điện tử; gửi email
+end|kết thúc; phần cuối
+enjoy|thích, tận hưởng
+enough|đủ
+euro|đồng euro
+even|thậm chí
+evening|buổi tối
+event|sự kiện
+ever|từng, bao giờ
+every|mọi, mỗi
+everybody|mọi người
+everyone|mọi người
+everything|mọi thứ
+exam|kỳ thi
+example|ví dụ
+excited|háo hức, phấn khích
+exciting|thú vị, hấp dẫn
+exercise|tập thể dục; bài tập
+expensive|đắt
+explain|giải thích
+extra|thêm, phụ
+eye|mắt
+face|khuôn mặt
+fact|sự thật, dữ kiện
+fall|ngã, rơi
+false|sai
+family|gia đình
+famous|nổi tiếng
+fantastic|tuyệt vời
+far|xa
+farm|trang trại
+farmer|nông dân
+fast|nhanh
+fat|béo
+father|bố, cha
+favourite|yêu thích nhất
+february|tháng Hai
+feel|cảm thấy
+feeling|cảm giác, cảm xúc
+festival|lễ hội
+few|vài, ít
+fifteen|mười lăm
+fifth|thứ năm (số thứ tự)
+fifty|năm mươi
+fill|làm đầy, lấp đầy
+film|phim
+final|cuối cùng
+find|tìm thấy
+fine|ổn, khỏe
+finish|hoàn thành, kết thúc
+fire|lửa; đám cháy
+first|thứ nhất, đầu tiên
+fish|cá; câu cá
+five|số năm
+flat|căn hộ (Anh-Anh)
+flight|chuyến bay
+floor|sàn nhà; tầng
+flower|bông hoa
+fly|bay
+follow|đi theo, làm theo
+food|thức ăn
+foot|bàn chân (số nhiều: feet)
+football|bóng đá
+for|cho, dành cho; trong (thời gian)
+forget|quên
+form|mẫu đơn; hình thành
+forty|bốn mươi
+four|số bốn
+fourteen|mười bốn
+fourth|thứ tư (số thứ tự)
+free|miễn phí; tự do, rảnh
+friday|thứ Sáu
+friend|bạn
+friendly|thân thiện
+from|từ
+front|phía trước
+fruit|trái cây
+full|đầy, no
+fun|niềm vui; vui
+funny|buồn cười, hài hước
+future|tương lai
+game|trò chơi; trận đấu
+garden|khu vườn
+geography|địa lý
+get|nhận, lấy; trở nên
+girl|cô gái, bé gái
+girlfriend|bạn gái
+give|cho, tặng
+glass|ly, cốc thủy tinh; kính
+go|đi
+good|tốt
+goodbye|tạm biệt
+grandfather|ông
+grandmother|bà
+grandparent|ông/bà
+great|tuyệt vời; lớn
+green|màu xanh lá
+grey|màu xám
+group|nhóm
+grow|lớn lên; trồng
+guess|đoán
+guitar|đàn guitar
+gym|phòng tập thể dục
+hair|tóc
+half|một nửa
+hand|bàn tay
+happen|xảy ra
+happy|vui vẻ, hạnh phúc
+hard|khó; chăm chỉ; cứng
+hat|cái mũ
+hate|ghét
+have|có
+have to|phải (bắt buộc)
+he|anh ấy, ông ấy
+head|đầu
+health|sức khỏe
+healthy|khỏe mạnh, lành mạnh
+hear|nghe thấy
+hello|xin chào
+help|giúp đỡ
+her|cô ấy (tân ngữ); của cô ấy
+here|ở đây
+hey|này! (gọi thân mật)
+hi|chào
+high|cao
+him|anh ấy (tân ngữ)
+his|của anh ấy
+history|lịch sử
+hobby|sở thích
+holiday|kỳ nghỉ, ngày lễ
+home|nhà; ở nhà
+homework|bài tập về nhà
+hope|hy vọng
+horse|con ngựa
+hospital|bệnh viện
+hot|nóng
+hotel|khách sạn
+hour|giờ, tiếng đồng hồ
+house|ngôi nhà
+how|như thế nào
+however|tuy nhiên
+hundred|trăm
+hungry|đói
+husband|chồng
+i|tôi
+ice|băng, đá
+ice cream|kem
+idea|ý tưởng
+if|nếu
+imagine|tưởng tượng
+important|quan trọng
+improve|cải thiện
+in|trong, ở
+include|bao gồm
+information|thông tin (không đếm được)
+interest|sự quan tâm; sở thích
+interested|quan tâm, hứng thú (be interested in)
+interesting|thú vị
+internet|mạng internet
+interview|cuộc phỏng vấn; phỏng vấn
+into|vào trong
+introduce|giới thiệu
+island|hòn đảo
+it|nó
+its|của nó
+jacket|áo khoác
+january|tháng Một
+jeans|quần jeans
+job|công việc
+join|tham gia
+journey|hành trình
+juice|nước ép
+july|tháng Bảy
+june|tháng Sáu
+just|chỉ; vừa mới
+keep|giữ
+key|chìa khóa; then chốt
+kilometre|ki-lô-mét
+kind:type|loại, kiểu
+kitchen|nhà bếp
+know|biết
+land|đất, đất liền
+language|ngôn ngữ
+large|lớn
+last:final|cuối cùng; trước (last year)
+late|muộn
+later|sau đó, muộn hơn
+laugh|cười (thành tiếng)
+learn|học
+leave|rời đi; để lại
+left|bên trái
+leg|chân
+lesson|bài học, tiết học
+let|để cho, cho phép
+letter|lá thư; chữ cái
+library|thư viện
+lie1|nằm
+life|cuộc sống
+light:lamp|ánh sáng; đèn
+like:prep|giống như
+like:enjoy|thích
+line|đường kẻ; hàng; tuyến
+lion|sư tử
+list|danh sách; liệt kê
+listen|lắng nghe
+little|nhỏ; một chút
+live1|sống
+local|địa phương
+long|dài; lâu
+look|nhìn; trông có vẻ
+lose|mất; thua
+lot|nhiều (a lot of)
+love|yêu; tình yêu
+lunch|bữa trưa
+machine|máy móc
+magazine|tạp chí
+main|chính
+make|làm, tạo ra
+man|người đàn ông
+many|nhiều (danh từ đếm được)
+map|bản đồ
+March|tháng Ba
+market|chợ; thị trường
+married|đã kết hôn
+match|trận đấu; khớp với
+May|tháng Năm
+maybe|có lẽ
+me|tôi (tân ngữ)
+meal|bữa ăn
+mean|có nghĩa là; ý muốn nói
+meaning|ý nghĩa
+meat|thịt
+meet|gặp
+meeting|cuộc họp
+member|thành viên
+menu|thực đơn
+message|tin nhắn
+metre|mét
+midnight|nửa đêm
+mile|dặm
+milk|sữa
+million|triệu
+minute1|phút
+miss|nhớ; lỡ
+mistake|lỗi sai
+model|người mẫu; mô hình
+modern|hiện đại
+moment|khoảnh khắc
+monday|thứ Hai
+money|tiền
+month|tháng
+more|nhiều hơn
+morning|buổi sáng
+most|nhiều nhất; hầu hết
+mother|mẹ
+mountain|ngọn núi
+mouse|con chuột; chuột máy tính
+mouth|miệng
+move|di chuyển; chuyển nhà
+movie|bộ phim
+much|nhiều (không đếm được)
+mum|mẹ
+museum|bảo tàng
+music|âm nhạc
+must|phải
+my|của tôi
+name|tên
+natural|tự nhiên
+near|gần
+need|cần
+negative|tiêu cực
+neighbour|hàng xóm
+never|không bao giờ
+new|mới
+news|tin tức
+newspaper|tờ báo
+next|tiếp theo
+next to|bên cạnh
+nice|đẹp, tốt, dễ chịu
+night|ban đêm
+nine|số chín
+nineteen|mười chín
+ninety|chín mươi
+no|không
+no one|không ai
+nobody|không ai
+north|phía bắc
+nose|cái mũi
+not|không
+note|ghi chú
+nothing|không có gì
+november|tháng Mười Một
+now|bây giờ
+number|số
+nurse|y tá
+object|đồ vật
+o’clock|giờ đúng (six o’clock)
+october|tháng Mười
+of|của
+off|tắt; rời khỏi
+office|văn phòng
+often|thường xuyên
+oh|ôi, ồ
+ok|được, ổn
+old|già; cũ
+on|trên; vào (ngày)
+once|một lần; đã từng
+one|một
+onion|hành tây
+online|trực tuyến
+only|chỉ
+open|mở
+opinion|ý kiến
+opposite|đối diện; trái ngược
+or|hoặc
+orange|quả cam; màu cam
+order|gọi món; đặt hàng; thứ tự
+other|khác
+our|của chúng tôi
+out|ra ngoài
+outside|bên ngoài
+over|qua; trên; kết thúc
+own|của riêng
+page|trang
+paint|sơn; vẽ (màu)
+painting|bức tranh; việc vẽ
+pair|đôi, cặp
+paper|giấy
+paragraph|đoạn văn
+parent|cha/mẹ
+park|công viên; đỗ xe
+part|phần
+partner|bạn đời; đối tác
+party|bữa tiệc; đảng
+passport|hộ chiếu
+past|quá khứ; qua
+pay|trả tiền
+pen|bút mực
+pencil|bút chì
+people|mọi người
+pepper|hạt tiêu
+perfect|hoàn hảo
+period|giai đoạn, thời kỳ
+person|người
+personal|cá nhân
+phone|điện thoại
+photo|bức ảnh
+photograph|bức ảnh (trang trọng)
+phrase|cụm từ
+piano|đàn piano
+picture|bức tranh, hình ảnh
+piece|mảnh, miếng
+pig|con lợn
+pink|màu hồng
+place|nơi chốn
+plan|kế hoạch; lên kế hoạch
+plane|máy bay
+plant|cây; trồng
+play|chơi; vở kịch
+player|người chơi, cầu thủ
+please|làm ơn
+point|điểm; ý
+police|cảnh sát (danh từ tập thể)
+policeman|nam cảnh sát
+pool|hồ bơi
+poor|nghèo; tội nghiệp
+popular|phổ biến, được ưa chuộng
+positive|tích cực
+possible|có thể
+post|bưu phẩm; đăng (bài)
+potato|khoai tây
+pound|bảng Anh; pao
+practice|sự luyện tập (danh từ)
+practise|luyện tập (động từ, Anh-Anh)
+prefer|thích hơn
+prepare|chuẩn bị
+present|món quà; hiện tại
+pretty|xinh; khá (trạng từ)
+price|giá
+probably|có lẽ
+problem|vấn đề
+product|sản phẩm
+programme|chương trình
+project|dự án
+purple|màu tím
+put|đặt, để
+quarter|một phần tư; 15 phút
+question|câu hỏi
+quick|nhanh
+quickly|một cách nhanh chóng
+quiet|yên tĩnh
+quite|khá
+radio|đài phát thanh
+rain|mưa
+read|đọc
+reader|người đọc
+reading|việc đọc
+ready|sẵn sàng
+real|thật
+really|thật sự
+reason|lý do
+red|màu đỏ
+relax|thư giãn
+remember|nhớ
+repeat|lặp lại
+report|báo cáo
+restaurant|nhà hàng
+result|kết quả
+return|trở về
+rice|gạo, cơm
+rich|giàu
+ride|cưỡi, đi (xe)
+right|đúng; bên phải
+river|dòng sông
+road|con đường
+room|phòng
+routine|thói quen hằng ngày
+rule|quy tắc
+run|chạy
+sad|buồn
+salad|rau trộn
+salt|muối
+same|giống nhau
+sandwich|bánh mì kẹp
+saturday|thứ Bảy
+say|nói
+school|trường học
+science|khoa học
+scientist|nhà khoa học
+sea|biển
+second:next|thứ hai (số thứ tự)
+second:time|giây
+section|phần, mục
+see|nhìn thấy
+sell|bán
+send|gửi
+sentence|câu
+september|tháng Chín
+seven|số bảy
+seventeen|mười bảy
+seventy|bảy mươi
+share|chia sẻ
+she|cô ấy
+sheep|con cừu (số nhiều không đổi)
+shirt|áo sơ mi
+shoe|giày
+shop|cửa hàng; mua sắm
+shopping|việc mua sắm
+short|ngắn; thấp
+should|nên
+show|cho xem; chương trình
+shower|vòi sen; tắm vòi sen
+sick|ốm
+similar|tương tự
+sing|hát
+singer|ca sĩ
+sister|chị/em gái
+sit|ngồi
+situation|tình huống
+six|số sáu
+sixteen|mười sáu
+sixty|sáu mươi
+skill|kỹ năng
+skirt|chân váy
+sleep|ngủ
+slow|chậm
+small|nhỏ
+snake|con rắn
+snow|tuyết
+so|vì vậy; rất
+some|một vài, một ít
+somebody|ai đó
+someone|ai đó
+something|cái gì đó
+sometimes|thỉnh thoảng
+son|con trai
+song|bài hát
+soon|sớm, chẳng bao lâu
+sorry|xin lỗi; tiếc
+sound|âm thanh; nghe có vẻ
+soup|súp, canh
+south|phía nam
+space|không gian; chỗ trống
+speak|nói
+special|đặc biệt
+spell|đánh vần, viết chính tả
+spelling|chính tả
+spend|tiêu (tiền); dành (thời gian)
+sport|thể thao
+spring|mùa xuân
+stand|đứng
+star|ngôi sao
+start|bắt đầu
+statement|lời tuyên bố, câu khẳng định
+station|nhà ga, trạm
+stay|ở lại
+still|vẫn
+stop|dừng lại
+story|câu chuyện
+street|đường phố
+strong|mạnh, khỏe
+student|học sinh, sinh viên
+study|học; nghiên cứu
+style|phong cách
+subject|môn học; chủ đề
+success|sự thành công
+sugar|đường
+summer|mùa hè
+sun|mặt trời
+sunday|Chủ nhật
+supermarket|siêu thị
+sure|chắc chắn
+sweater|áo len
+swim|bơi
+swimming|môn bơi
+table|cái bàn
+take|lấy; mang; mất (thời gian)
+talk|nói chuyện
+tall|cao
+taxi|xe taxi
+tea|trà
+teach|dạy
+teacher|giáo viên
+team|đội, nhóm
+teenager|thiếu niên (13–19 tuổi)
+telephone|điện thoại
+television|tivi
+tell|kể, bảo
+ten|số mười
+tennis|quần vợt
+terrible|kinh khủng
+test|bài kiểm tra
+text|văn bản; tin nhắn
+than|hơn (so sánh)
+thank|cảm ơn
+thanks|cảm ơn (thân mật)
+that|cái đó; rằng
+the|(mạo từ xác định)
+theatre|nhà hát
+their|của họ
+them|họ (tân ngữ)
+then|sau đó
+there|ở đó
+they|họ
+thing|đồ vật, điều
+think|nghĩ
+third|thứ ba
+thirsty|khát
+thirteen|mười ba
+thirty|ba mươi
+this|cái này
+thousand|nghìn
+three|số ba
+through|xuyên qua; thông qua
+thursday|thứ Năm
+ticket|vé
+time|thời gian; lần
+tired|mệt
+title|tiêu đề
+to|đến; để (to + V)
+today|hôm nay
+together|cùng nhau
+toilet|nhà vệ sinh
+tomato|cà chua
+tomorrow|ngày mai
+tonight|tối nay
+too|cũng; quá
+tooth|răng (số nhiều: teeth)
+topic|chủ đề
+tourist|khách du lịch
+town|thị trấn
+traffic|giao thông
+train|tàu hỏa
+travel|du lịch, đi lại
+tree|cây
+trip|chuyến đi
+trousers|quần dài
+true|đúng, thật
+try|cố gắng; thử
+t-shirt|áo phông
+tuesday|thứ Ba
+turn|rẽ; bật/tắt (turn on/off)
+tv|tivi
+twelve|mười hai
+twenty|hai mươi
+twice|hai lần
+two|số hai
+type|loại; gõ (phím)
+umbrella|cái ô
+uncle|chú, bác, cậu
+under|dưới
+understand|hiểu
+university|trường đại học
+until|cho đến khi
+up|lên
+upstairs|tầng trên
+us|chúng tôi (tân ngữ)
+use|sử dụng
+useful|hữu ích
+usually|thường thường
+vacation|kỳ nghỉ (Anh-Mỹ)
+vegetable|rau
+very|rất
+video|video
+village|làng
+visit|thăm
+visitor|khách tham quan
+wait|chờ đợi
+waiter|bồi bàn
+wake|thức dậy (wake up)
+walk|đi bộ
+wall|bức tường
+want|muốn
+warm|ấm áp
+wash|rửa, giặt
+watch|xem; đồng hồ đeo tay
+water|nước
+way|cách; con đường
+we|chúng tôi, chúng ta
+wear|mặc, đeo
+weather|thời tiết
+website|trang web
+wednesday|thứ Tư
+week|tuần
+weekend|cuối tuần
+welcome|chào mừng
+well|tốt, giỏi
+west|phía tây
+what|cái gì
+when|khi nào; khi
+where|ở đâu
+which|cái nào
+white|màu trắng
+who|ai
+why|tại sao
+wife|vợ
+will|sẽ
+win|thắng
+window|cửa sổ
+wine|rượu vang
+winter|mùa đông
+with|với
+without|không có
+woman|người phụ nữ
+wonderful|tuyệt vời
+word|từ
+work|làm việc; công việc
+worker|công nhân
+world|thế giới
+would|sẽ (quá khứ của will); muốn (would like)
+write|viết
+writer|nhà văn
+writing|việc viết, bài viết
+wrong|sai
+yeah|ừ (thân mật)
+year|năm
+yellow|màu vàng
+yes|vâng, có
+yesterday|hôm qua
+you|bạn
+young|trẻ
+your|của bạn
+yourself|chính bạn

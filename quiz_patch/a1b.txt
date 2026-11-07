@@ -1,0 +1,26 @@
+1|2|Coffee is too expensive at the university café.|The writer does not like the taste.|The doctor said coffee is bad for students.
+2|0|A big apartment in the city makes a family happy.|Grandparents should live in the city.|Brothers and sisters often disagree about TV.
+2|4|get very angry and shout at him.|tell his grandmother about it.|do not say anything at all.
+3|3|He stops talking and changes the topic.|He uses his phone to translate it quickly.|He asks Lan to say it for him.
+4|4|One healthy meal can change your whole life forever.|You should not choose your own food too often.|Small meals are always better than big meals.
+5|2|He went back to the hotel and slept for the afternoon.|He took a taxi to the market to buy gifts.|He stayed inside the museum until evening.
+6|0|His parents owned the cafe and asked him to help them there.|He wanted to open his own cafe one day soon.|He could not find a job in an office in town.
+6|1|He broke many cups and glasses in the kitchen.|He arrived an hour late for work.|He lost some of the cafe's money.
+6|3|He spent all of it on new clothes and shoes for university.|He gave all of it to his family.|He used it to travel in the summer.
+7|0|Cleaning a room is boring, but everyone has to do it every week.|The writer really wants to move to a bigger bedroom.|You should give all your old clothes to your family.
+7|4|She earns more money in her new job at the office.|She has stopped buying new clothes and books completely.|Her cousin gives her the things she needs.
+8|3|He stopped doing sport because he has no time.|He only plays tennis at the weekend.|He goes to the gym late at night.
+8|4|A healthy and strong body|Many new friends|A job as a coach
+9|2|It is the month of her birthday and her mother's birthday.|She goes to the beach with her family.|She visits her aunt in the north.
+9|3|She forgot about it completely.|The weather was too bad to go out.|She was too busy at work.
+10|0|How to become a successful farmer in the mountains today|Dangerous wild animals in the countryside|Why life in cities is better than in villages
+10|2|He was too afraid to try.|The horse ran away into the fields.|He won a race against his grandfather.
+11|1|About one hour a day|About two hours a day, mostly in bed|Only at the weekend
+11|4|He hates it and wants to stop using it.|He is afraid of what it is doing to people and to children.|He thinks most of it is completely useless.
+13|3|Hoa's father|Hoa's boyfriend's colleague|The dancer
+14|0|Which university in the city is the best?|Should he move to another city?|How can he become rich?
+14|2|It is boring and nothing really happens.|He loves helping sick people in the hospital at night.|He is not rich, but he does what he loves.
+15|2|City lights and tall buildings|Snow on the high mountains in the north|A big airport
+15|3|Afraid, lonely and a bit cold|Bored and tired|Excited and noisy
+16|0|Students should study until two in the morning before exams.|Doctors always give good advice.|Computers are dangerous.
+16|4|He calls his doctor and asks for some advice.|He goes to sleep for an hour.|He ignores it and keeps studying until it goes away.

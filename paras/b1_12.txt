@@ -1,0 +1,39 @@
+=== 56 | B1 | An Interview with an Architect | Cuộc phỏng vấn một kiến trúc sư
+EN:
+Last week, a radio reporter interviewed Mr Hai, a ninety-year-old architect and businessman, about his long career. Here is part of their dialogue.
+
+Reporter: Thank you for joining us, sir. Shall we start with your childhood?
+Mr Hai: Yeah, of course. I was born in a small fishing village. My birth was recorded in a book at the local temple, because there was no proper government office then. My father was a worker on the railway and earned a modest [living], and my mother was a chef in a little pub near the station.
+
+Reporter: How did you become an architect?
+Mr Hai: Ah, that is a surprising story. I was not a good student. I could barely spell, and mathematics was a nightmare. But I loved drawing buildings. One day, the director of a building company saw my drawings and gave me permission to work in his office. I cleaned the floors, made tea and listened. That was my real introduction to the profession.
+
+Reporter: Your buildings are famous for their simple, original features. What is your secret?
+Mr Hai: I suppose it is this: a building must serve the individual people who use it. Many architects design for magazines and advertising. I design for the old lady who has to climb the stairs, the child who needs space to play and the family that wants a quiet, tidy home. Good design is not about power or possessions. It is about everyday life.
+
+Reporter: You have designed buildings in several states and for a population of millions. Are you pleased with your achievements?
+Mr Hai: Pleased, yes. But I definitely made mistakes. Some of my early projects were too expensive. Anyway, mistakes are the best teachers, if you are able to recognize them.
+
+Reporter: Finally, what advice would you give our listeners?
+Mr Hai: Do not wait for the perfect moment. Knock on doors, ask questions and keep learning, even at ninety.
+VI:
+Tuần trước, một phóng viên đài phát thanh đã phỏng vấn ông Hải, một kiến trúc sư kiêm doanh nhân chín mươi tuổi, về sự nghiệp lâu dài của ông. Dưới đây là một phần cuộc đối thoại.
+
+Phóng viên: Cảm ơn ông đã tham gia cùng chúng tôi. Chúng ta bắt đầu với tuổi thơ của ông nhé?
+Ông Hải: Vâng, tất nhiên rồi. Tôi sinh ra ở một làng chài nhỏ. Việc tôi ra đời được ghi vào một cuốn sổ ở ngôi đền địa phương, vì hồi đó chưa có cơ quan nhà nước đàng hoàng. Bố tôi là công nhân đường sắt, kiếm sống khiêm tốn, còn mẹ tôi là đầu bếp ở một quán rượu nhỏ gần nhà ga.
+
+Phóng viên: Ông đã trở thành kiến trúc sư như thế nào?
+Ông Hải: À, đó là một câu chuyện bất ngờ. Tôi không phải là học sinh giỏi. Tôi viết chính tả còn chưa ra hồn, và môn toán là một cơn ác mộng. Nhưng tôi thích vẽ các tòa nhà. Một ngày, giám đốc một công ty xây dựng nhìn thấy bản vẽ của tôi và cho phép tôi làm việc trong văn phòng của ông. Tôi lau sàn, pha trà và lắng nghe. Đó là bước làm quen thực sự của tôi với nghề.
+
+Phóng viên: Các công trình của ông nổi tiếng với những nét đơn giản, độc đáo. Bí quyết của ông là gì?
+Ông Hải: Tôi cho rằng đó là: một tòa nhà phải phục vụ từng con người cụ thể sử dụng nó. Nhiều kiến trúc sư thiết kế cho tạp chí và quảng cáo. Tôi thiết kế cho bà cụ phải leo cầu thang, cho đứa trẻ cần không gian để chơi và cho gia đình muốn một ngôi nhà yên tĩnh, gọn gàng. Thiết kế tốt không phải là quyền lực hay của cải. Nó là cuộc sống hằng ngày.
+
+Phóng viên: Ông đã thiết kế công trình ở nhiều bang và cho hàng triệu dân. Ông có hài lòng với những thành tựu của mình không?
+Ông Hải: Hài lòng thì có. Nhưng chắc chắn tôi đã mắc sai lầm. Một số dự án ban đầu của tôi quá tốn kém. Dù sao thì, sai lầm là người thầy tốt nhất, nếu bạn có khả năng nhận ra chúng.
+
+Phóng viên: Cuối cùng, ông có lời khuyên gì cho thính giả của chúng tôi?
+Ông Hải: Đừng chờ thời điểm hoàn hảo. Hãy gõ cửa, đặt câu hỏi và không ngừng học hỏi, kể cả khi đã chín mươi tuổi.
+GR:
+Shall we + V? :: "Shall we start with your childhood?" — lời đề nghị lịch sự (Chúng ta ... nhé?).
+give sb permission to + V :: "gave me permission to work in his office" — cho phép ai làm gì.
+I suppose ... / Anyway, ... :: Cụm hội thoại tự nhiên: I suppose (tôi cho rằng), Anyway (dù sao thì) để chuyển ý.

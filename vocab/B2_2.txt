@@ -1,0 +1,698 @@
+absorb|hấp thụ|absorb water; absorb information|absorption (n)
+abstract|trừu tượng|abstract idea; abstract art|abstraction (n)
+accent|giọng (vùng miền)|a strong accent|
+accidentally|vô tình|accidentally break sth|accident (n), accidental (adj)
+accommodate|cung cấp chỗ ở; đáp ứng|accommodate guests|accommodation (n)
+accomplish|hoàn thành|accomplish a goal|accomplishment (n)
+accountant|kế toán viên|hire an accountant|account (n)
+accuracy|độ chính xác|with great accuracy|accurate (adj)
+accurately|chính xác|measure accurately|accurate (adj)
+acid|axit|citric acid; acid rain|acidic (adj)
+activate|kích hoạt|activate an alarm|activation (n), active (adj)
+addiction|sự nghiện|drug addiction; addiction to sth|addict (n), addictive (adj)
+additionally|thêm vào đó|Additionally, ...|addition (n)
+adequate|đầy đủ|adequate food|adequately (adv), inadequate (adj)
+adequately|đầy đủ|adequately prepared|adequate (adj)
+adjust|điều chỉnh|adjust to sth|adjustment (n)
+affordable|giá phải chăng|affordable housing|afford (v)
+agriculture|nông nghiệp|modern agriculture|agricultural (adj)
+aids|bệnh AIDS|fight against AIDS|
+alien|người ngoài hành tinh; xa lạ|alien life|
+alongside|bên cạnh, cùng với|work alongside sb|
+altogether|hoàn toàn; tổng cộng|altogether different|
+ambulance|xe cứu thương|call an ambulance|
+amusing|thú vị, buồn cười|an amusing story|amuse (v)
+analyst|nhà phân tích|financial analyst|analyse (v)
+ancestor|tổ tiên|our ancestors|ancestral (adj)
+animation|hoạt hình|computer animation|animate (v)
+annually|hằng năm|held annually|annual (adj)
+anticipate|dự đoán trước|anticipate problems|anticipation (n)
+anxiety|sự lo âu|suffer from anxiety|anxious (adj)
+apology|lời xin lỗi|a letter of apology|apologize (v)
+applicant|người nộp đơn|job applicant|apply (v)
+appropriately|phù hợp|dress appropriately|appropriate (adj)
+arrow|mũi tên|follow the arrows|
+artwork|tác phẩm nghệ thuật|original artwork|
+aside|sang một bên|stand aside; put aside|
+asset|tài sản|a valuable asset|
+assign|phân công|assign a task|assignment (n)
+assistance|sự hỗ trợ|financial assistance|assist (v)
+assumption|giả định|make an assumption|assume (v)
+assure|cam đoan|assure sb that...|assurance (n)
+astonishing|đáng kinh ngạc|astonishing success|astonish (v)
+attachment|tệp đính kèm; sự gắn bó|email attachment|attach (v)
+auction|cuộc đấu giá|sell at auction|
+audio|âm thanh|audio guide|
+automatic|tự động|automatic doors|automatically (adv)
+automatically|một cách tự động|update automatically|automatic (adj)
+awareness|nhận thức|raise awareness|aware (adj)
+awkward|ngượng ngùng; vụng về|awkward silence|awkwardly (adv)
+badge|huy hiệu, thẻ tên|name badge|
+balanced|cân bằng|a balanced diet|balance (n)
+ballet|múa ba lê|ballet dancer|
+balloon|bóng bay|blow up a balloon|
+barely|hầu như không|barely walk|bare (adj)
+bargain|món hời|get a bargain|
+basement|tầng hầm|in the basement|
+basket|cái giỏ|shopping basket|
+bat|con dơi; gậy (bóng chày)|baseball bat|
+beneficial|có lợi|beneficial effects|benefit (n)
+beside|bên cạnh|sit beside sb|
+besides|ngoài ra|besides that|
+bias|thiên kiến|unconscious bias|biased (adj)
+bid|nỗ lực; trả giá|make a bid for|
+biological|thuộc sinh học|biological process|biology (n)
+blanket|cái chăn|wool blanket|
+bold|táo bạo; in đậm|a bold decision|boldly (adv)
+bombing|vụ đánh bom|a bombing campaign|bomb (n, v)
+booking|sự đặt chỗ|make a booking|book (v)
+boost|thúc đẩy|boost confidence|
+bound|chắc chắn (be bound to)|be bound to happen|
+brick|gạch|brick wall|
+briefly|ngắn gọn|explain briefly|brief (adj)
+broadcaster|đài truyền hình; phát thanh viên|public broadcaster|broadcast (v)
+broadly|nhìn chung|broadly speaking|broad (adj)
+bug|lỗi phần mềm; con bọ|fix a bug|
+cabin|cabin; nhà gỗ nhỏ|log cabin|
+canal|kênh đào|walk along the canal|
+candle|cây nến|light a candle|
+carbon|cacbon|carbon emissions|
+casual|giản dị, thoải mái|casual clothes|casually (adv)
+cave|hang động|explore a cave|
+certainty|sự chắc chắn|with certainty|certain (adj)
+certificate|chứng chỉ|birth certificate|certify (v)
+challenging|đầy thử thách|a challenging task|challenge (n)
+championship|giải vô địch|world championship|champion (n)
+charming|duyên dáng|a charming smile|charm (n)
+chase|đuổi theo|chase a dream|
+cheek|má|kiss on the cheek|cheeky (adj)
+cheer|reo hò; cổ vũ|cheer up; cheer for a team|cheerful (adj)
+choir|dàn hợp xướng|sing in a choir|
+chop|chặt, thái|chop vegetables|
+circuit|mạch điện; đường đua|electric circuit|
+civilization|nền văn minh|ancient civilization|civil (adj)
+clarify|làm rõ|clarify a point|clarity (n)
+classify|phân loại|classify information|classification (n)
+clerk|nhân viên văn phòng|bank clerk|
+cliff|vách đá|steep cliffs|
+clinic|phòng khám|health clinic|clinical (adj)
+clip|đoạn phim ngắn; cái kẹp|video clip|
+coincidence|sự trùng hợp|by coincidence|coincide (v)
+collector|nhà sưu tầm|art collector|collect (v)
+colony|thuộc địa|former colony|colonial (adj)
+colourful|sặc sỡ|colourful clothes|colour (n)
+comic|truyện tranh; hài hước|comic book|comedy (n)
+commander|chỉ huy|military commander|command (n)
+comparative|so sánh|comparative study|compare (v)
+completion|sự hoàn thành|on completion|complete (v)
+compose|sáng tác; soạn|compose music|composer (n), composition (n)
+composer|nhà soạn nhạc|famous composer|compose (v)
+compound|hợp chất|chemical compound|
+comprehensive|toàn diện|comprehensive guide|
+comprise|bao gồm|be comprised of|
+compulsory|bắt buộc|compulsory education|
+concrete|bê tông; cụ thể|concrete example|
+confess|thú nhận|confess to a crime|confession (n)
+confusion|sự bối rối|cause confusion|confuse (v)
+consequently|do đó|Consequently, ...|consequence (n)
+conservation|sự bảo tồn|wildlife conservation|conserve (v)
+considerable|đáng kể|considerable amount|considerably (adv)
+considerably|đáng kể|considerably better|considerable (adj)
+consistently|nhất quán|consistently high|consistent (adj)
+conspiracy|âm mưu|conspiracy theory|
+consult|tham khảo ý kiến|consult a doctor|consultant (n), consultation (n)
+consultant|chuyên gia tư vấn|business consultant|consult (v)
+consumption|sự tiêu thụ|energy consumption|consume (v)
+controversial|gây tranh cãi|controversial issue|controversy (n)
+controversy|cuộc tranh cãi|cause controversy|controversial (adj)
+convenience|sự tiện lợi|for convenience|convenient (adj)
+convention|hội nghị; quy ước|social convention|conventional (adj)
+conventional|thông thường, truyền thống|conventional methods|convention (n)
+convey|truyền đạt|convey a message|
+convincing|thuyết phục|convincing argument|convince (v)
+cope|đối phó|cope with stress|
+corporation|tập đoàn|multinational corporation|corporate (adj)
+corridor|hành lang|long corridor|
+counter:surface|quầy|kitchen counter|
+coverage|sự đưa tin|media coverage|cover (v)
+crack|vết nứt; nứt|crack in the wall|
+craft|nghề thủ công|arts and crafts|craftsman (n)
+creativity|sự sáng tạo|encourage creativity|creative (adj)
+critically|một cách phê phán; nghiêm trọng|critically ill|critical (adj)
+cruise|chuyến du ngoạn trên biển|go on a cruise|
+cue|tín hiệu, gợi ý|take a cue from|
+curious|tò mò|curious about|curiosity (n)
+curriculum|chương trình học|national curriculum|
+cute|dễ thương|a cute puppy|
+dairy|sữa và chế phẩm|dairy products|
+dare|dám|dare to do sth|daring (adj)
+darkness|bóng tối|in darkness|dark (adj)
+database|cơ sở dữ liệu|online database|
+deadline|hạn chót|meet a deadline|
+deadly|chết người|deadly disease|dead (adj)
+dealer|người buôn bán|car dealer|deal (v)
+deck|boong tàu|on deck|
+defender|hậu vệ; người bảo vệ|central defender|defend (v)
+delete|xóa|delete a file|
+democracy|nền dân chủ|live in a democracy|democratic (adj)
+democratic|dân chủ|democratic elections|democracy (n)
+demonstration|cuộc biểu tình; sự minh họa|peaceful demonstration|demonstrate (v)
+depart|khởi hành|depart from|departure (n)
+dependent|phụ thuộc|dependent on|dependence (n)
+deposit|tiền đặt cọc; tiền gửi|pay a deposit|
+depression|trầm cảm; suy thoái|suffer from depression|depressed (adj)
+derive|bắt nguồn; thu được|derive from|
+desperately|tuyệt vọng; vô cùng|desperately need|desperate (adj)
+destruction|sự phá hủy|mass destruction|destroy (v)
+determination|sự quyết tâm|with determination|determined (adj)
+devote|cống hiến|devote time to sth|devotion (n)
+differ|khác nhau|differ from|difference (n)
+disability|khuyết tật|people with disabilities|disabled (adj)
+disabled|bị khuyết tật|disabled access|disability (n)
+disagreement|sự bất đồng|have a disagreement|disagree (v)
+disappoint|làm thất vọng|disappoint sb|disappointment (n)
+disappointment|sự thất vọng|to my disappointment|disappoint (v)
+discourage|làm nản lòng|discourage sb from|encourage (v)
+disorder|rối loạn|eating disorder; anxiety disorder|
+distant|xa xôi|distant future|distance (n)
+distinct|riêng biệt|distinct difference|distinction (n), distinctive (adj)
+distinguish|phân biệt|distinguish between A and B|distinction (n)
+distract|làm xao nhãng|distract sb from|distraction (n)
+disturb|làm phiền|do not disturb|disturbing (adj)
+dive|lặn; nhảy xuống nước|dive into the sea|diver (n)
+diverse|đa dạng|culturally diverse|diversity (n)
+diversity|sự đa dạng|cultural diversity|diverse (adj)
+divorce|ly hôn|get a divorce|divorced (adj)
+dominant|chiếm ưu thế|dominant position|dominate (v)
+donation|sự quyên góp|make a donation|donate (v)
+dot|dấu chấm|a small dot|
+downtown|trung tâm thành phố (Mỹ)|downtown area|
+dramatically|đột ngột, mạnh mẽ|change dramatically|dramatic (adj)
+drought|hạn hán|severe drought|
+dull|buồn tẻ|a dull job|
+dump|đổ bỏ; bãi rác|rubbish dump|
+duration|khoảng thời gian|for the duration of|
+dynamic|năng động|dynamic person|
+economics|kinh tế học|study economics|economist (n)
+economist|nhà kinh tế học|leading economist|economics (n)
+editorial|bài xã luận; thuộc biên tập|editorial team|editor (n)
+efficiently|hiệu quả|work efficiently|efficient (adj)
+elbow|khuỷu tay|elbow injury|
+electronics|ngành điện tử|consumer electronics|electronic (adj)
+elegant|thanh lịch|elegant dress|elegance (n)
+elementary|sơ cấp, cơ bản|elementary school|element (n)
+eliminate|loại bỏ|eliminate mistakes|elimination (n)
+embrace|ôm; đón nhận|embrace change|
+emission|khí thải|carbon emissions|emit (v)
+emotionally|về mặt cảm xúc|emotionally exhausted|emotional (adj)
+empire|đế chế|Roman Empire|
+enjoyable|thú vị|enjoyable experience|enjoy (v)
+entertaining|mang tính giải trí|entertaining show|entertain (v)
+entrepreneur|doanh nhân khởi nghiệp|young entrepreneur|enterprise (n)
+envelope|phong bì|seal an envelope|
+equip|trang bị|be equipped with|equipment (n)
+equivalent|tương đương|equivalent to|
+era|thời đại|a new era|
+erupt|phun trào|the volcano erupted|eruption (n)
+essentially|về cơ bản|essentially the same|essential (adj)
+ethic|đạo đức (nghề nghiệp)|work ethic|ethical (adj)
+ethnic|thuộc sắc tộc|ethnic group|ethnicity (n)
+evaluation|sự đánh giá|performance evaluation|evaluate (v)
+evident|hiển nhiên|it is evident that|evidence (n)
+evolution|sự tiến hóa|theory of evolution|evolve (v)
+evolve|tiến hóa|evolve over time|evolution (n)
+exceed|vượt quá|exceed expectations|excess (n)
+exception|ngoại lệ|without exception|exceptional (adj)
+excessive|quá mức|excessive use|excess (n)
+exclude|loại trừ|exclude sb from|exclusion (n)
+exhibit|trưng bày; vật trưng bày|on exhibit|exhibition (n)
+exit|lối ra|emergency exit|
+exotic|kỳ lạ, ngoại lai|exotic food|
+expansion|sự mở rộng|business expansion|expand (v)
+expertise|chuyên môn|technical expertise|expert (n)
+exploit|lợi dụng, khai thác|exploit workers|exploitation (n)
+exposure|sự tiếp xúc; sự phơi bày|sun exposure|expose (v)
+extension|sự gia hạn; mở rộng|contract extension|extend (v)
+extensive|rộng lớn|extensive research|extensively (adv)
+extensively|rộng rãi|travel extensively|extensive (adj)
+extract|trích xuất; đoạn trích|extract information|extraction (n)
+fabric|vải|cotton fabric|
+fabulous|tuyệt vời|fabulous time|
+failed|thất bại|a failed business|fail (v)
+fake|giả|fake ID|
+fame|danh tiếng|rise to fame|famous (adj)
+fantasy|giả tưởng|fantasy novel|fantastic (adj)
+fare|giá vé|bus fare|
+federal|liên bang|federal government|
+fever|cơn sốt|have a fever|
+firefighter|lính cứu hỏa|brave firefighters|
+firework|pháo hoa|fireworks display|
+firmly|kiên quyết|firmly believe|firm (adj)
+flavour|hương vị|strong flavour|
+fond|thích, quý mến|be fond of|fondness (n)
+fool|kẻ ngốc|make a fool of yourself|foolish (adj)
+forbid|cấm|forbid sb to do sth|forbidden (adj)
+forecast|dự báo|weather forecast|
+format|định dạng|file format|
+formation|sự hình thành|formation of personality|form (v)
+formerly|trước đây|formerly known as|former (adj)
+fortunate|may mắn|feel fortunate|fortunately (adv)
+forum|diễn đàn|online forum|
+fossil|hóa thạch|fossil fuels|
+foundation|nền tảng; quỹ|lay the foundation|found (v)
+founder|người sáng lập|company founder|found (v)
+fraction|phần nhỏ|a fraction of|
+fragment|mảnh vỡ|fragment of a film|fragmented (adj)
+framework|khuôn khổ|legal framework|
+fraud|sự lừa đảo|commit fraud|fraudulent (adj)
+freely|tự do|speak freely|free (adj)
+frequent|thường xuyên|frequent trips|frequently (adv)
+fulfil|hoàn thành; thỏa mãn|fulfil a dream|fulfilment (n)
+full-time|toàn thời gian|full-time job|part-time (adj)
+fundamentally|về cơ bản|fundamentally different|fundamental (adj)
+furious|giận dữ|furious with sb|fury (n)
+gaming|chơi game|online gaming|game (n)
+gay|đồng tính|gay rights|
+gender|giới tính|gender equality|
+gene|gen|carry a gene|genetic (adj)
+genetic|thuộc di truyền|genetic disease|gene (n)
+genius|thiên tài|a musical genius|
+genuine|chân thật|genuine interest|genuinely (adv)
+genuinely|thật lòng|genuinely sorry|genuine (adj)
+gesture|cử chỉ|a kind gesture|
+gig|buổi biểu diễn nhỏ|play a gig|
+globalization|toàn cầu hóa|effects of globalization|global (adj)
+globe|địa cầu|across the globe|global (adj)
+golden|bằng vàng; quý giá|golden ring; golden opportunity|gold (n)
+goodness|lòng tốt|goodness of heart|good (adj)
+gorgeous|tuyệt đẹp|gorgeous meal|
+governor|thống đốc|state governor|govern (v)
+graphic|thuộc đồ họa|graphic design|graphics (n)
+graphics|đồ họa|computer graphics|graphic (adj)
+greatly|rất nhiều|greatly appreciate|great (adj)
+greenhouse|nhà kính|greenhouse effect|
+grocery|cửa hàng tạp hóa; hàng tạp hóa|grocery list|
+guideline|hướng dẫn|follow the guidelines|guide (n)
+habitat|môi trường sống|natural habitat|
+harbour|bến cảng|boats in the harbour|
+headquarters|trụ sở chính|company headquarters|
+heal|chữa lành|heal a wound|healing (n)
+healthcare|chăm sóc sức khỏe|healthcare system|health (n)
+helmet|mũ bảo hiểm|wear a helmet|
+hence|vì thế|hence the name|
+herb|rau thơm, thảo mộc|fresh herbs|herbal (adj)
+hidden|ẩn giấu|hidden cave|hide (v)
+highway|đường cao tốc|on the highway|
+hilarious|cực kỳ buồn cười|a hilarious joke|
+hip|hông|hip injury|
+historian|nhà sử học|a local historian|history (n)
+homeless|vô gia cư|homeless people|
+honesty|sự trung thực|honesty is the best policy|honest (adj)
+hook|móc; đoạn bắt tai|hook of a song|
+hopefully|hy vọng là|Hopefully, ...|hopeful (adj)
+hunger|cơn đói|die of hunger|hungry (adj)
+hypothesis|giả thuyết|test a hypothesis|hypothetical (adj)
+icon|biểu tượng|desktop icon|iconic (adj)
+id|giấy tờ tùy thân|show your ID|identity (n)
+identical|giống hệt|identical twins|
+illusion|ảo tưởng|an illusion of control|
+immigration|sự nhập cư|immigration policy|immigrant (n)
+immune|miễn dịch|immune system|immunity (n)
+implement|thực hiện|implement a policy|implementation (n)
+implication|hàm ý|serious implications|imply (v)
+incentive|sự khuyến khích|financial incentive|
+incorporate|kết hợp, lồng ghép|incorporate ideas|
+incorrect|sai|incorrect information|correct (adj)
+independence|sự độc lập|gain independence|independent (adj)
+index|chỉ mục|price index|
+indication|dấu hiệu|a clear indication|indicate (v)
+inevitable|không thể tránh khỏi|it is inevitable that|inevitably (adv)
+inevitably|tất yếu|inevitably, ...|inevitable (adj)
+infer|suy ra|infer from|inference (n)
+inflation|lạm phát|high inflation|
+info|thông tin (thân mật)|more info|information (n)
+infrastructure|cơ sở hạ tầng|green infrastructure|
+inhabitant|cư dân|local inhabitants|inhabit (v)
+inherit|thừa hưởng|inherit genes|inheritance (n)
+ink|mực|ink drawing|
+innovation|sự đổi mới|technological innovation|innovative (adj)
+innovative|sáng tạo, đổi mới|innovative design|innovation (n)
+input|đầu vào|data input|output (n)
+insert|chèn vào|insert a card|insertion (n)
+inspector|thanh tra|police inspector|inspect (v)
+installation|sự lắp đặt|software installation|install (v)
+instant|ngay lập tức|instant reply|instantly (adv)
+instantly|ngay lập tức|recognize instantly|instant (adj)
+integrate|hòa nhập; tích hợp|integrate into society|integration (n)
+intellectual|trí thức; thuộc trí tuệ|intellectual property|intellect (n)
+interact|tương tác|interact with others|interaction (n)
+interaction|sự tương tác|social interaction|interact (v)
+interpretation|sự diễn giải|interpretation of data|interpret (v)
+interval|khoảng (thời gian)|at regular intervals|
+invade|xâm lược; xâm phạm|invade a country|invasion (n)
+invasion|cuộc xâm lược; sự xâm phạm|invasion of privacy|invade (v)
+investor|nhà đầu tư|foreign investors|invest (v)
+isolate|cô lập|isolate sb|isolation (n)
+isolated|bị cô lập|feel isolated|isolate (v)
+jail|nhà tù|go to jail|
+jet|máy bay phản lực|private jet|
+joint|chung; khớp|joint project; knee joint|
+journalism|nghề báo|study journalism|journalist (n)
+jury|bồi thẩm đoàn|the jury decided|
+kit|bộ dụng cụ|first-aid kit|
+ladder|cái thang|climb a ladder|
+landing|sự hạ cánh|safe landing|land (v)
+lane|làn đường; ngõ|narrow lane|
+lately|gần đây|lately, ...|late (adj)
+leaflet|tờ rơi|hand out leaflets|
+legend|truyền thuyết; huyền thoại|according to legend|legendary (adj)
+lens|thấu kính, ống kính|camera lens|
+lifetime|cả đời|once in a lifetime|
+lighting|ánh sáng (hệ thống)|good lighting|light (n)
+likewise|tương tự|Likewise, ...|
+limitation|giới hạn|know your limitations|limit (n)
+literally|theo nghĩa đen|literally shaking|literal (adj)
+literary|thuộc văn học|literary work|literature (n)
+litre|lít|two litres of water|
+litter|rác (vứt bừa bãi)|pick up litter|
+logo|biểu trưng|company logo|
+lottery|xổ số|win the lottery|
+loyal|trung thành|loyal friend|loyalty (n)
+lyric|lời bài hát|song lyrics|
+magnificent|tráng lệ|magnificent view|
+make-up|đồ trang điểm|wear make-up|
+making|sự tạo ra|decision making; the making of|make (v)
+manufacture|sản xuất|manufacture goods|manufacturer (n)
+manufacturing|ngành sản xuất|manufacturing industry|manufacture (v)
+marathon|cuộc chạy marathon|run a marathon|
+margin|lề; biên độ|profit margin|marginal (adj)
+marker|bút dạ|whiteboard marker|mark (v)
+martial|thuộc võ thuật, quân sự|martial arts|
+mate|bạn (thân mật)|my best mate|
+mayor|thị trưởng|elect a mayor|
+mechanic|thợ máy|car mechanic|mechanical (adj)
+mechanical|thuộc cơ khí|mechanical parts|mechanic (n)
+mechanism|cơ chế|defence mechanism|
+medal|huy chương|gold medal|
+medication|thuốc men|take medication|medicine (n)
+membership|tư cách thành viên|gym membership|member (n)
+memorable|đáng nhớ|memorable moment|memory (n)
+metaphor|ẩn dụ|use a metaphor|metaphorical (adj)
+miner|thợ mỏ|coal miner|mine (n)
+miserable|khổ sở|feel miserable|misery (n)
+mode|chế độ|crisis mode|
+modest|khiêm tốn|modest income|modesty (n)
+monster|quái vật|scary monster|
+monthly|hằng tháng|monthly salary|month (n)
+monument|tượng đài|historic monument|
+moreover|hơn nữa|Moreover, ...|
+mortgage|khoản vay mua nhà|pay off a mortgage|
+mosque|thánh đường Hồi giáo|visit a mosque|
+motion|chuyển động|in slow motion|
+motivate|thúc đẩy|motivate sb to do sth|motivation (n)
+motivation|động lực|lack of motivation|motivate (v)
+moving|cảm động|a moving story|move (v)
+myth|thần thoại; chuyện hoang đường|Greek myths|mythical (adj)
+naked|trần truồng|the naked eye|
+nasty|khó chịu, tồi tệ|nasty comment|
+navigation|sự định hướng|satellite navigation|navigate (v)
+nearby|gần đó|a nearby shop|
+necessity|sự cần thiết|basic necessity|necessary (adj)
+negotiate|đàm phán|negotiate a deal|negotiation (n)
+negotiation|cuộc đàm phán|peace negotiations|negotiate (v)
+neutral|trung lập|stay neutral|
+newly|mới|newly built|new (adj)
+norm|chuẩn mực|social norms|normal (adj)
+notebook|sổ tay|write in a notebook|
+novelist|tiểu thuyết gia|famous novelist|novel (n)
+nowadays|ngày nay|Nowadays, ...|
+nursing|ngành điều dưỡng|nursing home|nurse (n)
+nutrition|dinh dưỡng|good nutrition|nutritional (adj)
+obesity|béo phì|childhood obesity|obese (adj)
+observer|người quan sát|an outside observer|observe (v)
+obstacle|chướng ngại|overcome obstacles|
+occupation|nghề nghiệp; sự chiếm đóng|occupation: teacher|occupy (v)
+occupy|chiếm|occupy a building|occupation (n)
+offender|người phạm tội|young offenders|offence (n)
+ongoing|đang diễn ra|ongoing conflict|
+openly|công khai|speak openly|open (adj)
+opera|nhạc kịch opera|opera house|
+operator|người vận hành|machine operator|operate (v)
+optimistic|lạc quan|optimistic about|optimism (n)
+orchestra|dàn nhạc|symphony orchestra|
+organic|hữu cơ|organic food|
+outfit|bộ trang phục|a new outfit|
+output|đầu ra; sản lượng|industrial output|input (n)
+outstanding|xuất sắc|outstanding performance|
+overcome|vượt qua|overcome fear|
+overnight|qua đêm; chỉ sau một đêm|stay overnight|
+overseas|nước ngoài|travel overseas|
+ownership|quyền sở hữu|home ownership|own (v)
+oxygen|khí oxy|oxygen mask|
+packet|gói nhỏ|a packet of crisps|pack (n)
+palm|lòng bàn tay; cây cọ|palm of your hand|
+panic|hoảng loạn|don't panic|
+parade|cuộc diễu hành|street parade|
+parallel|song song|run parallel to|
+participation|sự tham gia|active participation|participate (v)
+partnership|quan hệ đối tác|in partnership with|partner (n)
+part-time|bán thời gian|part-time job|full-time (adj)
+passionate|say mê|passionate about|passion (n)
+password|mật khẩu|change your password|
+patience|sự kiên nhẫn|lose patience|patient (adj)
+pause|tạm dừng|pause for a moment|
+peer|bạn đồng trang lứa|peer pressure|
+penalty|hình phạt; quả phạt đền|pay a penalty|
+perceive|nhận thức, cảm nhận|perceive as|perception (n)
+perception|nhận thức|public perception|perceive (v)
+permanently|vĩnh viễn|permanently damaged|permanent (adj)
+pill|viên thuốc|take a pill|
+pity|sự thương hại; đáng tiếc|what a pity|
+placement|vị trí thực tập|work placement|place (v)
+portion|phần|a large portion|
+potentially|có khả năng|potentially dangerous|potential (adj)
+precede|đi trước|the weeks that preceded|precedent (n)
+precious|quý giá|precious time|
+precise|chính xác|precise details|precisely (adv), precision (n)
+precisely|chính xác|precisely because|precise (adj)
+predictable|có thể đoán trước|predictable results|predict (v)
+preference|sự ưa thích hơn|personal preference|prefer (v)
+pride|niềm tự hào|take pride in|proud (adj)
+primarily|chủ yếu|primarily because|primary (adj)
+principal|chính; hiệu trưởng|principal reason|
+prior|trước (prior to)|prior to that|priority (n)
+probability|xác suất|high probability|probable (adj)
+probable|có thể xảy ra|probable cause|probably (adv)
+proceed|tiến hành|proceed with|procedure (n)
+programming|lập trình|computer programming|program (n)
+progressive|tiến bộ; tăng dần|progressive disease|progress (n)
+prohibit|cấm|prohibit sb from|prohibition (n)
+promising|đầy hứa hẹn|a promising start|promise (v)
+promotion|sự thăng chức; khuyến mãi|get a promotion|promote (v)
+prompt|thúc đẩy; nhanh chóng|prompt a reaction|promptly (adv)
+proportion|tỷ lệ|a large proportion of|proportional (adj)
+protein|chất đạm|high in protein|
+protester|người biểu tình|peaceful protesters|protest (v)
+psychological|thuộc tâm lý|psychological effects|psychology (n)
+publicity|sự quảng bá, chú ý của công chúng|attract publicity|public (n)
+publishing|ngành xuất bản|publishing house|publish (v)
+punk|nhạc punk|punk rock|
+purely|hoàn toàn, thuần túy|purely academic|pure (adj)
+pursuit|sự theo đuổi|pursuit of happiness|pursue (v)
+puzzle|câu đố|solve a puzzle|puzzled (adj)
+questionnaire|bảng câu hỏi|fill in a questionnaire|
+racial|thuộc chủng tộc|racial equality|race (n)
+racism|phân biệt chủng tộc|fight racism|racist (adj, n)
+racist|phân biệt chủng tộc (người/hành vi)|racist comments|racism (n)
+radiation|phóng xạ|nuclear radiation|
+rail|đường ray|by rail|railway (n)
+random|ngẫu nhiên|at random|randomly (adv)
+rat|con chuột cống|lab rats|
+rating|sự đánh giá, xếp hạng|five-star rating|rate (v)
+reasonably|khá; hợp lý|reasonably good|reasonable (adj)
+rebuild|xây lại|rebuild your life|build (v)
+receiver|ống nghe; bộ thu|signal receiver|receive (v)
+recession|suy thoái kinh tế|economic recession|
+reckon|nghĩ, cho rằng|I reckon...|
+recognition|sự công nhận|gain recognition|recognize (v)
+recovery|sự hồi phục|make a full recovery|recover (v)
+recruit|tuyển dụng|recruit staff|recruitment (n)
+recruitment|sự tuyển dụng|recruitment process|recruit (v)
+referee|trọng tài|football referee|
+refugee|người tị nạn|refugee camp|refuge (n)
+registration|sự đăng ký|online registration|register (v)
+regulate|điều tiết|regulate the market|regulation (n)
+reinforce|củng cố|reinforce a habit|
+relieve|làm dịu|relieve pain|relief (n)
+relieved|nhẹ nhõm|feel relieved|relieve (v)
+remarkable|đáng chú ý|remarkable progress|remarkably (adv)
+remarkably|đáng kể|remarkably calm|remarkable (adj)
+reporting|việc đưa tin|news reporting|report (v)
+resign|từ chức|resign from a job|resignation (n)
+resolution|quyết tâm; giải pháp|New Year's resolution|resolve (v)
+restore|khôi phục|restore trust|restoration (n)
+restrict|hạn chế|restrict access|restriction (n)
+restriction|sự hạn chế|travel restrictions|restrict (v)
+retail|bán lẻ|retail sector|retailer (n)
+retirement|sự nghỉ hưu|early retirement|retire (v)
+revenue|doanh thu|tax revenue|
+revision|sự ôn tập; chỉnh sửa|exam revision|revise (v)
+ridiculous|lố bịch|ridiculous idea|
+risky|rủi ro|risky decision|risk (n)
+rival|đối thủ|rival team|rivalry (n)
+rob|cướp|rob a bank|robbery (n)
+robbery|vụ cướp|armed robbery|rob (v)
+rocket|tên lửa|launch a rocket|
+romance|chuyện tình|holiday romance|romantic (adj)
+rose|hoa hồng|a red rose|
+roughly|khoảng chừng|roughly 20%|rough (adj)
+ruin|hủy hoại|ruin your life|
+satisfaction|sự hài lòng|job satisfaction|satisfy (v)
+scandal|vụ bê bối|political scandal|
+scare|làm sợ|scare sb|scared (adj), scary (adj)
+scenario|kịch bản, tình huống|worst-case scenario|
+scholar|học giả|a respected scholar|scholarship (n)
+scholarship|học bổng|win a scholarship|scholar (n)
+scratch|cào, làm xước|from scratch|
+screening|sự sàng lọc; chiếu phim|cancer screening|screen (v)
+seeker|người tìm kiếm|asylum seeker; job seeker|seek (v)
+seminar|hội thảo|attend a seminar|
+settler|người định cư|early settlers|settle (v)
+severely|nghiêm trọng|severely injured|severe (adj)
+sexy|gợi cảm|sexy advert|sex (n)
+shaped|có hình dạng|heart-shaped|shape (n)
+shocking|gây sốc|shocking news|shock (n)
+shore|bờ biển|on the shore|
+shortage|sự thiếu hụt|water shortage|short (adj)
+shortly|ngay sau, chẳng bao lâu|shortly afterwards|short (adj)
+short-term|ngắn hạn|short-term goals|long-term (adj)
+sibling|anh chị em ruột|older sibling|
+signature|chữ ký|sign your signature|sign (v)
+significance|tầm quan trọng|historical significance|significant (adj)
+skilled|lành nghề|skilled worker|skill (n)
+skull|hộp sọ|skull injury|
+slogan|khẩu hiệu|advertising slogan|
+so-called|cái gọi là|so-called experts|
+somehow|bằng cách nào đó|somehow, ...|
+sometime|vào lúc nào đó|sometime next week|
+sophisticated|tinh vi, phức tạp|sophisticated technology|
+spare|dư, rảnh|spare time|
+specialize|chuyên về|specialize in|specialist (n)
+specify|nêu rõ|specify details|specification (n)
+spectacular|ngoạn mục|spectacular view|spectacle (n)
+spectator|khán giả (thể thao)|thousands of spectators|
+speculate|suy đoán|speculate about|speculation (n)
+speculation|sự suy đoán|media speculation|speculate (v)
+spice|gia vị|spice shop|spicy (adj)
+spill|làm đổ|spill water|
+spite|bất chấp (in spite of)|in spite of everything|
+spoil|làm hỏng; chiều hư|spoil the fun|
+spokesman|người phát ngôn (nam)|government spokesman|
+spokesperson|người phát ngôn|company spokesperson|
+spokeswoman|người phát ngôn (nữ)|police spokeswoman|
+sponsorship|sự tài trợ|corporate sponsorship|sponsor (v)
+sporting|thuộc thể thao|sporting event|sport (n)
+stall|gian hàng|market stall|
+stance|lập trường|take a stance on|
+starve|chết đói|starve to death|starvation (n)
+steadily|đều đặn|grow steadily|steady (adj)
+steam|hơi nước|steam engine|
+stimulate|kích thích|stimulate growth|stimulus (n)
+strengthen|củng cố|strengthen ties|strength (n)
+strictly|nghiêm ngặt|strictly forbidden|strict (adj)
+stroke|đột quỵ; nét vẽ|have a stroke|
+stunning|tuyệt đẹp|stunning view|stun (v)
+subsequent|tiếp theo|subsequent events|subsequently (adv)
+subsequently|sau đó|subsequently, ...|subsequent (adj)
+suburb|ngoại ô|live in the suburbs|suburban (adj)
+suffering|nỗi đau khổ|human suffering|suffer (v)
+sufficient|đủ|sufficient evidence|sufficiently (adv)
+sufficiently|đủ|sufficiently rested|sufficient (adj)
+super|tuyệt vời (thân mật)|a super idea|
+surgeon|bác sĩ phẫu thuật|heart surgeon|surgery (n)
+survival|sự sống còn|fight for survival|survive (v)
+survivor|người sống sót|cancer survivor|survive (v)
+suspend|đình chỉ, treo|suspend a player|suspension (n)
+sustainable|bền vững|sustainable development|sustain (v)
+swallow|nuốt; chim én|swallow water|
+sympathetic|đồng cảm|sympathetic to|sympathy (n)
+tackle|giải quyết; truy cản|tackle a problem|
+tag|thẻ, nhãn|name tag|
+tap|gõ nhẹ; vòi nước|tap the screen|
+technological|thuộc công nghệ|technological progress|technology (n)
+teens|tuổi thiếu niên|in her teens|teenager (n)
+temple|ngôi đền|ancient temple|
+temporarily|tạm thời|temporarily closed|temporary (adj)
+tendency|xu hướng|have a tendency to|tend (v)
+tension|sự căng thẳng|reduce tension|tense (adj)
+terminal|nhà ga (sân bay)|airport terminal|
+terms|điều khoản; về mặt|in terms of; terms and conditions|
+terribly|vô cùng; tệ|terribly sorry|terrible (adj)
+terrify|làm khiếp sợ|terrify sb|terrifying (adj)
+territory|lãnh thổ|enemy territory|
+terror|nỗi kinh hoàng; khủng bố|in terror|terrorism (n)
+terrorism|chủ nghĩa khủng bố|fight terrorism|terrorist (n)
+terrorist|kẻ khủng bố|terrorist attack|terrorism (n)
+testing|sự thử nghiệm|product testing|test (v)
+textbook|sách giáo khoa|maths textbook|
+theft|vụ trộm|identity theft|thief (n)
+therapist|nhà trị liệu|see a therapist|therapy (n)
+thesis|luận văn|write a thesis|
+thorough|kỹ lưỡng|thorough check|thoroughly (adv)
+thoroughly|kỹ lưỡng|thoroughly clean|thorough (adj)
+thumb|ngón cái|thumbs up|
+timing|thời điểm|perfect timing|time (n)
+tissue|mô; khăn giấy|brain tissue|
+ton|tấn (Anh/Mỹ); rất nhiều|tons of emails|
+tonne|tấn (mét)|thousands of tonnes|
+tournament|giải đấu|tennis tournament|
+trace|dấu vết; lần ra|without trace; trace the call|
+trading|sự buôn bán|stock trading|trade (v)
+tragedy|bi kịch|a terrible tragedy|tragic (adj)
+tragic|bi thảm|tragic accident|tragedy (n)
+trait|đặc điểm (tính cách)|personality trait|
+transmit|truyền|transmit a signal|transmission (n)
+transportation|giao thông vận tải|public transportation|transport (v)
+trap|bẫy; mắc kẹt|feel trapped|
+treasure|kho báu|buried treasure|
+tribe|bộ lạc|hill tribe|tribal (adj)
+trigger|kích hoạt|trigger memories|
+trillion|nghìn tỷ|a trillion dollars|
+troop|quân lính|send troops|
+tsunami|sóng thần|a tsunami hit the coast|
+ultimate|cuối cùng, tối thượng|ultimate goal|ultimately (adv)
+unacceptable|không thể chấp nhận|unacceptable behaviour|acceptable (adj)
+uncertainty|sự bất định|deal with uncertainty|certain (adj)
+undergo|trải qua|undergo treatment|
+undertake|đảm nhận|undertake a task|
+unfold|diễn ra; mở ra|events unfold|
+unfortunate|không may|an unfortunate accident|unfortunately (adv)
+unite|đoàn kết|unite people|unity (n)
+unity|sự thống nhất|national unity|unite (v)
+universal|phổ quát|universal truth|universe (n)
+urgent|khẩn cấp|urgent need|urgency (n)
+usage|cách dùng, mức sử dụng|data usage|use (v)
+useless|vô dụng|feel useless|useful (adj)
+valid|hợp lệ, có giá trị|valid reason|validity (n)
+variation|sự biến đổi|slight variation|vary (v)
+vertical|thẳng đứng|vertical wall|horizontal (adj)
+viewpoint|quan điểm|from my viewpoint|
+visa|thị thực|apply for a visa|
+visible|có thể nhìn thấy|clearly visible|invisible (adj)
+voluntary|tự nguyện|voluntary work|volunteer (n)
+voting|việc bỏ phiếu|voting system|vote (v)
+wander|đi lang thang|wander around|
+warming|sự nóng lên|global warming|warm (adj)
+weekly|hằng tuần|weekly meeting|week (n)
+weird|kỳ quặc|weird feeling|
+welfare|phúc lợi|social welfare|
+wheat|lúa mì|wheat fields|
+whoever|bất cứ ai|whoever wins|
+widespread|lan rộng|widespread support|
+wisdom|sự khôn ngoan|words of wisdom|wise (adj)
+withdraw|rút lui; rút (tiền)|withdraw money|withdrawal (n)
+workforce|lực lượng lao động|skilled workforce|
+workplace|nơi làm việc|in the workplace|
+workshop|xưởng; buổi hội thảo thực hành|attend a workshop|
+worm|con giun|earthworm|
+wrist|cổ tay|wrist watch|

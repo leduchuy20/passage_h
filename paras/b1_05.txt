@@ -1,0 +1,25 @@
+=== 48 | B1 | Summers at My Aunt's Cottage | Những mùa hè ở căn nhà tranh của dì
+EN:
+In my youth, I spent every summer at my aunt's cottage in the countryside. It was a tiny wooden house with a leaking roof, an old garage full of rusty tins, pots, pipes, nails and rope, and a garden that seemed giant to a child. Those summers taught me more about life than any classroom.
+
+My aunt was a farmer and an artist. In the morning, she showed me how to plant seeds in the dark, wet soil and how to collect grain after the harvest. She kept bees, and I learned to stay silent and calm so they would not bite me. In the afternoon, she made coloured cloth from wool and cotton, and she decorated the walls with photos in leather frames that she hung on strings and pins.
+
+There was plenty of leisure time, too. My cousins and I explored the forest, climbed branches and collected leaves, shells and smooth stones from the [bank|bank:river] of the river. We tied a rope to a tree, rolled down the hill and kicked a ball until the sun disappeared. Sometimes we spotted a fox with red fur and a long tail, or a bird with shiny wings. In winter, the river froze, and the frozen surface shone like glass.
+
+At night, we sat indoors near the coal fire and told frightening stories about ghosts and imaginary monsters hunting in the dark. My aunt loved horror and mystery stories, and she was very good at frightening us. Yet in the morning, at first sight of the sun, every fear disappeared.
+
+Those peaceful, relaxing days gave me a sharp sense of what really matters: simple work, outdoor play, time with family and a deep respect for nature. Today, when city life feels too fast, I close my eyes and return, in spirit, to that little cottage at the edge of the forest.
+VI:
+Thời trẻ, tôi dành mọi mùa hè ở căn nhà tranh của dì tôi ở vùng quê. Đó là một căn nhà gỗ nhỏ xíu với mái dột, một nhà kho cũ chứa đầy hộp thiếc, nồi, ống, đinh và dây thừng hoen gỉ, và một khu vườn trông khổng lồ với một đứa trẻ. Những mùa hè đó dạy tôi về cuộc sống nhiều hơn bất kỳ lớp học nào.
+
+Dì tôi vừa là nông dân vừa là nghệ sĩ. Buổi sáng, dì chỉ tôi cách gieo hạt vào lớp đất ẩm, sẫm màu và cách thu hạt ngũ cốc sau vụ gặt. Dì nuôi ong, và tôi học cách giữ im lặng, bình tĩnh để chúng không đốt mình. Buổi chiều, dì dệt vải màu từ len và bông, và trang trí các bức tường bằng ảnh lồng trong khung da, treo trên dây và ghim.
+
+Cũng có rất nhiều thời gian rảnh rỗi. Anh em họ chúng tôi khám phá khu rừng, trèo lên cành cây và nhặt lá, vỏ sò, đá cuội nhẵn từ bờ sông. Chúng tôi buộc một sợi dây thừng vào cây, lăn xuống đồi và đá bóng đến khi mặt trời khuất. Đôi khi chúng tôi bắt gặp một con cáo lông đỏ đuôi dài, hay một con chim có đôi cánh óng ánh. Mùa đông, dòng sông đóng băng, và mặt băng sáng lấp lánh như thủy tinh.
+
+Buổi tối, chúng tôi ngồi trong nhà bên bếp than và kể những câu chuyện đáng sợ về ma và những con quái vật tưởng tượng săn mồi trong bóng tối. Dì tôi mê truyện kinh dị và truyện bí ẩn, và dì rất giỏi dọa chúng tôi. Thế nhưng sáng hôm sau, vừa thấy mặt trời, mọi nỗi sợ đều tan biến.
+
+Những ngày yên bình, thư thái ấy cho tôi một cảm nhận rõ nét về điều thực sự quan trọng: công việc giản dị, vui chơi ngoài trời, thời gian bên gia đình và sự tôn trọng sâu sắc với thiên nhiên. Hôm nay, khi cuộc sống thành phố có vẻ quá vội vã, tôi nhắm mắt lại và trở về, trong tâm tưởng, căn nhà nhỏ bên bìa rừng ấy.
+GR:
+so (that) + S + would (not) :: "stay calm so they would not bite me" — để mà (chỉ mục đích trong quá khứ).
+at first sight of :: "at first sight of the sun" — ngay khi vừa nhìn thấy. (Thành ngữ: love at first sight.)
+in spirit :: "return, in spirit, to that cottage" — trong tâm tưởng (không phải thật sự về thể xác).

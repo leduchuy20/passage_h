@@ -1,0 +1,66 @@
+66|0|To explain the science behind anxiety and how the brain reacts to fear|To criticize psychologists|To describe her friend's depression
+66|1|She could not afford therapy because her income was too low at that time.|Her family did not allow it.|She did not know any psychologists.
+66|2|Anxiety is a personal weakness that you can control by relaxing more.|Anxiety can be cured in one session.|Anxiety only affects weak people.
+66|3|She stayed at home until the feeling of panic went away.|She called her friend.|She took medication.
+67|0|Through one big mistake: buying an expensive car he could not afford|Because he lost his job|Because of medical bills
+67|1|His friends told him that he was spending too much on going out.|He received a letter from the police.|His car was taken away.
+67|2|Paying a small amount on every loan equally so that all of them go down|Borrowing more to pay the old loans|Paying only the smallest loan
+67|3|About a tenth of his income|About half of his monthly income|Nothing at first
+67|4|He now sees money mainly as a way to impress others and feel successful.|He no longer cares about money.|He spends more to reward himself.
+68|0|Having more holidays and a bigger office|Attending fewer meetings|Working alone
+68|1|Work longer hours so that your team can see your example.|Ask for a higher salary.|Avoid committee meetings.
+68|2|More pressure and closer control|Higher salaries|Longer deadlines
+68|3|Get promoted quickly to a higher position in the company|Move to a higher floor|Increase the team's targets
+68|4|It is about status and control.|It is about meeting every deadline, even if the team has to work at weekends.|It is about doing everything yourself.
+69|0|A car accident on the way home|A fall at home|A sports match
+69|1|It was very short and did not take much of his time.|She promised there were no risks.|She used simple jokes.
+69|2|The hospital staff were rude to him and ignored his questions.|His friends did not visit.|He could not work.
+69|3|Eat less food and lose weight.|Stop drinking water.|Only eat vegetables.
+69|4|only good surgery.|a lot of money and the best private hospital in the country.|staying in hospital for a long time.
+70|0|A documentary she watched about melting ice at the North Pole|A lecture at university|A conversation with a scientist
+70|1|Meat is too expensive for her family, especially beef and pork.|She does not like the taste.|Her doctor told her to.
+70|2|It is enough to solve climate change if everyone does their part.|It is completely useless.|It is more important than politics.
+70|3|people should not help each other with big problems.|the problem is not serious.|everyone should feel sad.
+71|0|He was too busy at work to read about politics or vote.|He lived abroad.|He was too young to vote.
+71|1|Building a new school next to the library|Raising local taxes|Building more houses
+71|2|Ordinary people have no power, because politicians always do what they want.|Only politicians can change things.|Demonstrations never work.
+71|3|People who disagree with him|People who are older than him and have traditional views|People who vote differently
+71|4|Democracy will always exist, whatever citizens do.|Only the government can protect democracy and the courts.|Democracy is not important.
+72|0|It is a gift for a few geniuses who are born with special talent.|It is only useful for artists.|It cannot be learned.
+72|1|With painting lessons at a local art school|With writing a novel|With music
+72|2|Wait for inspiration before you start any project.|Only work when you are happy.|Publish everything you make.
+72|3|She stops posting her work for a while after a bad review.|She replies angrily.|She ignores all comments.
+72|4|You must produce something spectacular to call yourself creative.|You should try to become famous.|You should study graphic design.
+73|0|Backpacking around the world with friends|Business trips|Visiting relatives
+73|1|By taxi on the highway to a downtown hotel|By train|On foot
+73|4|When you follow the guidebook carefully and visit every famous place|When you stay in luxury hotels|When you travel in large groups
+74|0|Climate change and the environment|Electronics|Statistics
+74|1|Why did you choose this topic instead of an easier one?|When will you finish?|Have you read enough books?
+74|2|The computer was too slow to run the tests properly on time.|The code had no bugs.|The supervisor changed the results without telling him.
+74|4|Sophisticated claims|The highest possible accuracy on every single test|A published paper
+75|0|She worked as a fashion model while she was studying.|She made models in class.|She was a bad student.
+75|1|She did not understand the technology that her company used.|Her manager was unfriendly.|She had too little work.
+75|2|She went back to university full time to study philosophy.|She hired a private tutor.|She stopped working.
+75|3|It is useless in real life.|It is the only real learning.|It should be replaced by work.
+75|4|Get as many degrees and certificates as possible.|Leave university early.|Only read academic books, because they are the most reliable sources.
+76|0|To become famous|Because her parents were both national champions|To lose weight before a competition
+76|1|The national champion|Your classmates|The referee
+76|2|She was injured in the first minute of the fight.|Her opponent was much bigger.|She arrived late.
+76|3|Referees are always unfair to young fighters.|Letters are better than words.|Losing is not important.
+76|4|She always attacks problems quickly before they become bigger.|She avoids all difficult situations.|She asks her teacher for help.
+77|0|At university|At a friend's wedding|Through friends abroad
+77|1|They moved abroad.|They bought a small house.|They won some money.
+77|3|Regret helps you remember your mistakes so you do not repeat them.|You should never make mistakes.|Heavy things are hard to carry.
+77|4|luck and good fortune at the start|expensive gifts|never arguing about anything
+78|0|Mobile phones and chargers|Clothing|Software
+78|2|They fired all their staff and tried to do everything themselves.|They stopped advertising.|They sold the company too early.
+78|3|Startups usually succeed if they have good investors.|You should never start a business.|You need more investors.
+78|4|Too frightened to try again after losing everything|He has no interest|He wants to work for others forever
+79|0|She was writing a book about her life.|A journalist interviewed her on television.|It was the anniversary of the tsunami.
+79|1|The sky turned black.|There was a big storm with strong winds.|Birds flew away.
+79|2|Hunger|Losing her house and her boat|Being injured
+79|3|They became rivals.|They moved to the city together.|They built a wall.
+79|4|All disasters can be prevented if governments prepare well enough.|People are naturally selfish.|Soldiers are the most important helpers.
+80|0|The police called her and told her about a gang in her city.|Her friend told her.|Her bank card stopped working.
+80|2|It apologized immediately and removed the debt the same week.|It closed all her accounts.|It gave her compensation.
+80|4|Banks cannot be trusted to protect their customers' money.|Never use the internet for anything important.|Police are always slow.

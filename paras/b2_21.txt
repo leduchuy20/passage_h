@@ -1,0 +1,29 @@
+=== 92 | B2 | A Day at the Technology Fair | Một ngày ở hội chợ công nghệ
+EN:
+Last autumn, I spent a day at a technology fair with my teenage cousin, who wants to specialize in robotics. The event was located in a huge indoor hall, and the lighting, music and flying drones made it feel like a science-fiction film. I reckon there were more than five hundred exhibitors, from small start-ups to companies trading in products worth trillions.
+
+At the entrance, a volunteer gave us a leaflet and attached a name tag to our jackets. Each tag contained a chip that could transmit our location to a receiver, so we could tap a screen to find each other if we got lost. My cousin thought this was magnificent; I found it slightly weird and wondered about the usage of the data.
+
+The first stand we visited belonged to a firm based in Japan that made rescue robots. One of them moved like a worm and could bend through narrow pipes; another could climb a vertical wall without a ladder. A mechanic showed us the mechanical parts inside, and an operator demonstrated how the robot could detect radiation after an accident. My cousin asked so many questions that the engineers gave him a free building kit.
+
+Next, we watched a short presentation on the latest trend in medicine. Scientists had tested a new lens that allows doctors to see cells invisible to the naked eye. In early testing, laboratory rats were used, and the results were promising. Moreover, the newly developed device can measure tiny changes in motion, which may help detect disease earlier. The speaker was careful to explain the limitations: the device is still expensive, and its long-term effects are unknown. I admired her honest stance.
+
+There were also less serious attractions: a bubble machine, a puzzle game where visitors raced their peers, and a robot that served coffee with a smile. Producers of educational videos updated their content every hour, using a small team of students to record visitors' reactions.
+
+By the end of the day, my cousin was literally shaking with excitement. As an observer, I left with mixed feelings: impressed by human creativity, but convinced that technology should serve people, not replace them. That evening, my cousin said, "Now I know what I want to do with my life." The day had permanently changed his pursuit of the future.
+VI:
+Mùa thu năm ngoái, tôi dành một ngày ở hội chợ công nghệ với cậu em họ tuổi teen, người muốn theo chuyên ngành robot. Sự kiện được tổ chức trong một hội trường trong nhà khổng lồ, và ánh sáng, âm nhạc cùng những chiếc drone bay lượn khiến nó giống như một bộ phim khoa học viễn tưởng. Tôi đoán có hơn năm trăm đơn vị trưng bày, từ các start-up nhỏ đến những công ty kinh doanh sản phẩm trị giá hàng nghìn tỷ.
+
+Ở lối vào, một tình nguyện viên đưa chúng tôi một tờ rơi và gắn thẻ tên lên áo khoác. Mỗi thẻ chứa một con chip có thể truyền vị trí của chúng tôi tới một bộ thu, để chúng tôi có thể chạm vào màn hình tìm nhau nếu bị lạc. Em họ tôi thấy điều này thật tuyệt vời; tôi thấy hơi kỳ quặc và băn khoăn về việc sử dụng dữ liệu.
+
+Gian hàng đầu tiên chúng tôi ghé thuộc về một công ty có trụ sở ở Nhật Bản chuyên làm robot cứu hộ. Một con di chuyển như con giun và có thể uốn mình qua những đường ống hẹp; con khác có thể leo tường thẳng đứng mà không cần thang. Một thợ máy cho chúng tôi xem các bộ phận cơ khí bên trong, và một người vận hành trình diễn cách robot phát hiện phóng xạ sau tai nạn. Em tôi hỏi nhiều đến mức các kỹ sư tặng cậu một bộ lắp ráp miễn phí.
+
+Tiếp theo, chúng tôi xem một bài thuyết trình ngắn về xu hướng mới nhất trong y học. Các nhà khoa học đã thử nghiệm một loại thấu kính mới cho phép bác sĩ nhìn thấy những tế bào không thể thấy bằng mắt thường. Trong giai đoạn thử nghiệm đầu, chuột thí nghiệm được sử dụng, và kết quả đầy hứa hẹn. Hơn nữa, thiết bị mới được phát triển có thể đo những thay đổi nhỏ trong chuyển động, có thể giúp phát hiện bệnh sớm hơn. Diễn giả cẩn thận giải thích các giới hạn: thiết bị vẫn đắt, và tác động lâu dài chưa được biết. Tôi ngưỡng mộ lập trường trung thực của cô.
+
+Cũng có những điểm thu hút ít nghiêm túc hơn: một máy thổi bong bóng, một trò chơi giải đố nơi khách thi tốc độ với bạn đồng trang lứa, và một robot phục vụ cà phê kèm nụ cười. Những nhà sản xuất video giáo dục cập nhật nội dung mỗi giờ, dùng một nhóm sinh viên nhỏ ghi lại phản ứng của khách.
+
+Cuối ngày, em họ tôi đúng nghĩa là run lên vì phấn khích. Là một người quan sát, tôi ra về với cảm xúc lẫn lộn: ấn tượng trước sự sáng tạo của con người, nhưng tin chắc rằng công nghệ nên phục vụ con người, không phải thay thế họ. Tối đó, em tôi nói: "Giờ em biết mình muốn làm gì với cuộc đời rồi." Ngày hôm ấy đã thay đổi vĩnh viễn hành trình theo đuổi tương lai của cậu.
+GR:
+I reckon ... :: Thân mật = I think/guess: "I reckon there were more than five hundred exhibitors."
+so many + N + that ... :: "asked so many questions that the engineers gave him a free kit" — nhiều đến mức.
+literally :: "literally shaking with excitement" — đúng nghĩa đen; trong văn nói thường dùng để nhấn mạnh.

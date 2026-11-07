@@ -1,0 +1,89 @@
+17|0|How to find a cheap room when you move to a new city|Why photography is a good hobby for shy people|The writer's old friends from her childhood
+17|1|She did not speak the local language well enough to chat with people.|Her neighbours were unfriendly and never said hello.|She had no money to join any clubs.
+17|2|Wait until new friends come to you.|Use social media and online groups to find new friends quickly.|Move back home to your old friends.
+17|4|owns a small house in a quiet, warm part of the city.|works for a local charity.|lives in a warm country.
+18|0|How the writer failed her final exams|Why psychology is an interesting subject to study at university|How to become a lecturer
+18|1|Her class teacher|Her mother|A doctor at the hospital
+18|2|Fifteen minutes|About two hours|All night if necessary
+18|3|Because libraries close early|Because teachers check homework early in the morning before class|Because it is bad for the eyes
+18|4|They were all better and more organized students than her.|They never felt stressed.|They studied together every night.
+19|0|He had too much money and did not know what to do with it.|He could not find a job.|He did not have a bank account and kept all his cash at home.
+19|1|You need a high salary before you can start saving any money.|Never keep your money in a bank.|Buy only expensive things because they last longer.
+19|2|He spent a lot of his money on books and courses about saving.|He spent nothing on food.|He saved much more than he thought he did.
+19|3|Buy yourself a nice present every month after you get paid.|Ask your boss for more money.|Pay your bills before your friends.
+19|4|Shops near his home do not accept cards.|Cash is cheaper than paying by card.|His card was stolen.
+20|0|His boss told him that the shop needed someone who could code.|He wanted to build computer games.|He failed his university exams.
+20|1|At an expensive university course in the evenings|From his uncle|At the electronics company where he worked
+20|2|He asked his teacher for help by email.|He started the whole project again.|He gave up for a week.
+20|3|A website for a small shop in town|A computer game|An online network for learners
+20|4|He had a university degree in computer science from a good school.|The writer's uncle knew him.|The writer was the only candidate.
+21|0|Living abroad is too difficult and lonely for most young people.|Cheap airlines are dangerous.|The writer did not like the foreign food.
+21|1|He was late and ran to the first train he saw.|The train was cancelled.|He followed the wrong person.
+21|2|How to repair a heater and other things in the flat himself|To buy a new flat|To call his parents for help
+21|3|He travelled for work and visited many company offices.|He only visited famous places.|He did not like tourists.
+21|4|Food abroad is always strange and difficult for foreigners to eat.|It is easy to make money abroad.|Castles are better than palaces.
+22|0|A teacher's lesson about recycling at school|A problem with his electricity bill last winter|An article about trees
+22|1|He never buys coffee or other drinks when he is outside.|He only shops online so he never needs a plastic bag.|He uses paper bags.
+22|2|By plane|Alone in his own car, but more slowly|By bicycle
+22|3|They are too expensive for most people.|They are very popular.|They are dangerous.
+22|4|He has more friends who care about the environment.|He got a better job.|He became famous.
+23|0|How to make money by selling homemade food|How to read old recipes from books|How to be a professional chef
+23|1|She watched cooking videos online.|She asked her friends in the village for advice.|She used a computer.
+23|2|The cooker was old and broken.|He added too much water to the pot.|His grandmother told him to.
+23|3|She got angry and told him to leave the kitchen for the day.|She cooked the food herself.|She stopped teaching him.
+24|0|On the score board, when his team won important games|Only in the final games|In the gym
+24|1|His team won every game.|He was the best player on the team.|The coach left the team.
+24|2|It is the referee's fault, so you should complain about bad decisions.|You should change teams.|It does not matter at all.
+24|3|It helped him learn a foreign language much faster than before.|It helped him become a coach.|It helped him write books.
+24|4|That he should stop playing sport after the injury|That doctors are always right|That hockey is dangerous
+25|0|Her parents, who were both scientists|A famous scientist on TV|Her classmates
+25|1|She gave a long lecture about light and the colours of the sky.|She told them to read a book.|She showed a video.
+25|3|It won a national prize for young scientists last year.|It was lost.|Her classmates laughed at it.
+26|0|How to become a successful fashion photographer in a big city|Why celebrities are unhappy|How to choose the right make-up
+26|1|She did more sport.|She stopped using social media and started reading more books.|She became a model.
+26|2|He was very rude to the photographer and to the assistants.|He was taller than she expected.|He did not want to take photos.
+26|3|Because people like beautiful pictures more than they like real faces|Because designers are lazy|Because cameras are not good enough
+27|0|They were lost.|A farmer told them to.|They were looking for water because they had drunk all of theirs.
+27|1|They ran back to the car and drove to the nearest village.|They called for help on the phone.|They climbed a hill.
+27|3|A helicopter found them.|They found the track again.|Their camping instructor came to look for them.
+27|4|Deserts are beautiful but boring places for young people.|You should always camp alone.|Maps are not useful.
+28|0|Prisons should be closed and replaced by schools and charities.|Students should not listen to strangers.|Young people should avoid charities.
+28|1|He was hungry.|His mother asked him to.|He did not know it was illegal to take things from shops.
+28|3|Losing all his friends from the group of older boys|Not having books|Eating bad food
+28|4|The volunteer was his teacher at school.|Tuan did not like the volunteer.|The volunteer gave him money and found him a job after the centre.
+29|0|He did not like electronics.|His boss was strict.|The office was far from his home and the journey took two hours.
+29|1|On the ground floor, next to the reception hall|Behind the main office|Next to the factory
+29|2|How employees feel about their jobs|The price of electronics in different shops in the city|The best place for a new factory
+29|3|He lost an important report.|He arrived late for a meeting with Ms Mai and the customers.|He sent mail to the wrong customer.
+29|4|A modern building with a beautiful view over the city|A high salary|A company uniform
+30|0|She is quiet and serious; he is loud and loves jokes.|She is a musician; he is a teacher.|She is older; he is younger.
+30|1|The bride|A famous singer from the city|The writer's uncle
+30|2|Luck|Having a lot of money and a big house for the whole family|Never arguing
+30|3|They moved to different countries for work.|They had no money.|His wife fell in love with someone else.
+30|4|Only a strong feeling that never really changes|Something that happens by luck|A big party with many guests
+31|0|She spoke too loudly and too quickly for people to understand her.|She forgot to prepare slides.|She laughed too much.
+31|1|Her teacher forced her.|She wanted to become a teacher at a primary school after university.|Her friends joined a club.
+31|4|Wait until you feel ready before you start.|Avoid public speaking if it makes you feel very uncomfortable.|Only speak to small groups.
+32|0|It was too expensive to park near the office every day.|His motorcycle was always broken and he had to repair it.|He had to cross a river by boat.
+32|1|A friend's advice at work|A new train line near his home|The price of petrol
+32|2|He did not have a bike.|It was too far for him to cycle every day.|His office did not allow bikes.
+32|3|He drives a car to the station and parks it there all day.|He walks all the way.|He takes the bus.
+32|4|People like bad situations.|Familiar things are always better than new and different things.|Families should travel together.
+33|2|Work quickly.|Always buy two pieces of wood.|Cut everything twice to be safe.
+33|4|He calls his family and talks about his problems.|He goes for a run.|He plays computer games.
+34|0|He wants to send it to a friend who lives in another city.|He is applying for a job.|He is writing a book.
+34|2|Losing his part-time job|Living alone in the city|Travelling to the ocean
+34|3|For money|Because his parents told him to choose it after school|Because it was easy
+34|4|the writer's father|his design teacher|an old friend from school
+35|0|She lost her pencils and her notebooks.|She had no time.|Her parents did not like it.
+35|1|A drawing course at the community centre|A friend's concert|A new teacher
+35|2|She took lessons every weekend with a painter.|She copied famous paintings.|She drew only when she was sad.
+35|3|Never listen to other people's opinions about your work.|Teachers are always right.|You should stop if someone criticizes you.
+35|4|you should have children.|children are better artists than most adults are.|you should act like a child.
+36|0|A torch|A towel|A warm jacket
+36|1|By plane|By bridge|By swimming
+36|3|Bored and lonely without his phone|Sick and tired|Angry about the internet
+36|4|Live on an island every summer|Never use a phone again|Go fishing every week with friends
+37|1|She studied history at university.|Her doctor told her.|She lost her husband young.
+37|3|She sleeps most of the day.|She never visits the doctor.|She avoids exercise.
+37|4|She complained a lot about the pain.|She stopped walking.|She asked to go to hospital.

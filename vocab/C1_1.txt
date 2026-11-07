@@ -1,0 +1,650 @@
+abolish|bãi bỏ|abolish a law; abolish slavery|abolition (n)
+abortion|sự phá thai|debate on abortion|
+absence|sự vắng mặt|in the absence of|absent (adj)
+absent|vắng mặt|absent from school|absence (n)
+absurd|vô lý|an absurd idea|absurdity (n)
+abundance|sự dồi dào|in abundance|abundant (adj)
+abuse|sự lạm dụng; bạo hành|drug abuse; child abuse|abusive (adj)
+academy|học viện|military academy|academic (adj)
+accelerate|tăng tốc|accelerate growth|acceleration (n)
+acceptance|sự chấp nhận|gain acceptance|accept (v)
+accessible|có thể tiếp cận|accessible to everyone|access (n)
+accomplishment|thành tựu|a great accomplishment|accomplish (v)
+accordance|sự phù hợp (in accordance with)|in accordance with the law|accordingly (adv)
+accordingly|theo đó|act accordingly|accordance (n)
+accountability|trách nhiệm giải trình|demand accountability|accountable (adj)
+accountable|chịu trách nhiệm|hold sb accountable|accountability (n)
+accumulate|tích lũy|accumulate wealth|accumulation (n)
+accumulation|sự tích lũy|accumulation of knowledge|accumulate (v)
+accusation|lời buộc tội|make an accusation|accuse (v)
+accused|bị cáo|the accused|accuse (v)
+acquisition|sự mua lại; tiếp thu|language acquisition|acquire (v)
+acre|mẫu Anh (≈ 4047 m²)|acres of land|
+activation|sự kích hoạt|account activation|activate (v)
+activist|nhà hoạt động|human rights activist|activism (n)
+acute|cấp tính; sắc bén|acute pain; acute awareness|
+adaptation|sự thích nghi; chuyển thể|film adaptation|adapt (v)
+adhere|tuân thủ|adhere to rules|adherence (n)
+adjacent|liền kề|adjacent to|
+adjustment|sự điều chỉnh|make adjustments|adjust (v)
+administer|quản lý; cho dùng (thuốc)|administer a test|administration (n)
+administrative|thuộc hành chính|administrative staff|administration (n)
+administrator|người quản lý|system administrator|administer (v)
+admission|sự nhận vào; thừa nhận|university admission|admit (v)
+adolescent|thanh thiếu niên|adolescent years|adolescence (n)
+adoption|sự nhận nuôi; áp dụng|adoption of a policy|adopt (v)
+adverse|bất lợi|adverse effects|adversity (n)
+advocate|người ủng hộ; ủng hộ|advocate for change|advocacy (n)
+aesthetic|thẩm mỹ|aesthetic value|aesthetics (n)
+affection|tình cảm|show affection|affectionate (adj)
+aftermath|hậu quả (sau biến cố)|in the aftermath of|
+aggression|sự hung hăng|acts of aggression|aggressive (adj)
+agricultural|thuộc nông nghiệp|agricultural land|agriculture (n)
+aide|trợ lý|presidential aide|
+albeit|mặc dù|albeit slowly|
+alert|cảnh giác; báo động|stay alert|alertness (n)
+align|làm thẳng hàng; phù hợp|align with goals|alignment (n)
+alignment|sự liên kết, phù hợp|in alignment with|align (v)
+alike|giống nhau|look alike|
+allegation|lời cáo buộc|deny allegations|allege (v)
+allege|cáo buộc|it is alleged that|allegedly (adv)
+allegedly|được cho là|allegedly stolen|allege (v)
+alliance|liên minh|form an alliance|ally (n)
+allocate|phân bổ|allocate funds|allocation (n)
+allocation|sự phân bổ|budget allocation|allocate (v)
+allowance|trợ cấp|monthly allowance|
+ally|đồng minh|a close ally|alliance (n)
+aluminium|nhôm|aluminium can|
+amateur|nghiệp dư|amateur photographer|
+ambassador|đại sứ|youth ambassador|embassy (n)
+amend|sửa đổi|amend a law|amendment (n)
+amendment|bản sửa đổi|constitutional amendment|amend (v)
+amid|giữa (bối cảnh)|amid the chaos|
+analogy|phép loại suy, so sánh|draw an analogy|analogous (adj)
+anchor|mỏ neo; neo giữ|drop anchor|
+angel|thiên thần|guardian angel|angelic (adj)
+anonymous|ẩn danh|anonymous letter|anonymity (n)
+apparatus|bộ máy; thiết bị|state apparatus|
+appealing|hấp dẫn|an appealing idea|appeal (v)
+appetite|sự thèm ăn; hứng thú|lose your appetite|
+applaud|vỗ tay; tán dương|applaud a decision|applause (n)
+applicable|có thể áp dụng|applicable to|apply (v)
+appoint|bổ nhiệm|appoint sb as|appointment (n)
+appreciation|sự trân trọng|show appreciation|appreciate (v)
+arbitrary|tùy tiện|arbitrary decision|arbitrarily (adv)
+architectural|thuộc kiến trúc|architectural design|architecture (n)
+archive|kho lưu trữ|national archive|
+arena|đấu trường; nhà thi đấu|political arena|
+arguably|có thể nói|arguably the best|argue (v)
+array|dãy, loạt|a wide array of|
+articulate|diễn đạt rõ ràng; lưu loát|an articulate speaker|
+ash|tro|turn to ash|
+aspiration|khát vọng|career aspirations|aspire (v)
+aspire|khao khát|aspire to be|aspiration (n)
+assassination|vụ ám sát|political assassination|assassinate (v)
+assault|sự hành hung|physical assault|
+assemble|tập hợp; lắp ráp|assemble a team|assembly (n)
+assembly|hội đồng; sự lắp ráp|general assembly|assemble (v)
+assert|khẳng định|assert yourself|assertion (n)
+assertion|lời khẳng định|make an assertion|assert (v)
+assurance|sự cam đoan|give assurance|assure (v)
+asylum|sự tị nạn|seek asylum|
+atrocity|tội ác tàn bạo|war atrocities|
+attain|đạt được|attain a goal|attainment (n)
+attendance|sự tham dự|high attendance|attend (v)
+attorney|luật sư (Mỹ)|defence attorney|
+attribute|quy cho; thuộc tính|attribute A to B|
+audit|kiểm toán|financial audit|auditor (n)
+authentic|xác thực|authentic documents|authenticity (n)
+authorize|cho phép, ủy quyền|authorize payment|authority (n)
+auto|ô tô (Mỹ)|auto repair|automobile (n)
+autonomy|quyền tự chủ|personal autonomy|autonomous (adj)
+availability|sự có sẵn|availability of resources|available (adj)
+await|chờ đợi|await trial|
+backdrop|phông nền, bối cảnh|against a backdrop of|
+backing|sự ủng hộ|financial backing|back (v)
+backup|bản sao lưu|backup copy|
+bail|tiền bảo lãnh|released on bail|
+ballot|cuộc bỏ phiếu kín|secret ballot|
+banner|băng rôn|hold a banner|
+bare|trần, trống|bare walls|barely (adv)
+barrel|thùng tròn|a barrel of oil|
+bass|giọng/âm trầm|bass voice; bass guitar|
+battlefield|chiến trường|on the battlefield|battle (n)
+bay|vịnh; ô cửa lồi|bay window|
+beam|xà; tia sáng|wooden beams|
+beast|con thú|beauty and the beast|
+behalf|thay mặt (on behalf of)|on behalf of sb|
+beloved|yêu quý|beloved grandfather|love (v)
+bench|ghế dài|park bench|
+benchmark|chuẩn mực, thước đo|set a benchmark|
+beneath|bên dưới|beneath the surface|
+beneficiary|người thụ hưởng|the main beneficiary|benefit (n)
+betray|phản bội|betray sb's trust|betrayal (n)
+bind|ràng buộc|bind sb to|binding (adj)
+biography|tiểu sử|read a biography|biographer (n)
+bishop|giám mục|the local bishop|
+bizarre|kỳ quái|a bizarre situation|
+blade|lưỡi dao; ngọn (cỏ)|blade of grass|
+blast|vụ nổ; luồng gió mạnh|a blast of cold air|
+bleed|chảy máu|bleed sb dry|blood (n)
+blend|pha trộn|blend A with B|
+bless|ban phước|bless you|blessing (n)
+blessing|phước lành|a blessing in disguise|bless (v)
+boast|khoe khoang|boast about|boastful (adj)
+bonus|tiền thưởng|annual bonus|
+boom|sự bùng nổ|economic boom|
+bounce|nảy; phục hồi (bounce back)|bounce back|
+boundary|ranh giới|set boundaries|
+bow|cúi chào; cúi (đầu)|bow your head|
+breach|sự vi phạm; lỗ hổng|security breach|
+breakdown|sự suy sụp; hỏng hóc|nervous breakdown|break down (v)
+breakthrough|bước đột phá|scientific breakthrough|
+breed|nhân giống, nuôi|breed cattle|
+broadband|băng thông rộng|broadband internet|
+browser|trình duyệt|web browser|browse (v)
+brutal|tàn bạo|brutal competition|brutality (n)
+buck|đô la (thân mật)|make a quick buck|
+buddy|bạn thân|my buddy|
+buffer|vùng đệm|act as a buffer|
+bulk|khối lượng lớn|buy in bulk|bulky (adj)
+burden|gánh nặng|a heavy burden|
+bureaucracy|bộ máy quan liêu|government bureaucracy|bureaucratic (adj)
+burial|sự chôn cất|burial ceremony|bury (v)
+burst|vỡ òa|burst into tears|
+cabinet|tủ; nội các|filing cabinet|
+calculation|phép tính|make a calculation|calculate (v)
+canvas|vải bạt; tranh sơn dầu|paint on canvas|
+capability|năng lực|beyond our capabilities|capable (adj)
+capitalism|chủ nghĩa tư bản|global capitalism|capitalist (n)
+capitalist|nhà tư bản|a successful capitalist|capitalism (n)
+cargo|hàng hóa (chuyên chở)|cargo ship|
+carriage|xe ngựa; toa|horse-drawn carriage|
+carve|chạm khắc|carve wood|carving (n)
+casino|sòng bạc|go to a casino|
+casualty|thương vong|civilian casualties|
+catalogue|danh mục|shopping catalogue|
+cater|cung cấp đồ ăn; phục vụ|cater for|catering (n)
+cattle|gia súc|raise cattle|
+caution|sự thận trọng|with caution|cautious (adj)
+cautious|thận trọng|be cautious about|caution (n)
+cease|chấm dứt|cease to exist|
+cemetery|nghĩa trang|village cemetery|
+chamber|phòng (lớn), sảnh|council chamber|
+chaos|sự hỗn loạn|in chaos|chaotic (adj)
+characterize|mô tả đặc điểm|be characterized by|character (n)
+charm|sức quyến rũ|personal charm|charming (adj)
+charter|hiến chương|founding charter|
+chronic|mãn tính|chronic pain|
+chunk|khúc, phần lớn|a chunk of time|
+circulate|lưu hành, lan truyền|rumours circulate|circulation (n)
+circulation|sự lưu hành; tuần hoàn|blood circulation|circulate (v)
+citizenship|quyền công dân|apply for citizenship|citizen (n)
+civic|thuộc công dân|civic duty|
+civilian|thường dân|civilian casualties|
+clarity|sự rõ ràng|clarity of thought|clarify (v)
+clash|xung đột, va chạm|clash of opinions|
+classification|sự phân loại|classification system|classify (v)
+cling|bám chặt|cling to hope|
+clinical|lâm sàng|clinical trials|clinic (n)
+closure|sự đóng cửa; khép lại|school closure; find closure|close (v)
+cluster|cụm, nhóm|a cluster of houses|
+coalition|liên minh|coalition government|
+coastal|ven biển|coastal town|coast (n)
+cocktail|cốc-tai|cocktail party|
+cognitive|thuộc nhận thức|cognitive skills|cognition (n)
+coincide|trùng hợp|coincide with|coincidence (n)
+collaborate|cộng tác|collaborate with|collaboration (n)
+collaboration|sự cộng tác|in collaboration with|collaborate (v)
+collective|tập thể|collective decision|collectively (adv)
+collision|vụ va chạm|car collision|collide (v)
+colonial|thuộc địa|colonial history|colony (n)
+columnist|nhà báo chuyên mục|newspaper columnist|column (n)
+combat|chiến đấu; chống lại|combat crime|
+commence|bắt đầu (trang trọng)|commence work|commencement (n)
+commentary|bài bình luận|live commentary|comment (n)
+commentator|bình luận viên|political commentator|comment (v)
+commerce|thương mại|e-commerce|commercial (adj)
+commissioner|ủy viên|police commissioner|commission (n)
+commodity|hàng hóa|commodity prices|
+communist|cộng sản|communist party|communism (n)
+companion|bạn đồng hành|travel companion|company (n)
+comparable|có thể so sánh|comparable to|compare (v)
+compassion|lòng trắc ẩn|show compassion|compassionate (adj)
+compel|buộc|feel compelled to|compelling (adj)
+compelling|thuyết phục, hấp dẫn|compelling evidence|compel (v)
+compensate|bồi thường, bù đắp|compensate for|compensation (n)
+compensation|tiền bồi thường|receive compensation|compensate (v)
+competence|năng lực|professional competence|competent (adj)
+competent|có năng lực|a competent teacher|competence (n)
+compile|biên soạn|compile a report|compilation (n)
+complement|bổ sung|complement each other|complementary (adj)
+complexity|sự phức tạp|the complexity of the problem|complex (adj)
+compliance|sự tuân thủ|in compliance with|comply (v)
+complication|biến chứng; rắc rối|medical complications|complicated (adj)
+comply|tuân thủ|comply with rules|compliance (n)
+composition|thành phần; sáng tác|chemical composition|compose (v)
+compromise|thỏa hiệp|reach a compromise|
+compute|tính toán|compute results|computer (n)
+conceal|che giấu|conceal the truth|concealment (n)
+concede|thừa nhận; nhượng bộ|concede defeat|concession (n)
+conceive|nghĩ ra; thụ thai|conceive an idea|conception (n)
+conception|quan niệm; sự hình thành|conception of justice|conceive (v)
+concession|sự nhượng bộ|make concessions|concede (v)
+condemn|lên án|condemn violence|condemnation (n)
+confer|bàn bạc; ban cho|confer with colleagues|conference (n)
+confession|lời thú nhận|make a confession|confess (v)
+configuration|cấu hình|system configuration|configure (v)
+confine|giới hạn; giam giữ|confined to|confinement (n)
+confirmation|sự xác nhận|booking confirmation|confirm (v)
+confront|đối mặt|confront a problem|confrontation (n)
+confrontation|sự đối đầu|avoid confrontation|confront (v)
+congratulate|chúc mừng|congratulate sb on|congratulations (n)
+congregation|giáo đoàn; đám đông|church congregation|
+congressional|thuộc quốc hội (Mỹ)|congressional hearing|Congress (n)
+conquer|chinh phục|conquer fear|conquest (n)
+conscience|lương tâm|guilty conscience|conscientious (adj)
+consciousness|ý thức|raise consciousness|conscious (adj)
+consecutive|liên tiếp|five consecutive days|
+consensus|sự đồng thuận|reach a consensus|
+consent|sự đồng ý|give consent|
+conserve|bảo tồn; tiết kiệm|conserve energy|conservation (n)
+consistency|sự nhất quán|lack of consistency|consistent (adj)
+consolidate|củng cố|consolidate power|consolidation (n)
+constituency|khu vực bầu cử|local constituency|constituent (n)
+constitute|cấu thành|constitute a threat|
+constitution|hiến pháp|national constitution|constitutional (adj)
+constitutional|thuộc hiến pháp|constitutional rights|constitution (n)
+constraint|sự ràng buộc|time constraints|constrain (v)
+consultation|sự tư vấn|in consultation with|consult (v)
+contemplate|suy ngẫm|contemplate the future|contemplation (n)
+contempt|sự khinh miệt|show contempt|
+contend|tranh đấu; cho rằng|contend with|contender (n)
+contender|ứng viên, đối thủ|a leading contender|contend (v)
+content2|bằng lòng, mãn nguyện|feel content with|contentment (n)
+contention|sự tranh cãi|point of contention|contend (v)
+continually|liên tục|continually improve|continual (adj)
+contractor|nhà thầu|building contractor|contract (n)
+contradiction|sự mâu thuẫn|a contradiction in terms|contradict (v)
+contrary|trái ngược|contrary to; on the contrary|
+contributor|người đóng góp|major contributor|contribute (v)
+conversion|sự chuyển đổi|conversion of files|convert (v)
+convict|kết án|be convicted of|conviction (n)
+conviction|niềm tin chắc chắn; sự kết án|strong convictions|convict (v)
+cooperate|hợp tác|cooperate with|cooperation (n)
+cooperative|hợp tác xã; hợp tác|a cooperative of journalists|cooperate (v)
+coordinate|phối hợp|coordinate efforts|coordination (n)
+coordination|sự phối hợp|hand-eye coordination|coordinate (v)
+coordinator|điều phối viên|project coordinator|coordinate (v)
+cop|cảnh sát (thân mật)|a cop|
+copper|đồng (kim loại)|copper pipes|
+copyright|bản quyền|copyright law|
+correction|sự sửa chữa|make corrections|correct (v)
+correlate|tương quan|correlate with|correlation (n)
+correlation|mối tương quan|strong correlation|correlate (v)
+correspond|tương ứng; trao đổi thư|correspond to|correspondence (n)
+correspondence|thư từ|business correspondence|correspond (v)
+correspondent|phóng viên|foreign correspondent|correspond (v)
+corresponding|tương ứng|corresponding period|correspond (v)
+corrupt|tham nhũng|corrupt officials|corruption (n)
+corruption|tham nhũng|fight corruption|corrupt (adj)
+costly|tốn kém|costly mistake|cost (n)
+councillor|ủy viên hội đồng|local councillor|council (n)
+counselling|sự tư vấn tâm lý|receive counselling|counsellor (n)
+counsellor|chuyên viên tư vấn|school counsellor|counselling (n)
+counter:argue|phản bác|counter an argument|
+counterpart|người đồng cấp|his counterpart in|
+countless|vô số|countless times|
+coup|cuộc đảo chính|military coup|
+courtesy|sự lịch sự|out of courtesy|courteous (adj)
+crawl|bò|crawl on hands and knees|
+creator|người sáng tạo|content creator|create (v)
+credibility|sự đáng tin|lose credibility|credible (adj)
+credible|đáng tin|credible source|credibility (n)
+creep|lén đi; bò|creep into the room|creepy (adj)
+critique|bài phê bình|write a critique|critic (n)
+crown|vương miện|the royal crown|
+crude|thô, sơ sài|crude conclusions|
+crush|nghiền nát|crush the evidence|
+crystal|pha lê|crystal frame|
+cult|giáo phái; được sùng bái|cult following|
+cultivate|vun đắp; trồng trọt|cultivate habits|cultivation (n)
+curiosity|sự tò mò|out of curiosity|curious (adj)
+custody|quyền giám hộ; sự giam giữ|in custody|
+cutting|sắc bén, cay nghiệt|cutting remarks|cut (v)
+cynical|hoài nghi, yếm thế|cynical view|cynicism (n)
+dam|con đập|build a dam|
+damaging|gây hại|damaging effects|damage (v)
+dawn|bình minh|at dawn|
+debris|mảnh vụn|clear debris|
+debut|sự ra mắt|make a debut|
+decision-making|việc ra quyết định|decision-making process|decide (v)
+decisive|quyết đoán|decisive action|decision (n)
+declaration|lời tuyên bố|declaration of independence|declare (v)
+dedicated|tận tụy|dedicated teacher|dedication (n)
+dedication|sự cống hiến|with dedication|dedicate (v)
+deed|việc làm, hành động|good deed|
+deem|cho là|deem it necessary|
+default|mặc định|by default|
+defect|khiếm khuyết|genetic defect|defective (adj)
+defensive|phòng thủ|become defensive|defend (v)
+deficiency|sự thiếu hụt|vitamin deficiency|deficient (adj)
+deficit|thâm hụt|budget deficit|
+defy|thách thức, bất chấp|defy the odds|defiance (n)
+delegate|ủy thác; đại biểu|delegate tasks|delegation (n)
+delegation|phái đoàn; sự ủy thác|trade delegation|delegate (v)
+delicate|tế nhị, mỏng manh|delicate topic|
+demon|con quỷ|inner demons|
+denial|sự chối bỏ|in denial|deny (v)
+denounce|lên án|denounce corruption|
+dense|dày đặc|dense forest|density (n)
+density|mật độ|population density|dense (adj)
+dependence|sự phụ thuộc|dependence on|depend (v)
+depict|miêu tả|depict a scene|depiction (n)
+deploy|triển khai|deploy troops|deployment (n)
+deployment|sự triển khai|military deployment|deploy (v)
+deprive|tước đoạt|deprive sb of sth|deprivation (n)
+deputy|phó|deputy head|
+descend|đi xuống|descend the stairs|descent (n)
+descent|sự đi xuống|a descent into darkness|descend (v)
+designate|chỉ định|be designated as|designation (n)
+desirable|đáng mong muốn|desirable outcome|desire (n)
+desktop|máy tính để bàn; màn hình nền|on the desktop|
+destructive|có tính hủy hoại|destructive behaviour|destroy (v)
+detain|giam giữ|be detained by police|detention (n)
+detection|sự phát hiện|early detection|detect (v)
+detention|sự giam giữ|in detention|detain (v)
+deteriorate|xấu đi|health deteriorates|deterioration (n)
+devastate|tàn phá|devastated by the news|devastating (adj)
+devil|ma quỷ|devil's advocate|
+devise|nghĩ ra|devise a plan|
+diagnose|chẩn đoán|be diagnosed with|diagnosis (n)
+diagnosis|sự chẩn đoán|make a diagnosis|diagnose (v)
+dictate|ra lệnh; đọc chính tả|dictate terms|dictator (n)
+dictator|nhà độc tài|military dictator|dictatorship (n)
+differentiate|phân biệt|differentiate between|difference (n)
+dignity|phẩm giá|human dignity|dignified (adj)
+dilemma|tình thế khó xử|face a dilemma|
+dimension|chiều kích|a new dimension|
+diminish|giảm bớt|diminish the value|
+dip|nhúng; giảm nhẹ|dip into the water|
+diplomat|nhà ngoại giao|senior diplomat|diplomacy (n)
+diplomatic|thuộc ngoại giao; khéo léo|diplomatic relations|diplomat (n)
+directory|danh bạ; thư mục|staff directory|
+disastrous|thảm khốc|disastrous consequences|disaster (n)
+discard|vứt bỏ|discard old clothes|
+discharge|cho ra viện; sa thải|be discharged from|
+disclose|tiết lộ|disclose information|disclosure (n)
+disclosure|sự tiết lộ|public disclosure|disclose (v)
+discourse|diễn ngôn, cuộc trao đổi|public discourse|
+discretion|sự kín đáo; quyền tự quyết|with discretion|discreet (adj)
+discrimination|sự phân biệt đối xử|racial discrimination|discriminate (v)
+dismissal|sự sa thải|unfair dismissal|dismiss (v)
+displace|di dời|displaced people|displacement (n)
+disposal|sự thải bỏ, xử lý|waste disposal|dispose (v)
+dispose|vứt bỏ, xử lý|dispose of rubbish|disposal (n)
+dispute|tranh chấp|settle a dispute|
+disrupt|làm gián đoạn|disrupt plans|disruption (n)
+disruption|sự gián đoạn|cause disruption|disrupt (v)
+dissolve|hòa tan; giải tán|dissolve in water|
+distinction|sự khác biệt; sự xuất sắc|make a distinction|distinct (adj)
+distinctive|đặc trưng|distinctive style|distinct (adj)
+distort|bóp méo|distort the facts|distortion (n)
+distress|sự đau khổ|in distress|distressing (adj)
+disturbing|đáng lo ngại|disturbing news|disturb (v)
+divert|chuyển hướng|divert attention|diversion (n)
+divine|thuộc thần thánh|divine justice|
+doctrine|học thuyết|religious doctrine|
+documentation|tài liệu, hồ sơ|proper documentation|document (n)
+domain|lĩnh vực|in the public domain|
+dominance|sự thống trị|market dominance|dominate (v)
+donor|người hiến tặng|blood donor|donate (v)
+dose|liều lượng|a dose of medicine|
+drain|rút cạn; cống|drain your energy|
+drift|trôi dạt|drift away|
+drown|chết đuối; nhấn chìm|drown in work|
+dual|kép|dual nationality|
+dub|đặt biệt danh; lồng tiếng|dubbed "the duo"|
+dumb|câm; ngu ngốc|dumb with anger|
+duo|bộ đôi|a famous duo|
+eager|háo hức|eager to learn|eagerness (n)
+earnings|thu nhập|annual earnings|earn (v)
+ease|sự dễ dàng; làm dịu|with ease; ease the pain|easy (adj)
+echo|tiếng vọng; vang vọng|echo around the room|
+ecological|thuộc sinh thái|ecological balance|ecology (n)
+educator|nhà giáo dục|experienced educator|educate (v)
+effectiveness|tính hiệu quả|the effectiveness of|effective (adj)
+efficiency|hiệu suất|energy efficiency|efficient (adj)
+ego|cái tôi|big ego|
+elaborate|công phu, chi tiết|elaborate plan|
+electoral|thuộc bầu cử|electoral system|election (n)
+elevate|nâng lên|elevate the status|elevation (n)
+eligible|đủ điều kiện|eligible for|eligibility (n)
+elite|tinh hoa|elite school|
+embark|bắt tay vào|embark on a journey|
+embarrassment|sự bối rối|cause embarrassment|embarrass (v)
+embassy|đại sứ quán|the British Embassy|ambassador (n)
+embed|gắn vào|deeply embedded|
+embody|là hiện thân|embody values|embodiment (n)
+emergence|sự nổi lên|emergence of new ideas|emerge (v)
+empirical|thực nghiệm|empirical evidence|
+empower|trao quyền|empower women|empowerment (n)
+enact|ban hành|enact a law|
+encompass|bao gồm|encompass many areas|
+encouragement|sự động viên|words of encouragement|encourage (v)
+encouraging|đáng khích lệ|encouraging results|encourage (v)
+endeavour|nỗ lực|human endeavour|
+endless|vô tận|endless possibilities|end (n)
+endorse|tán thành|endorse a candidate|endorsement (n)
+endorsement|sự tán thành|public endorsement|endorse (v)
+endure|chịu đựng|endure pain|endurance (n)
+enforce|thi hành|enforce the law|enforcement (n)
+enforcement|sự thi hành|law enforcement|enforce (v)
+engagement|sự tham gia; đính hôn|community engagement|engage (v)
+engaging|cuốn hút|engaging story|engage (v)
+enquire|hỏi thăm|enquire about|enquiry (n)
+enrich|làm giàu, làm phong phú|enrich your life|enrichment (n)
+enrol|ghi danh|enrol in a course|enrolment (n)
+ensue|xảy ra sau đó|chaos ensued|
+enterprise|doanh nghiệp|small enterprise|entrepreneur (n)
+enthusiast|người say mê|sports enthusiast|enthusiasm (n)
+entitle|cho quyền|be entitled to|entitlement (n)
+entity|thực thể|legal entity|
+epidemic|dịch bệnh|flu epidemic|
+equality|sự bình đẳng|gender equality|equal (adj)
+equation|phương trình|solve an equation|
+erect|dựng lên|erect a building|
+escalate|leo thang|violence escalated|escalation (n)
+essence|bản chất|in essence|essential (adj)
+establishment|cơ sở; giới cầm quyền|the political establishment|establish (v)
+eternal|vĩnh cửu|eternal love|eternity (n)
+evacuate|sơ tán|evacuate a building|evacuation (n)
+evoke|gợi lên|evoke memories|
+evolutionary|thuộc tiến hóa|evolutionary biology|evolution (n)
+exaggerate|phóng đại|exaggerate the danger|exaggeration (n)
+excellence|sự xuất sắc|academic excellence|excellent (adj)
+exceptional|xuất chúng|exceptional talent|exception (n)
+excess|sự dư thừa|in excess|excessive (adj)
+exclusion|sự loại trừ|social exclusion|exclude (v)
+exclusive|độc quyền; khép kín|exclusive club|exclusively (adv)
+exclusively|duy nhất, độc quyền|exclusively for|exclusive (adj)
+execute|hành quyết; thực hiện|execute a plan|execution (n)
+execution|sự hành quyết; thực thi|execution of a plan|execute (v)
+exert|dùng (sức ảnh hưởng)|exert pressure|exertion (n)
+exile|sự lưu vong|live in exile|
+expenditure|chi tiêu|public expenditure|expend (v)
+experimental|thực nghiệm|experimental research|experiment (n)
+expire|hết hạn|the licence expired|expiry (n)
+explicit|rõ ràng, tường minh|explicit instructions|explicitly (adv)
+explicitly|rõ ràng|explicitly state|explicit (adj)
+exploitation|sự bóc lột|exploitation of workers|exploit (v)
+explosive|chất nổ; dễ bùng nổ|explosive device|explode (v)
+extremist|phần tử cực đoan|extremist groups|extreme (adj)
+facilitate|tạo điều kiện|facilitate learning|facilitator (n)
+faction|phe phái|rival factions|
+faculty|khoa (đại học); năng lực|science faculty|
+fade|phai nhạt|memories fade|
+fairness|sự công bằng|fairness and justice|fair (adj)
+fatal|chết người|fatal disease|fatally (adv)
+fate|số phận|accept your fate|
+favourable|thuận lợi|favourable conditions|favour (n)
+feat|kỳ tích|an impressive feat|
+feminist|nhà nữ quyền|feminist movement|feminism (n)
+fibre|sợi; chất xơ|natural fibres|
+fierce|dữ dội|fierce competition|fiercely (adv)
+film-maker|nhà làm phim|independent film-maker|
+filter|bộ lọc; lọc|water filter|
+firearm|súng|carry firearms|
+fixture|vật cố định; người quen thuộc|a fixture at events|
+flaw|khuyết điểm|a fatal flaw|flawed (adj)
+flawed|có khuyết điểm|flawed human being|flaw (n)
+flee|chạy trốn|flee the country|
+fleet|đội (tàu, xe)|a fleet of taxis|
+flesh|thịt (cơ thể)|flesh and blood|
+flexibility|tính linh hoạt|show flexibility|flexible (adj)
+flourish|phát triển mạnh|business flourishes|
+fluid|chất lỏng; linh hoạt|fluid situation|
+footage|đoạn phim|video footage|
+foreigner|người nước ngoài|many foreigners|foreign (adj)
+forge|rèn; tạo dựng|forge a bond|
+formula|công thức|a formula for success|formulate (v)
+formulate|xây dựng (ý tưởng)|formulate a plan|formula (n)
+forth|về phía trước|back and forth|
+forthcoming|sắp tới|forthcoming event|
+foster|nuôi dưỡng, thúc đẩy|foster creativity|
+fragile|mong manh|fragile peace|fragility (n)
+franchise|nhượng quyền thương hiệu|media franchise|
+frankly|thẳng thắn mà nói|frankly speaking|frank (adj)
+frustrated|bực bội|feel frustrated|frustration (n)
+frustrating|gây bực bội|frustrating experience|frustrate (v)
+frustration|sự bực bội|express frustration|frustrate (v)
+functional|hoạt động được; chức năng|barely functional|function (n)
+fundraising|gây quỹ|fundraising event|fund (n)
+funeral|đám tang|attend a funeral|
+gallon|ga-lông|a gallon of milk|
+gambling|cờ bạc|gambling addiction|gamble (v)
+gathering|cuộc tụ họp|family gathering|gather (v)
+gaze|nhìn chằm chằm|gaze at|
+gear|đồ nghề; số (xe)|camera gear|
+generic|chung chung|generic advice|
+genocide|tội diệt chủng|commit genocide|
+glance|liếc nhìn|at a glance|
+glimpse|cái nhìn thoáng qua|catch a glimpse|
+glorious|rực rỡ, vinh quang|glorious day|glory (n)
+glory|vinh quang|seek glory|glorious (adj)
+governance|sự quản trị|good governance|govern (v)
+grace|sự duyên dáng; ân sủng|with grace|graceful (adj)
+grasp|nắm bắt; hiểu|grasp the idea|
+grave:tomb|ngôi mộ|visit a grave|
+grave:serious|nghiêm trọng|grave consequences|gravely (adv)
+gravity|trọng lực; sức nặng|the gravity of the situation|
+grid|lưới|electricity grid|
+grief|nỗi đau buồn|deal with grief|grieve (v)
+grin|cười toe toét|a big grin|
+grind|xay; bào mòn|grind sb down|
+grip|nắm chặt|lose your grip|
+gross|tổng; nghiêm trọng; ghê tởm|gross violation|
+guerrilla|du kích|guerrilla warfare|
+guidance|sự hướng dẫn|seek guidance|guide (v)
+guilt|cảm giác tội lỗi|feel guilt|guilty (adj)
+gut|ruột; linh cảm|gut feeling|
+hail|mưa đá; ca ngợi|hail storm|
+halfway|nửa đường|halfway through|
+halt|dừng lại|come to a halt|
+handful|một nắm; số ít|a handful of people|
+handling|sự xử lý|handling of documents|handle (v)
+handy|tiện dụng|come in handy|
+harassment|sự quấy rối|sexual harassment|harass (v)
+hardware|phần cứng; đồ kim khí|computer hardware|
+harmony|sự hòa hợp|in harmony with|harmonious (adj)
+harsh|khắc nghiệt|harsh reality|
+harvest|mùa gặt|harvest time|
+hatred|lòng căm thù|racial hatred|hate (v)
+haunt|ám ảnh|haunt sb|haunted (adj)
+hazard|mối nguy|health hazard|hazardous (adj)
+heighten|làm tăng|heighten awareness|height (n)
+heritage|di sản|cultural heritage|
+hierarchy|hệ thống thứ bậc|social hierarchy|hierarchical (adj)
+high-profile|nổi bật, được chú ý|high-profile case|
+hint|gợi ý|give a hint|
+homeland|quê hương|return to the homeland|
+hopeful|đầy hy vọng|feel hopeful|hope (n)
+horizon|đường chân trời|on the horizon|horizontal (adj)
+horn|còi; sừng|sound a horn|
+hostage|con tin|take sb hostage|
+hostile|thù địch|hostile environment|hostility (n)
+hostility|sự thù địch|open hostility|hostile (adj)
+humanitarian|nhân đạo|humanitarian aid|humanity (n)
+humanity|nhân loại; lòng nhân đạo|crimes against humanity|human (n)
+humble|khiêm tốn|humble beginnings|humility (n)
+hydrogen|khí hydro|hydrogen gas|
+identification|sự nhận dạng; giấy tờ|proof of identification|identify (v)
+ideological|thuộc hệ tư tưởng|ideological beliefs|ideology (n)
+ideology|hệ tư tưởng|political ideology|ideological (adj)
+idiot|kẻ ngốc|don't be an idiot|idiotic (adj)
+ignorance|sự thiếu hiểu biết|out of ignorance|ignorant (adj)
+imagery|hình ảnh (văn học)|vivid imagery|image (n)
+immense|bao la, to lớn|immense pressure|immensely (adv)
+imminent|sắp xảy ra|imminent danger|
+implementation|sự thực hiện|implementation of a plan|implement (v)
+imprison|bỏ tù|be imprisoned for|imprisonment (n)
+imprisonment|sự tù đày|life imprisonment|imprison (v)
+inability|sự không có khả năng|inability to read|able (adj)
+inadequate|không đầy đủ|inadequate care|adequate (adj)
+inappropriate|không phù hợp|inappropriate behaviour|appropriate (adj)
+incidence|tỷ lệ xảy ra|incidence of disease|incident (n)
+inclined|có xu hướng|be inclined to|inclination (n)
+inclusion|sự hòa nhập|social inclusion|include (v)
+incur|gánh chịu|incur costs|
+indicator|chỉ báo|key indicator|indicate (v)
+indictment|bản cáo trạng|an indictment for fraud|indict (v)
+indigenous|bản địa|indigenous people|
+induce|gây ra|induce change|
+indulge|nuông chiều, đắm chìm|indulge in|indulgence (n)
+inequality|sự bất bình đẳng|social inequality|equality (n)
+infamous|khét tiếng|infamous criminal|
+infant|trẻ sơ sinh|infant mortality|infancy (n)
+infect|lây nhiễm|be infected with|infection (n)
+inflict|gây ra (tổn hại)|inflict harm|
+influential|có ảnh hưởng|influential figure|influence (n)
+inherent|vốn có|inherent risks|inherently (adv)
+inhibit|kìm hãm|inhibit growth|inhibition (n)
+initiate|khởi xướng|initiate a project|initiative (n)
+inject|tiêm|inject drugs|injection (n)
+injection|mũi tiêm|have an injection|inject (v)
+injustice|sự bất công|social injustice|justice (n)
+inmate|phạm nhân|prison inmates|
+insertion|sự chèn vào|insertion into daily life|insert (v)
+insider|người trong cuộc|industry insider|
+inspect|kiểm tra|inspect a building|inspection (n)
+inspection|sự kiểm tra|safety inspection|inspect (v)
+inspiration|nguồn cảm hứng|source of inspiration|inspire (v)
+instinct|bản năng|trust your instincts|instinctive (adj)
+institutional|thuộc thể chế|institutional racism|institution (n)
+instruct|hướng dẫn|instruct sb to do sth|instruction (n)
+instrumental|đóng vai trò quan trọng|instrumental in|instrument (n)
+insufficient|không đủ|insufficient evidence|sufficient (adj)
+insult|lời lăng mạ; xúc phạm|an insult to|insulting (adj)
+intact|nguyên vẹn|remain intact|
+intake|lượng nạp vào|salt intake|
+integral|không thể thiếu|integral part of|
+integrated|được tích hợp|integrated system|integrate (v)
+integration|sự hội nhập|social integration|integrate (v)
+integrity|sự chính trực|personal integrity|
+intensify|tăng cường|intensify efforts|intense (adj)
+intensity|cường độ|high intensity|intense (adj)
+intensive|chuyên sâu|intensive care|intensively (adv)
+intent|ý định|with intent to|intention (n)
+interactive|tương tác|interactive screen|interact (v)
+interface|giao diện|user interface|
+interfere|can thiệp|interfere with|interference (n)
+interference|sự can thiệp|political interference|interfere (v)
+interim|tạm thời|in the interim|
+interior|nội thất; bên trong|interior design|
+intermediate|trung cấp, trung gian|intermediate level|
+intervene|can thiệp|intervene in|intervention (n)
+intervention|sự can thiệp|medical intervention|intervene (v)
+intimate|riêng tư, thân mật|intimate questions|intimacy (n)
+intriguing|hấp dẫn, thú vị|an intriguing idea|intrigue (v)
+investigator|điều tra viên|private investigator|investigate (v)
+invisible|vô hình|feel invisible|visible (adj)

@@ -1,0 +1,77 @@
+=== 45 | B1 | Reading the News Without Losing Your Mind | Đọc tin tức mà không đánh mất mình
+EN:
+A few years ago, I was addicted to news. I checked the latest headlines every hour, followed every political issue and watched documentaries and TV channels until late at night. During the national election, I followed every candidate, every campaign and every vote count. I thought I was well informed. In reality, I was anxious, angry and tired.
+
+One evening, after watching an episode of a crime programme about a murder, I could not sleep. The next day, I talked to my uncle, a retired newspaper editor. He said something that surprised me: "The press does not only inform people; it also needs viewers. Bad news attracts attention, so you see far more violent stories than good ones."
+
+He gave me some advice that I still follow. First, separate facts from opinions. A politician's claim is not the same as proof. Before you believe a story, check whether official sources, independent journalists or a court confirm it. Second, notice how a story makes you feel. If a headline makes you extremely angry, it may be designed to influence you, not to inform you. Third, do not judge too quickly. People who are arrested are not necessarily guilty; in a legal system, they are innocent until it is proved otherwise.
+
+I also changed my habits. Now I read the news mainly in the morning, from two or three reliable sources with different political views. I avoid entertainment shows that turn real crimes into drama, and I hardly ever read comments under articles, because they are generally unfair and silly.
+
+Being informed is important. Citizens need to understand the policies that affect them, to vote and, when necessary, to protest peacefully. But knowing about every problem in the world does not help anyone if it destroys your peace of mind. The goal is to be aware, not overwhelmed.
+VI:
+Vài năm trước, tôi nghiện tin tức. Tôi xem những tiêu đề mới nhất mỗi giờ, theo dõi mọi vấn đề chính trị và xem phim tài liệu, các kênh truyền hình đến khuya. Trong kỳ bầu cử quốc gia, tôi theo dõi từng ứng cử viên, từng chiến dịch và từng đợt kiểm phiếu. Tôi nghĩ mình nắm bắt thông tin rất tốt. Thực tế, tôi lo âu, giận dữ và mệt mỏi.
+
+Một tối, sau khi xem một tập phim về tội phạm kể về một vụ giết người, tôi không ngủ được. Hôm sau, tôi nói chuyện với chú tôi, một biên tập viên báo đã nghỉ hưu. Chú nói một điều khiến tôi ngạc nhiên: "Báo chí không chỉ đưa tin; nó còn cần người xem. Tin xấu thu hút sự chú ý, nên cháu thấy nhiều câu chuyện bạo lực hơn hẳn những câu chuyện tốt đẹp."
+
+Chú cho tôi vài lời khuyên mà đến giờ tôi vẫn làm theo. Thứ nhất, tách sự thật khỏi ý kiến. Tuyên bố của một chính trị gia không giống với bằng chứng. Trước khi tin một câu chuyện, hãy kiểm tra xem các nguồn chính thức, nhà báo độc lập hay tòa án có xác nhận không. Thứ hai, để ý cảm giác của mình khi đọc tin. Nếu một tiêu đề khiến bạn cực kỳ tức giận, có thể nó được thiết kế để tác động đến bạn, chứ không phải để cung cấp thông tin. Thứ ba, đừng phán xét quá nhanh. Người bị bắt chưa chắc đã có tội; trong hệ thống pháp luật, họ vô tội cho đến khi điều ngược lại được chứng minh.
+
+Tôi cũng thay đổi thói quen. Giờ tôi chủ yếu đọc tin vào buổi sáng, từ hai hoặc ba nguồn đáng tin cậy có quan điểm chính trị khác nhau. Tôi tránh những chương trình giải trí biến tội ác thật thành kịch tính, và hầu như không bao giờ đọc bình luận dưới các bài báo, vì chúng thường không công bằng và ngớ ngẩn.
+
+Nắm thông tin là quan trọng. Công dân cần hiểu các chính sách ảnh hưởng đến mình, đi bầu cử và, khi cần thiết, biểu tình ôn hòa. Nhưng biết về mọi vấn đề trên thế giới chẳng giúp được ai nếu nó phá hủy sự bình yên trong tâm trí bạn. Mục tiêu là nhận thức được, chứ không phải bị choáng ngợp.
+GR:
+not necessarily :: "are not necessarily guilty" — không nhất thiết, chưa chắc. Dùng để làm mềm một khẳng định.
+hardly ever :: "I hardly ever read comments" — hầu như không bao giờ (mang nghĩa phủ định, không dùng thêm "not").
+until it is proved otherwise :: Bị động + "otherwise" (điều ngược lại). Cụm hay trong văn viết về pháp luật.
+
+=== 46 | B1 | My First Science Fair | Hội chợ khoa học đầu tiên của tôi
+EN:
+In my last year of secondary school, our science teacher announced a competition: each student had to design an experiment and present it at the school science fair. I was not an academic student, and I almost decided not to take part. My friend Phong, who was keen on engineering, convinced me to join his team.
+
+Our idea was simple: could we clean dirty water using only cheap, natural materials? We collected samples of water from a pond near the school, and we built a filter from a plastic tube with layers of sand, small stones and powder made from burned wood. We tested each layer separately, measured the length of time the water took to flow through, and weighed the dirt that remained on each surface.
+
+At first, the results were disappointing. The water was still brown, and our theory seemed wrong. Instead of giving up, we analysed our data again. We noticed that the sand was not fine enough, so we changed it and added another layer. This time the water came out almost clear. We were amazed.
+
+Then we had to explain our project. We drew a diagram of the filter, wrote a short summary of the method and made a table of statistics showing the percentage of dirt removed at each stage. Our teacher helped us define some technical terms and check our conclusion. She reminded us that a scientific conclusion must be based on evidence, not on what we hope to find.
+
+We did not win first prize; a team with a small robot won. But a judge from a local laboratory told us our project was practical and could be useful in poor areas. That comment changed the way I saw myself. I realized I was not "bad at science"; I simply had never been given the chance to experiment, fail and try again.
+VI:
+Năm cuối cấp ba, giáo viên khoa học thông báo một cuộc thi: mỗi học sinh phải thiết kế một thí nghiệm và trình bày tại hội chợ khoa học của trường. Tôi không phải là học sinh giỏi học thuật, và suýt quyết định không tham gia. Bạn tôi là Phong, người mê ngành kỹ thuật, đã thuyết phục tôi vào nhóm cậu ấy.
+
+Ý tưởng của chúng tôi rất đơn giản: liệu có thể làm sạch nước bẩn chỉ bằng những vật liệu tự nhiên, rẻ tiền không? Chúng tôi lấy mẫu nước từ một cái ao gần trường, và làm một bộ lọc từ ống nhựa với các lớp cát, sỏi nhỏ và bột than gỗ. Chúng tôi thử từng lớp riêng biệt, đo khoảng thời gian nước chảy qua, và cân lượng chất bẩn còn lại trên mỗi bề mặt.
+
+Lúc đầu, kết quả thật đáng thất vọng. Nước vẫn còn màu nâu, và giả thuyết của chúng tôi có vẻ sai. Thay vì bỏ cuộc, chúng tôi phân tích lại dữ liệu. Chúng tôi nhận ra cát chưa đủ mịn, nên thay cát và thêm một lớp nữa. Lần này nước chảy ra gần như trong. Chúng tôi vô cùng kinh ngạc.
+
+Rồi chúng tôi phải giải thích dự án. Chúng tôi vẽ sơ đồ bộ lọc, viết một bản tóm tắt ngắn về phương pháp và lập bảng số liệu thống kê cho thấy tỉ lệ phần trăm chất bẩn được loại bỏ ở mỗi giai đoạn. Cô giáo giúp chúng tôi định nghĩa một số thuật ngữ kỹ thuật và kiểm tra kết luận. Cô nhắc rằng một kết luận khoa học phải dựa trên bằng chứng, chứ không phải điều chúng tôi mong tìm thấy.
+
+Chúng tôi không đạt giải nhất; một đội làm robot nhỏ đã thắng. Nhưng một giám khảo từ phòng thí nghiệm địa phương nói với chúng tôi rằng dự án rất thiết thực và có thể hữu ích ở những vùng nghèo. Lời nhận xét đó thay đổi cách tôi nhìn nhận bản thân. Tôi nhận ra mình không "dở khoa học"; chỉ là tôi chưa bao giờ được trao cơ hội thử nghiệm, thất bại và làm lại.
+GR:
+be keen on + N/V-ing :: "Phong, who was keen on engineering" — rất thích, say mê.
+convince sb to + V :: "convinced me to join his team" — thuyết phục ai làm gì. Đồng nghĩa: persuade sb to V.
+had never been given :: Bị động ở quá khứ hoàn thành với động từ hai tân ngữ: give sb sth → sb had been given sth.
+
+=== 47 | B1 | Finding Myself in Poetry | Tìm thấy chính mình trong thơ ca
+EN:
+I never thought I would like poetry. At school, the poems in our literature textbook seemed old-fashioned and difficult, and the teacher spent whole lessons explaining a single quotation. Poets, in my opinion, were odd, romantic people who lived in a world of their own.
+
+Everything changed during a difficult year in my early twenties. My relationship had ended, I felt lonely and I could not explain my emotions to anyone. One night, in a small bookshop, I picked up a book of translated poems. I opened it at a random page and read a short poem about a man walking alone in the rain. It described exactly what I felt, but in a few simple, beautiful lines. I bought the book and read it till two in the morning.
+
+Since then, poetry has become an important part of my life. Unlike a novel, which tells a long narrative with a plot and many chapters, a poem can capture a feeling in a single image. I have learned to read slowly, to read aloud and to notice the sound and rhythm of the words. Spoken poetry is especially powerful; I sometimes go to performances in a small studio where young poets share their work with a drum player in the background.
+
+I have also started writing my own poems. Most of them are silly or sad, and I will probably never publish them. That is fine. Writing helps me reflect on my experiences and turn painful moments into something meaningful.
+
+If you think poetry is not for you, try a modern poet instead of a classical one, or listen to a recording of a poet reading their own work. You might be surprised. Sometimes another person's words can help us understand ourselves.
+VI:
+Tôi chưa từng nghĩ mình sẽ thích thơ. Ở trường, những bài thơ trong sách giáo khoa văn học có vẻ cổ lỗ và khó hiểu, và giáo viên dành cả buổi học để giải thích một câu trích dẫn. Theo tôi, nhà thơ là những người kỳ quặc, lãng mạn, sống trong thế giới riêng của họ.
+
+Mọi thứ thay đổi trong một năm khó khăn khi tôi mới ngoài hai mươi. Mối quan hệ của tôi đã kết thúc, tôi cô đơn và không thể giải thích cảm xúc của mình với ai. Một đêm, trong một hiệu sách nhỏ, tôi cầm lên một tập thơ dịch. Tôi mở ngẫu nhiên một trang và đọc một bài thơ ngắn về một người đàn ông đi một mình trong mưa. Nó mô tả chính xác những gì tôi cảm thấy, chỉ bằng vài dòng giản dị mà đẹp đẽ. Tôi mua cuốn sách và đọc đến hai giờ sáng.
+
+Từ đó, thơ trở thành một phần quan trọng trong cuộc sống của tôi. Không giống tiểu thuyết, kể một câu chuyện dài với cốt truyện và nhiều chương, một bài thơ có thể nắm bắt cảm xúc chỉ trong một hình ảnh. Tôi học cách đọc chậm, đọc to và để ý âm thanh, nhịp điệu của từ ngữ. Thơ được đọc lên đặc biệt mạnh mẽ; thỉnh thoảng tôi đi xem những buổi trình diễn ở một studio nhỏ, nơi các nhà thơ trẻ chia sẻ tác phẩm với tiếng trống làm nền.
+
+Tôi cũng bắt đầu tự viết thơ. Phần lớn chúng ngớ ngẩn hoặc buồn, và có lẽ tôi sẽ không bao giờ xuất bản. Không sao cả. Viết giúp tôi suy ngẫm về trải nghiệm của mình và biến những khoảnh khắc đau đớn thành điều gì đó có ý nghĩa.
+
+Nếu bạn nghĩ thơ không dành cho mình, hãy thử một nhà thơ hiện đại thay vì cổ điển, hoặc nghe bản ghi âm một nhà thơ đọc tác phẩm của chính họ. Bạn có thể sẽ bất ngờ. Đôi khi lời của người khác có thể giúp chúng ta hiểu chính mình.
+GR:
+Unlike + N, ... :: "Unlike a novel, which tells a long narrative..." — không giống như; dùng để so sánh đối lập.
+a world of their own :: Cụm "of one's own" = của riêng ai: a room of my own, a world of their own.
+turn A into B :: "turn painful moments into something meaningful" — biến A thành B.

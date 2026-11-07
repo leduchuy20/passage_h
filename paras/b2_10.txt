@@ -1,0 +1,29 @@
+=== 81 | B2 | How Habits Really Work | Thói quen thực sự vận hành ra sao
+EN:
+Why is it so hard to change a habit? For years, I assumed the answer was simply a lack of willpower. Then I read several books on psychology, and my perception of the problem altered fundamentally.
+
+Researchers broadly agree that a habit consists of three elements: a cue, a routine and a reward. The cue is a trigger — a time, a place, an emotion — that prompts us to act. The routine is the behaviour itself. The reward is the satisfaction we receive, which reinforces the loop and makes us more likely to repeat it. Over time, the process becomes almost unconscious. Apparently, a significant proportion of our daily actions happen automatically, without any conscious decision.
+
+This insight has a crucial implication. If we want to modify a habit, we should not rely only on our inner strength. Instead, we need to adjust the environment and the cues around us. For instance, I had an addiction to checking social media whenever I felt bored or impatient. I did not try to resist the desire through willpower alone. I moved the apps off my home screen and replaced them with a reading app. The cue (boredom) remained, but the routine changed, and I still felt a sense of reward.
+
+Another relevant idea is that change rarely happens rapidly. Habits evolve gradually, in phases. At first, you need to maintain the new behaviour consciously and consistently. If you anticipate difficult moments and prepare an alternative, you are less likely to be distracted or disturbed. Slight variations are acceptable; what matters is steady progress over a long duration.
+
+Finally, it helps to connect habits with identity. People who see themselves as "a runner" or "a reader" tend to retain their habits longer than those who just want to accomplish a goal. Essentially, the deepest changes are not about what we do but about who we believe we are.
+
+Understanding these principles has made me more patient with myself. Changing a habit is not a moral test; it is a skill, and, like any skill, it can be learned.
+VI:
+Tại sao thay đổi thói quen lại khó đến vậy? Nhiều năm, tôi cho rằng câu trả lời đơn giản là thiếu ý chí. Rồi tôi đọc vài cuốn sách về tâm lý học, và nhận thức của tôi về vấn đề thay đổi một cách căn bản.
+
+Các nhà nghiên cứu nhìn chung đồng ý rằng một thói quen gồm ba yếu tố: tín hiệu, hành vi lặp lại và phần thưởng. Tín hiệu là yếu tố kích hoạt — một thời điểm, một nơi chốn, một cảm xúc — thúc đẩy chúng ta hành động. Hành vi lặp lại chính là hành động đó. Phần thưởng là sự thỏa mãn chúng ta nhận được, củng cố vòng lặp và khiến ta dễ lặp lại nó hơn. Theo thời gian, quá trình này gần như trở nên vô thức. Rõ ràng, một tỉ lệ đáng kể các hành động hằng ngày của chúng ta diễn ra tự động, không cần bất kỳ quyết định có ý thức nào.
+
+Nhận thức này có một hàm ý then chốt. Nếu muốn điều chỉnh một thói quen, ta không nên chỉ dựa vào sức mạnh nội tâm. Thay vào đó, ta cần điều chỉnh môi trường và các tín hiệu xung quanh. Ví dụ, tôi từng nghiện kiểm tra mạng xã hội mỗi khi thấy chán hay mất kiên nhẫn. Tôi không cố cưỡng lại ham muốn chỉ bằng ý chí. Tôi chuyển các ứng dụng ra khỏi màn hình chính và thay bằng một ứng dụng đọc sách. Tín hiệu (sự buồn chán) vẫn còn, nhưng hành vi thay đổi, và tôi vẫn cảm thấy được tưởng thưởng.
+
+Một ý tưởng liên quan khác là sự thay đổi hiếm khi diễn ra nhanh chóng. Thói quen tiến hóa dần dần, theo từng giai đoạn. Lúc đầu, bạn cần duy trì hành vi mới một cách có ý thức và nhất quán. Nếu lường trước những thời điểm khó khăn và chuẩn bị phương án thay thế, bạn sẽ ít bị phân tâm hay xao nhãng hơn. Những biến đổi nhỏ là chấp nhận được; điều quan trọng là tiến bộ đều đặn trong một thời gian dài.
+
+Cuối cùng, gắn thói quen với bản sắc sẽ rất hữu ích. Những người coi mình là "người chạy bộ" hay "người đọc sách" có xu hướng giữ thói quen lâu hơn những người chỉ muốn hoàn thành một mục tiêu. Về bản chất, những thay đổi sâu sắc nhất không nằm ở việc ta làm gì mà ở việc ta tin mình là ai.
+
+Hiểu những nguyên tắc này giúp tôi kiên nhẫn hơn với bản thân. Thay đổi thói quen không phải là một bài kiểm tra đạo đức; nó là một kỹ năng, và như mọi kỹ năng, nó có thể học được.
+GR:
+For instance, ... :: = For example; dùng để đưa ví dụ minh họa trong bài luận.
+be less likely to + V :: "you are less likely to be distracted" — ít có khả năng hơn.
+not about what ... but about who ... :: Cấu trúc đối lập nhấn mạnh trọng tâm thật sự của vấn đề.

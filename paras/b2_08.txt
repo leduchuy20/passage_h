@@ -1,0 +1,29 @@
+=== 78 | B2 | Lessons from a Failed Startup | Bài học từ một startup thất bại
+EN:
+At twenty-six, I became an entrepreneur. Together with a university friend, I founded a small company that manufactured eco-friendly phone cases. As co-founders, we formed a partnership, wrote a business plan and convinced two investors to provide initial funding. Nowadays, when I look back, I can see every mistake clearly. At the time, I could not.
+
+Initially, everything went well. Our launch attracted publicity, a local celebrity agreed to sponsor us, and a retail chain placed a large order. Revenue exceeded our expectations in the first six months, and we began planning an expansion. We recruited new staff, signed a contract with a manufacturing corporation overseas and rented an office that we proudly called our "headquarters".
+
+Shortly afterwards, things began to collapse. A recession hit the economy, inflation increased our costs, and a shortage of materials delayed our output for months. The retail sector cut its orders, and our stock piled up in a warehouse. We tried to negotiate better terms with our suppliers, but the negotiations failed. Our accountant warned us that we were spending our assets far too quickly.
+
+Instead of facing reality, we speculated that the market would recover sometime soon. We offered bargain prices and promotions to dealers, created incentive schemes for customers and spent our last deposit on advertising. There was no framework, no clear guideline, only hope. Subsequently, we ran out of money. Within a year, the business was ruined.
+
+For a while, I felt miserable, ashamed and furious with myself. My friends were shocked; I had seemed so confident. I struggled to cope with the uncertainty of not knowing what to do next. A business consultant I consulted later gave me some insight: "Most startups fail. The norm is failure, not success. What matters is what you learn."
+
+Somehow, that idea relieved me. I realized that the experience, though painful, had taught me about finance, labour costs, recruitment, corporate negotiation and ownership. Lately, I have been working at a larger company, but I am already thinking about a new venture. The prospect no longer frightens me. I know the obstacles are real, but I also know I can overcome them. Failure is not the end of the story; in many scenarios, it is the beginning of a better one.
+VI:
+Năm hai mươi sáu tuổi, tôi trở thành một doanh nhân khởi nghiệp. Cùng với một người bạn đại học, tôi thành lập một công ty nhỏ sản xuất ốp điện thoại thân thiện với môi trường. Là đồng sáng lập, chúng tôi lập quan hệ đối tác, viết kế hoạch kinh doanh và thuyết phục hai nhà đầu tư cấp vốn ban đầu. Ngày nay, khi nhìn lại, tôi thấy rõ từng sai lầm. Lúc đó, tôi không thấy.
+
+Ban đầu, mọi thứ suôn sẻ. Buổi ra mắt thu hút sự chú ý của truyền thông, một người nổi tiếng địa phương đồng ý tài trợ, và một chuỗi bán lẻ đặt một đơn hàng lớn. Doanh thu vượt kỳ vọng trong sáu tháng đầu, và chúng tôi bắt đầu lên kế hoạch mở rộng. Chúng tôi tuyển thêm nhân viên, ký hợp đồng với một tập đoàn sản xuất ở nước ngoài và thuê một văn phòng mà chúng tôi tự hào gọi là "trụ sở chính".
+
+Không lâu sau, mọi thứ bắt đầu sụp đổ. Một cuộc suy thoái tấn công nền kinh tế, lạm phát đẩy chi phí lên, và tình trạng thiếu nguyên liệu khiến sản lượng chậm trễ nhiều tháng. Ngành bán lẻ cắt giảm đơn hàng, và hàng tồn kho chất đống trong nhà kho. Chúng tôi cố đàm phán điều khoản tốt hơn với nhà cung cấp, nhưng các cuộc đàm phán thất bại. Kế toán cảnh báo chúng tôi đang tiêu tài sản quá nhanh.
+
+Thay vì đối mặt với thực tế, chúng tôi suy đoán rằng thị trường sẽ sớm phục hồi. Chúng tôi đưa ra giá hời và khuyến mãi cho các đại lý, tạo các chương trình khuyến khích khách hàng và dùng khoản tiền gửi cuối cùng cho quảng cáo. Không có khuôn khổ, không có hướng dẫn rõ ràng, chỉ có hy vọng. Sau đó, chúng tôi hết tiền. Trong vòng một năm, công ty phá sản.
+
+Trong một thời gian, tôi thấy khổ sở, xấu hổ và giận bản thân. Bạn bè tôi sốc; tôi từng có vẻ rất tự tin. Tôi vật lộn để đối phó với sự bất định khi không biết làm gì tiếp theo. Một chuyên gia tư vấn kinh doanh mà tôi tham khảo sau đó cho tôi một góc nhìn: "Hầu hết các startup đều thất bại. Thất bại mới là chuẩn mực, không phải thành công. Điều quan trọng là bạn học được gì."
+
+Không hiểu sao, ý nghĩ đó làm tôi nhẹ lòng. Tôi nhận ra trải nghiệm ấy, dù đau đớn, đã dạy tôi về tài chính, chi phí lao động, tuyển dụng, đàm phán doanh nghiệp và quyền sở hữu. Gần đây, tôi làm việc ở một công ty lớn hơn, nhưng tôi đã nghĩ đến một dự án kinh doanh mới. Viễn cảnh đó không còn làm tôi sợ. Tôi biết những trở ngại là có thật, nhưng tôi cũng biết mình có thể vượt qua chúng. Thất bại không phải là kết thúc câu chuyện; trong nhiều kịch bản, nó là khởi đầu của một câu chuyện tốt đẹp hơn.
+GR:
+Shortly afterwards, ... :: Không lâu sau đó — cụm trạng từ thời gian dùng để chuyển đoạn trong văn kể chuyện.
+run out of + N :: "we ran out of money" — cạn kiệt, hết.
+though + adj (rút gọn) :: "the experience, though painful, had taught me..." — mệnh đề nhượng bộ rút gọn, rất trang nhã trong văn viết.

@@ -1,0 +1,42 @@
+1|4|it is very difficult to do|it takes a lot of free time|it is not very interesting
+2|1|In the city centre with Minh|In a small apartment in town|Near the hospital where he works
+2|3|They watch TV together after dinner.|They visit the grandparents in the village.|They listen to the brother's band play music.
+3|1|Thirty minutes|One whole hour|About two hours
+3|2|Relaxes at home with friends|Meets Lan at a cafe near college|Takes a practice exam at school
+3|4|Because both are dangerous activities|Because he loves climbing real mountains|Because you need special equipment for both
+4|3|Every single day|Only on Sunday mornings|About once a month
+4|4|One healthy meal can change your whole life.|You should not choose your own food too often.|Small meals are always better than big meals.
+5|0|A business trip to the capital with colleagues|How to buy cheap plane tickets online|The long history of the capital city
+5|1|The manager of his hotel|A waiter at a restaurant|A group of students in the park
+5|2|He went back to the hotel and slept.|He took a taxi to the market to buy gifts.|He stayed inside the museum until evening.
+5|3|The writer played the guitar with the band.|The writer met the old woman from the plane again.|The concert was cancelled because of the rain.
+5|4|Tired and bored with travelling|Lonely and sad without his family|Nervous about flying home again
+6|0|He wanted to open his own cafe one day soon.|His parents owned the cafe and asked him to help.|He could not find a job in an office in town.
+6|1|He broke many cups and glasses.|He arrived an hour late for work.|He lost some of the cafe's money.
+6|2|Work faster than the other waiters do.|Always smile at every customer you meet.|Never say sorry when a customer is angry.
+6|3|He spent all of it on new clothes.|He gave all of it to his family.|He used it to travel in the summer.
+6|4|He studied his textbooks in the cafe every day.|The cafe was right next to his old school.|He wants to become a teacher at a school.
+7|0|Cleaning a room is boring but it is necessary.|The writer really wants to move to a bigger bedroom.|You should give all your old clothes to your family.
+7|1|Her room was much too small.|She had no furniture in her room.|Her room was always too cold.
+7|4|She earns more money in her new job.|She has stopped buying new clothes completely.|Her cousin gives her the things she needs.
+8|1|His parents did not allow him to play any sport.|He was often sick and missed PE lessons.|There was no sports club or field at his school.
+9|2|It is the month of her birthday party.|She goes to the beach with her family.|She visits her aunt in the north.
+9|4|Write twelve big goals for the whole year|Read eighteen books before the next January|Join a free English club at the library
+10|0|How to become a successful farmer|Dangerous wild animals in the countryside|Why life in cities is better than in villages
+11|0|Machines and computers are always dangerous.|We should buy newer and better machines.|Servants should learn to use more technology.
+11|1|About one hour a day|About two hours a day|Only at the weekend
+11|2|He never uses the internet at home.|He checks his email every single hour.|He watches TV with his family during dinner.
+11|3|Only in the evening after work|Every morning at six o'clock|Just once a week on Sunday
+11|4|He hates it and wants to stop using it.|He is afraid of what it is doing to people.|He thinks most of it is completely useless.
+12|0|She could not find nice clothes in the shops.|She lost her job at the end of the month.|She did not know how to cook her own food.
+12|4|She is happy that she still has her old CDs.|She wants to buy more boots with the money.|She sold her things online many years ago.
+13|4|An expensive thing from a shop|A big, beautiful birthday cake|A card with old photos
+14|2|It is boring and nothing really happens.|He loves helping sick people in hospital.|He is not rich, but he does what he loves.
+14|3|His parents told him that tourism is the best career.|It pays a lot of money and is not very difficult.|His teacher works in tourism and gave him advice.
+14|4|Choose the career that your parents want for you.|Your first choice must be perfect from the start.|Tourism is the best job for most young people.
+15|1|A school teacher|A fisherman on the coast|A rice farmer
+15|4|To travel by plane next time|To become a train driver like him|To always try to arrive fast
+16|1|He played tennis every weekend.|He fell off his bike on the way home.|He carried heavy books to class.
+16|2|"You need to drink more coffee."|"You must study more every day."|"Stop going to class for a month."
+16|3|Drinks a cup of strong coffee|Checks his phone for messages|Has a short, warm bath
+16|4|He calls his doctor for advice.|He goes to sleep for an hour.|He ignores it and keeps studying.

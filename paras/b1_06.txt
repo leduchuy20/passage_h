@@ -1,0 +1,29 @@
+=== 49 | B1 | Running My First Marathon | Chạy cuộc marathon đầu tiên
+EN:
+Two years ago, I could not run for more than ten minutes. I was not a natural athlete, and I had always disliked running. Then a colleague, a former champion of a local [race|race:contest], challenged me: "If you start training now, you could finish a marathon in a year." I laughed, but the possibility stayed in my mind.
+
+I knew it was unlikely that I would win anything. My goal was simple: to cross the finish line. So I made a fixed training plan and stuck to it, whether it was raining, cold or extremely hot. At first, I ran slowly and walked often. My toes hurt, my lungs burned and I was out of breath after a few hundred metres. But week by week, my strength and balance improved.
+
+Training properly taught me a lot about my body. I learned to concentrate on my breathing, to keep my shoulders relaxed and to listen to the signals of pain. I learned that if you increase the distance too fast, you will certainly get injured. My heart rate became lower, and I could predict my speed quite easily.
+
+On the day of the race, the atmosphere in the stadium was full of excitement. Thousands of competitors stood at the start under colourful flags, and a huge crowd of supporters cheered. Among the runners, I saw people of every age and range of ability: elite athletes, students, grandmothers and even a man running backwards.
+
+The first twenty kilometres felt great. Then, at around kilometre thirty, my legs became heavy and I wanted to stop. A stranger running next to me said, "Don't look too far ahead. Just reach the next tree." I did that, again and again, until I saw the finish line.
+
+I finished in five hours — slower than most, but I did not care. The celebration afterwards was one of the happiest moments of my life. The marathon taught me that big goals are reached in small pieces, and that we are usually much stronger than we believe.
+VI:
+Hai năm trước, tôi không thể chạy quá mười phút. Tôi không phải vận động viên bẩm sinh, và tôi luôn ghét chạy bộ. Rồi một đồng nghiệp, cựu vô địch một giải chạy địa phương, thách thức tôi: "Nếu bắt đầu tập ngay bây giờ, cậu có thể hoàn thành một cuộc marathon trong một năm." Tôi bật cười, nhưng khả năng đó cứ lởn vởn trong đầu tôi.
+
+Tôi biết mình khó mà thắng được gì. Mục tiêu của tôi đơn giản: về đích. Vì vậy tôi lập một kế hoạch tập luyện cố định và kiên trì theo nó, dù trời mưa, lạnh hay cực kỳ nóng. Lúc đầu, tôi chạy chậm và thường xuyên đi bộ. Ngón chân đau, phổi rát và tôi hết hơi chỉ sau vài trăm mét. Nhưng tuần này qua tuần khác, sức mạnh và khả năng giữ thăng bằng của tôi được cải thiện.
+
+Tập luyện đúng cách dạy tôi rất nhiều về cơ thể mình. Tôi học cách tập trung vào hơi thở, giữ vai thả lỏng và lắng nghe tín hiệu của cơn đau. Tôi biết rằng nếu tăng cự ly quá nhanh, chắc chắn bạn sẽ bị chấn thương. Nhịp tim của tôi chậm lại, và tôi có thể dự đoán tốc độ của mình khá dễ dàng.
+
+Vào ngày đua, bầu không khí ở sân vận động tràn ngập sự hào hứng. Hàng nghìn vận động viên đứng ở vạch xuất phát dưới những lá cờ đầy màu sắc, và một đám đông cổ động viên khổng lồ reo hò. Giữa những người chạy, tôi thấy đủ mọi lứa tuổi và trình độ: vận động viên ưu tú, sinh viên, các bà cụ và thậm chí một người đàn ông chạy giật lùi.
+
+Hai mươi cây số đầu tiên thật tuyệt. Rồi khoảng cây số thứ ba mươi, chân tôi nặng trĩu và tôi muốn dừng lại. Một người lạ chạy bên cạnh nói: "Đừng nhìn quá xa phía trước. Chỉ cần đến được cái cây tiếp theo." Tôi làm như vậy, lặp đi lặp lại, cho đến khi thấy vạch đích.
+
+Tôi về đích sau năm tiếng — chậm hơn hầu hết mọi người, nhưng tôi không bận tâm. Buổi ăn mừng sau đó là một trong những khoảnh khắc hạnh phúc nhất đời tôi. Cuộc marathon dạy tôi rằng mục tiêu lớn được đạt tới từng mảnh nhỏ, và chúng ta thường mạnh mẽ hơn mình tưởng rất nhiều.
+GR:
+It is unlikely that + mệnh đề :: "it was unlikely that I would win anything" — khó có khả năng là...
+stick to + N :: "made a fixed training plan and stuck to it" — kiên trì theo (kế hoạch, quyết định).
+Câu điều kiện loại 1 diễn tả quy luật :: "if you increase the distance too fast, you will certainly get injured."

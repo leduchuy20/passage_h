@@ -1,0 +1,858 @@
+ability|khả năng, năng lực
+able|có thể (be able to)
+abroad|ở nước ngoài
+accept|chấp nhận
+accident|tai nạn
+according to|theo (như)
+achieve|đạt được
+act|hành động; diễn
+active|năng động, tích cực
+actually|thực ra
+advantage|lợi thế, ưu điểm
+adventure|cuộc phiêu lưu
+advertise|quảng cáo (động từ)
+advertisement|mẩu quảng cáo
+advertising|ngành/việc quảng cáo
+affect|ảnh hưởng đến
+against|chống lại; dựa vào
+ah|à (thán từ)
+airline|hãng hàng không
+alive|còn sống
+all right|ổn, được
+allow|cho phép
+almost|gần như
+alone|một mình
+along|dọc theo
+already|đã rồi
+alternative|sự lựa chọn khác
+although|mặc dù
+among|giữa (nhiều người/vật)
+amount|lượng, số lượng
+ancient|cổ xưa
+ankle|mắt cá chân
+anybody|bất kỳ ai
+any more|nữa (phủ định: not any more)
+anyway|dù sao đi nữa
+anywhere|bất cứ đâu
+app|ứng dụng
+appear|xuất hiện
+appearance|vẻ bề ngoài; sự xuất hiện
+apply|nộp đơn; áp dụng
+architect|kiến trúc sư
+architecture|kiến trúc
+argue|tranh cãi
+argument|cuộc tranh cãi; lập luận
+army|quân đội
+arrange|sắp xếp
+arrangement|sự sắp xếp
+asleep|đang ngủ
+assistant|trợ lý
+athlete|vận động viên
+attack|tấn công
+attend|tham dự
+attention|sự chú ý
+attractive|hấp dẫn, thu hút
+audience|khán giả
+author|tác giả
+available|có sẵn
+average|trung bình
+avoid|tránh
+award|giải thưởng
+awful|tồi tệ, kinh khủng
+background|lai lịch, nền tảng; phông nền
+badly|tệ, nặng (bị thương)
+bar|quán bar; thanh
+baseball|bóng chày
+based|có trụ sở tại; dựa trên
+basketball|bóng rổ
+bean|hạt đậu
+bear:animal|con gấu
+beat|đánh bại; nhịp
+beef|thịt bò
+behave|cư xử
+behaviour|hành vi
+belong|thuộc về
+belt|thắt lưng
+benefit|lợi ích
+billion|tỷ
+bin|thùng rác
+biology|sinh học
+birth|sự ra đời
+biscuit|bánh quy
+bit|một chút (a bit)
+blank|trống, trắng
+blood|máu
+blow|thổi
+board|tấm bảng; ban (giám đốc)
+boil|đun sôi, luộc
+bone|xương
+borrow|mượn
+boss|sếp
+bottom|đáy, phía dưới
+bowl|cái bát
+brain|não
+bridge|cây cầu
+bright|sáng; thông minh
+brilliant|xuất sắc, rực rỡ
+broken|bị vỡ, hỏng
+brush|bàn chải; chải
+burn|đốt cháy; bỏng
+businessman|doanh nhân
+button|cái nút, cúc áo
+camp|trại; cắm trại
+camping|việc cắm trại
+can2|cái lon, hộp kim loại
+care|sự quan tâm; quan tâm
+careful|cẩn thận
+carefully|một cách cẩn thận
+carpet|tấm thảm
+cartoon|phim hoạt hình; tranh biếm họa
+case|trường hợp; cái hộp
+cash|tiền mặt
+castle|lâu đài
+catch|bắt, chụp
+cause|nguyên nhân; gây ra
+celebrate|kỷ niệm, ăn mừng
+celebrity|người nổi tiếng
+certain|chắc chắn; nhất định
+certainly|chắc chắn
+chance|cơ hội
+character|nhân vật; tính cách
+charity|tổ chức từ thiện
+chat|trò chuyện
+chef|đầu bếp
+chemistry|hóa học
+chip|khoai tây chiên; con chip
+church|nhà thờ
+cigarette|điếu thuốc lá
+circle|hình tròn; vòng tròn
+classical|cổ điển
+clear|rõ ràng
+clearly|rõ ràng
+clever|thông minh, khéo léo
+climate|khí hậu
+close2|gần; thân thiết
+closed|đóng cửa
+clothing|quần áo (nói chung)
+cloud|đám mây
+coach|huấn luyện viên; xe khách
+coast|bờ biển
+code|mã; mật mã
+colleague|đồng nghiệp
+collect|thu thập, sưu tầm
+column|cột
+comedy|hài kịch
+comfortable|thoải mái
+comment|bình luận
+communicate|giao tiếp
+community|cộng đồng
+compete|cạnh tranh, thi đấu
+competition|cuộc thi; sự cạnh tranh
+complain|phàn nàn
+completely|hoàn toàn
+condition|điều kiện; tình trạng
+conference|hội nghị
+connect|kết nối
+connected|có liên quan, được kết nối
+consider|cân nhắc
+contain|chứa đựng
+context|bối cảnh, ngữ cảnh
+continent|châu lục
+continue|tiếp tục
+control|kiểm soát
+cook|đầu bếp (danh từ)
+cooker|bếp nấu
+copy|bản sao; sao chép
+corner|góc
+correctly|một cách chính xác
+count|đếm
+couple|cặp đôi; vài
+cover|che phủ; bìa
+crazy|điên rồ
+creative|sáng tạo
+credit|tín dụng
+crime|tội phạm, tội ác
+criminal|kẻ phạm tội
+cross|băng qua
+crowd|đám đông
+crowded|đông đúc
+cry|khóc
+cupboard|tủ chén, tủ đựng đồ
+curly|xoăn
+cycle|đạp xe; chu kỳ
+daily|hằng ngày
+danger|mối nguy hiểm
+dark|bóng tối (danh từ)
+data|dữ liệu
+dead|chết
+deal|giải quyết, xử lý (deal with)
+dear|trời ơi (thán từ: oh dear)
+death|cái chết
+decision|quyết định
+deep|sâu
+definitely|chắc chắn
+degree|bằng cấp; độ
+dentist|nha sĩ
+department|phòng ban; khoa
+depend|phụ thuộc (depend on)
+desert|sa mạc
+designer|nhà thiết kế
+destroy|phá hủy
+detective|thám tử
+develop|phát triển
+device|thiết bị
+diary|nhật ký
+differently|khác biệt
+digital|kỹ thuật số
+direct|trực tiếp
+direction|hướng
+director|giám đốc; đạo diễn
+disagree|không đồng ý
+disappear|biến mất
+disaster|thảm họa
+discover|khám phá
+discovery|sự khám phá
+discussion|cuộc thảo luận
+disease|bệnh tật
+distance|khoảng cách
+divorced|đã ly hôn
+document|tài liệu
+double|gấp đôi; đôi
+download|tải xuống
+downstairs|ở tầng dưới (tính từ)
+drama|kịch; phim chính kịch
+drawing|bức vẽ
+dream|giấc mơ; mơ
+drive|chuyến đi (bằng xe)
+driving|việc lái xe
+drop|làm rơi; giảm
+drug|thuốc; ma túy
+dry|khô; làm khô
+earn|kiếm (tiền)
+earth|trái đất
+easily|dễ dàng
+education|giáo dục
+effect|ảnh hưởng, tác động
+either|một trong hai; cũng (không)
+electric|chạy bằng điện
+electrical|thuộc về điện
+electricity|điện
+electronic|điện tử
+employ|thuê, tuyển dụng
+employee|nhân viên
+employer|chủ lao động
+empty|trống rỗng
+ending|đoạn kết
+energy|năng lượng
+engine|động cơ
+engineer|kỹ sư
+enormous|khổng lồ
+enter|đi vào; nhập
+environment|môi trường
+equipment|thiết bị (không đếm được)
+error|lỗi
+especially|đặc biệt là
+essay|bài luận
+everyday|hằng ngày, thường nhật
+everywhere|khắp mọi nơi
+evidence|bằng chứng
+exact|chính xác
+exactly|chính xác
+excellent|xuất sắc
+except|ngoại trừ
+exist|tồn tại
+expect|mong đợi
+experience|kinh nghiệm; trải nghiệm
+experiment|thí nghiệm
+expert|chuyên gia
+explanation|lời giải thích
+express|diễn đạt, bày tỏ
+expression|biểu hiện; thành ngữ
+extreme|cực đoan, khắc nghiệt
+extremely|cực kỳ
+factor|yếu tố
+factory|nhà máy
+fail|thất bại; trượt
+fair|công bằng
+fall|mùa thu (Anh-Mỹ); sự ngã
+fan|người hâm mộ; cái quạt
+farm|làm nông
+farming|nghề nông
+fashion|thời trang
+fat|chất béo
+fear|nỗi sợ
+feature|đặc điểm
+feed|cho ăn
+female|nữ
+fiction|tiểu thuyết hư cấu
+field|cánh đồng; lĩnh vực
+fight|đánh nhau, chiến đấu
+figure|con số; hình dáng
+film|quay phim
+final|trận chung kết
+finally|cuối cùng
+finger|ngón tay
+finish|đích, sự kết thúc
+first|người/vật đầu tiên
+firstly|thứ nhất là
+fish|câu cá (động từ)
+fishing|việc câu cá
+fit|vừa vặn; khỏe mạnh
+fix|sửa chữa
+flat|bằng phẳng
+flu|bệnh cúm
+fly|con ruồi
+flying|việc bay; đang bay
+focus|tập trung
+following|tiếp theo
+foreign|nước ngoài
+forest|rừng
+fork|cái nĩa
+formal|trang trọng
+fortunately|may mắn thay
+forward|về phía trước
+free|miễn phí (trạng từ)
+fresh|tươi
+fridge|tủ lạnh
+frog|con ếch
+fun|vui (tính từ)
+furniture|đồ nội thất
+further|xa hơn; thêm nữa
+future|thuộc tương lai
+gallery|phòng trưng bày
+gap|khoảng trống
+gas|khí đốt; xăng (Anh-Mỹ)
+gate|cổng
+general|chung, tổng quát
+gift|món quà; năng khiếu
+goal|mục tiêu; bàn thắng
+god|Chúa, thần
+gold|vàng
+golf|môn golf
+good|điều tốt
+government|chính phủ
+grass|cỏ
+greet|chào hỏi
+ground|mặt đất
+guest|khách
+guide|hướng dẫn viên; hướng dẫn
+gun|khẩu súng
+guy|anh chàng
+habit|thói quen
+half|một nửa (trạng từ)
+hall|hội trường; sảnh
+happily|vui vẻ
+have|đã (trợ động từ: have done)
+headache|đau đầu
+heart|trái tim
+heat|nhiệt; làm nóng
+heavy|nặng
+height|chiều cao
+helpful|hữu ích, hay giúp đỡ
+hero|anh hùng
+hers|của cô ấy
+herself|chính cô ấy
+hide|trốn; giấu
+high|cao (trạng từ)
+hill|ngọn đồi
+himself|chính anh ấy
+his|của anh ấy (đại từ)
+hit|đánh, va
+hockey|khúc côn cầu
+hold|cầm, giữ
+hole|cái lỗ
+home|thuộc gia đình, trong nước
+hope|niềm hy vọng
+huge|khổng lồ
+human|con người
+hurt|làm đau; bị đau
+ideal|lý tưởng
+identify|xác định, nhận ra
+ill|ốm
+illness|bệnh tật
+image|hình ảnh
+immediately|ngay lập tức
+impossible|không thể
+included|được bao gồm
+including|bao gồm cả
+increase|tăng
+incredible|khó tin, tuyệt vời
+independent|độc lập
+individual|cá nhân
+industry|ngành công nghiệp
+informal|thân mật, không trang trọng
+injury|chấn thương
+insect|côn trùng
+inside|bên trong
+instead|thay vào đó
+instruction|chỉ dẫn
+instructor|người hướng dẫn
+instrument|nhạc cụ; dụng cụ
+intelligent|thông minh
+international|quốc tế
+introduction|sự giới thiệu; lời mở đầu
+invent|phát minh
+invention|phát minh
+invitation|lời mời
+invite|mời
+involve|liên quan, bao gồm
+item|món đồ, mục
+itself|chính nó
+jam|mứt
+jazz|nhạc jazz
+jewellery|trang sức
+joke|câu đùa
+journalist|nhà báo
+jump|nhảy
+kid|đứa trẻ (thân mật)
+kill|giết
+king|vua
+knee|đầu gối
+knife|con dao
+knock|gõ (cửa)
+knowledge|kiến thức
+lab|phòng thí nghiệm
+lady|quý bà
+lake|hồ
+lamp|đèn bàn
+land|hạ cánh
+laptop|máy tính xách tay
+last:time|kéo dài (thời gian)
+later|sau này (tính từ)
+laughter|tiếng cười
+law|luật pháp
+lawyer|luật sư
+lazy|lười
+lead|dẫn dắt
+leader|người lãnh đạo
+learning|việc học
+least|ít nhất
+lecture|bài giảng
+lemon|quả chanh
+lend|cho mượn
+less|ít hơn
+level|mức độ, cấp độ
+lifestyle|lối sống
+lift|nâng; thang máy
+light:weight|nhẹ
+likely|có khả năng
+link|liên kết
+listener|người nghe
+little|một chút (trạng từ)
+lock|khóa
+look|cái nhìn; vẻ ngoài
+lorry|xe tải (Anh-Anh)
+lost|bị lạc; bị mất
+loud|to, ồn
+loudly|to tiếng
+lovely|đáng yêu, tuyệt
+low|thấp
+luck|sự may mắn
+lucky|may mắn
+mail|thư từ; gửi thư
+major|lớn, chủ yếu
+male|nam
+manage|quản lý; xoay xở
+manager|người quản lý
+manner|cách thức; phép lịch sự
+mark|điểm số; đánh dấu
+marry|kết hôn
+material|vật liệu; tài liệu
+mathematics|toán học
+maths|môn toán (Anh-Anh)
+matter|vấn đề; có ý nghĩa
+may|có thể (khả năng, xin phép)
+media|truyền thông
+medical|y tế
+medicine|thuốc; y học
+memory|trí nhớ; kỷ niệm
+mention|đề cập
+metal|kim loại
+method|phương pháp
+middle|ở giữa
+might|có lẽ, có thể
+mind|tâm trí; phiền (do you mind)
+mine:my|của tôi (đại từ)
+mirror|gương
+missing|bị mất, mất tích
+mobile|di động
+monkey|con khỉ
+moon|mặt trăng
+mostly|chủ yếu
+motorcycle|xe máy
+movement|sự chuyển động; phong trào
+musical|thuộc âm nhạc
+musician|nhạc sĩ, nhạc công
+myself|chính tôi
+narrow|hẹp
+national|quốc gia
+nature|thiên nhiên; bản chất
+nearly|gần như
+necessary|cần thiết
+neck|cái cổ
+need|nhu cầu
+neither|không cái nào trong hai
+nervous|lo lắng, hồi hộp
+network|mạng lưới
+noise|tiếng ồn
+noisy|ồn ào
+none|không ai, không cái nào
+normal|bình thường
+normally|thông thường
+notice|chú ý; thông báo
+novel|tiểu thuyết
+nowhere|không nơi nào
+number|đánh số
+nut|hạt (có vỏ cứng)
+ocean|đại dương
+offer|đề nghị; lời mời
+officer|sĩ quan, nhân viên
+oil|dầu
+onto|lên trên
+opportunity|cơ hội
+option|lựa chọn
+ordinary|bình thường
+organization|tổ chức
+organize|tổ chức (động từ)
+original|nguyên bản, độc đáo
+ourselves|chính chúng tôi
+outside|bên ngoài (giới từ, danh từ)
+oven|lò nướng
+own|sở hữu
+owner|chủ sở hữu
+pack|đóng gói, xếp đồ
+pain|cơn đau
+painter|họa sĩ
+palace|cung điện
+pants|quần dài (Mỹ); quần lót (Anh)
+parking|việc đỗ xe
+particular|cụ thể, đặc biệt
+pass|đi qua; vượt qua (kỳ thi)
+passenger|hành khách
+past|qua (trạng từ)
+patient|bệnh nhân
+pattern|mẫu, quy luật
+pay|tiền lương
+peace|hòa bình
+penny|đồng xu (Anh)
+per|mỗi (per day)
+per cent|phần trăm
+perform|biểu diễn; thực hiện
+perhaps|có lẽ
+permission|sự cho phép
+personality|tính cách
+pet|thú cưng
+petrol|xăng (Anh-Anh)
+photograph|chụp ảnh
+physical|thể chất
+physics|vật lý
+pick|chọn; hái
+pilot|phi công
+planet|hành tinh
+plant|trồng (động từ)
+plastic|nhựa
+plate|cái đĩa
+platform|sân ga; nền tảng
+please|làm hài lòng
+pleased|hài lòng
+pocket|túi áo/quần
+polite|lịch sự
+pollution|ô nhiễm
+pop|nhạc pop
+population|dân số
+position|vị trí
+possession|tài sản, sự sở hữu
+possibility|khả năng
+poster|áp phích
+power|sức mạnh, quyền lực; điện
+predict|dự đoán
+present|trình bày
+president|tổng thống; chủ tịch
+prevent|ngăn chặn
+print|in
+printer|máy in
+prison|nhà tù
+prize|giải thưởng
+process|quá trình
+produce|sản xuất
+professional|chuyên nghiệp
+professor|giáo sư
+profile|hồ sơ, trang cá nhân
+program|chương trình (máy tính)
+progress|sự tiến bộ
+promise|hứa; lời hứa
+pronounce|phát âm
+protect|bảo vệ
+provide|cung cấp
+pub|quán rượu (Anh)
+public|công cộng; công chúng
+publish|xuất bản
+pull|kéo
+purpose|mục đích
+push|đẩy
+quality|chất lượng
+quantity|số lượng
+queen|nữ hoàng
+question|đặt câu hỏi, chất vấn
+quietly|lặng lẽ
+race:contest|cuộc đua
+railway|đường sắt
+raise|nâng lên; nuôi dạy
+rate|tỷ lệ; mức
+rather|khá; thà
+reach|đạt tới, với tới
+react|phản ứng
+realize|nhận ra
+receive|nhận
+recent|gần đây
+recently|gần đây
+reception|quầy lễ tân; tiệc chiêu đãi
+recipe|công thức nấu ăn
+recognize|nhận ra
+recommend|giới thiệu, khuyên
+record|ghi lại; kỷ lục
+recording|bản ghi âm
+recycle|tái chế
+reduce|giảm
+refer|đề cập; tham khảo
+refuse|từ chối
+region|vùng, khu vực
+regular|đều đặn
+relationship|mối quan hệ
+remove|loại bỏ
+repair|sửa chữa
+replace|thay thế
+reply|trả lời
+report|báo cáo (động từ)
+reporter|phóng viên
+request|yêu cầu
+research|nghiên cứu
+researcher|nhà nghiên cứu
+respond|đáp lại
+response|phản hồi
+rest:remain|phần còn lại
+rest:relax|nghỉ ngơi
+review|đánh giá; ôn lại
+ride|chuyến đi (xe)
+ring1|chiếc nhẫn
+ring2|gọi điện; reo (chuông)
+rise|tăng; mọc
+rock:stone|đá, tảng đá
+rock:music|nhạc rock
+role|vai trò
+roof|mái nhà
+round|tròn; quanh
+route|tuyến đường
+rubbish|rác (Anh-Anh)
+rude|thô lỗ
+run|cuộc chạy
+runner|người chạy
+running|việc chạy bộ
+sadly|đáng buồn thay
+safe|an toàn
+sail|đi thuyền buồm
+sailing|môn đua thuyền buồm
+salary|tiền lương (tháng)
+sale|việc bán; đợt giảm giá
+sauce|nước sốt
+save|tiết kiệm; cứu
+scared|sợ hãi
+scary|đáng sợ
+scene|cảnh
+schedule|lịch trình
+score|điểm số; ghi bàn
+screen|màn hình
+search|tìm kiếm
+season|mùa
+seat|chỗ ngồi
+second:next|thứ hai là (trạng từ)
+secondly|thứ hai là
+secret|bí mật
+secretary|thư ký
+seem|có vẻ
+sense|giác quan; cảm giác
+separate|riêng biệt
+series|loạt, chuỗi
+serious|nghiêm túc; nghiêm trọng
+serve|phục vụ
+service|dịch vụ
+several|một vài
+shake|lắc, run
+shall|sẽ; nhé (Shall we...?)
+shape|hình dạng
+sheet|tờ; ga trải giường
+ship|tàu thủy
+shoulder|vai
+shout|hét
+shut|đóng
+side|bên, phía
+sign|biển báo; ký tên
+silver|bạc
+simple|đơn giản
+since|kể từ; bởi vì
+singing|việc ca hát
+single|đơn; độc thân
+sir|thưa ông
+site|địa điểm; trang web
+size|kích cỡ
+ski|trượt tuyết
+skiing|môn trượt tuyết
+skin|da
+sky|bầu trời
+sleep|giấc ngủ
+slowly|chậm rãi
+smartphone|điện thoại thông minh
+smell|ngửi; mùi
+smile|mỉm cười; nụ cười
+smoke|khói; hút thuốc
+smoking|việc hút thuốc
+soap|xà phòng
+soccer|bóng đá (Anh-Mỹ)
+social|thuộc xã hội
+society|xã hội
+sock|chiếc tất
+soft|mềm
+soldier|người lính
+solution|giải pháp
+solve|giải quyết
+somewhere|nơi nào đó
+sort|loại; sắp xếp
+source|nguồn
+speaker|người nói; loa
+specific|cụ thể
+speech|bài phát biểu
+speed|tốc độ
+spider|con nhện
+spoon|cái thìa
+square|hình vuông; quảng trường
+stage|sân khấu; giai đoạn
+stair|bậc thang (stairs: cầu thang)
+stamp|con tem
+star|đóng vai chính
+start|sự bắt đầu
+state|bang; trạng thái; nhà nước
+stay|kỳ lưu trú
+steal|ăn trộm
+step|bước
+stomach|dạ dày, bụng
+stone|đá
+store|cửa hàng
+storm|cơn bão
+straight|thẳng
+strange|lạ
+strategy|chiến lược
+stress|căng thẳng
+structure|cấu trúc
+stupid|ngu ngốc
+succeed|thành công
+successful|thành công (tính từ)
+such|như vậy
+suddenly|đột nhiên
+suggest|gợi ý
+suggestion|lời gợi ý
+suit|bộ com-lê; hợp với
+support|ủng hộ, hỗ trợ
+suppose|cho rằng
+sure|chắc chắn (trạng từ: sure!)
+surprise|sự ngạc nhiên; làm ngạc nhiên
+surprised|ngạc nhiên
+surprising|đáng ngạc nhiên
+survey|cuộc khảo sát
+sweet|ngọt; kẹo
+symbol|biểu tượng
+system|hệ thống
+tablet|máy tính bảng; viên thuốc
+talk|bài nói chuyện
+target|mục tiêu
+task|nhiệm vụ
+taste|nếm; vị
+teaching|việc giảng dạy
+technology|công nghệ
+teenage|thuộc tuổi thiếu niên
+temperature|nhiệt độ
+term|học kỳ; thuật ngữ
+text|nhắn tin
+themselves|chính họ
+thick|dày
+thief|kẻ trộm
+thin|mỏng; gầy
+thinking|suy nghĩ, tư duy
+third|một phần ba
+thought|suy nghĩ
+throw|ném
+tidy|gọn gàng; dọn dẹp
+tie|cà vạt; buộc
+tip|mẹo; tiền boa
+tool|công cụ
+top|đỉnh
+touch|chạm
+tour|chuyến tham quan
+tourism|du lịch (ngành)
+towards|về phía
+towel|khăn tắm
+tower|tòa tháp
+toy|đồ chơi
+track|đường mòn; theo dõi
+tradition|truyền thống
+traditional|thuộc truyền thống
+train|huấn luyện, tập luyện
+trainer|huấn luyện viên; giày thể thao
+training|sự huấn luyện
+transport|giao thông vận tải
+traveller|người đi du lịch
+trouble|rắc rối
+truck|xe tải
+twin|sinh đôi
+typical|điển hình
+underground|dưới lòng đất; tàu điện ngầm
+understanding|sự hiểu biết
+unfortunately|không may
+unhappy|không vui
+uniform|đồng phục
+unit|đơn vị
+united|thống nhất, đoàn kết
+unusual|bất thường
+upstairs|ở tầng trên (tính từ)
+use|sự sử dụng
+used to|đã từng (thói quen quá khứ)
+user|người dùng
+usual|thông thường
+valley|thung lũng
+van|xe van
+variety|sự đa dạng
+vehicle|phương tiện
+view|quang cảnh; quan điểm
+virus|vi-rút
+voice|giọng nói
+wait|sự chờ đợi
+war|chiến tranh
+wash|sự giặt rửa
+washing|đồ giặt
+wave|sóng; vẫy tay
+weak|yếu
+web|mạng (internet)
+wedding|đám cưới
+weight|cân nặng
+welcome|sự chào đón
+wet|ướt
+wheel|bánh xe
+while|trong khi
+whole|toàn bộ
+whose|của ai
+wide|rộng
+wild|hoang dã
+wind1|gió
+winner|người chiến thắng
+wish|ước; lời chúc
+wood|gỗ; rừng
+wooden|bằng gỗ
+working|đang làm việc
+worried|lo lắng
+worry|lo lắng (động từ)
+worse|tệ hơn
+worst|tệ nhất
+wow|ồ, chà
+yet|chưa; tuy nhiên
+yours|của bạn
+zero|số không
+choice|sự lựa chọn

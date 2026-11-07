@@ -1,0 +1,25 @@
+=== 65 | B1 | A Summer Working at a Children's Camp | Một mùa hè làm việc ở trại thiếu nhi
+EN:
+At nineteen, I spent a summer working at a children's camp in the hills. The site was a mix of forest, a lake and a few wooden buildings, and it attracted families from all over the country. I was hired to assist the leading instructor, a retired teacher who had worked there for decades. I thought it would be an easy job. I was wrong.
+
+On the first day, I had to help forty children enter the camp, find their rooms and unpack their stuff: clothes, underwear, caps, sun cream and an incredible variety of snacks their parents did not know about. Two boys were already fighting over a cap. "It's [mine|mine:my]!" one shouted. "No, it's theirs!" said a girl, pointing at another group. I quickly learned that children rarely tell the truth when sweets are involved — and that a small [lie|lie2] is often a sign of a bigger worry.
+
+Every day followed the usual routine. In the morning, we organized games and competitions; teams competed in boat races and tried to catch fish with a net. On windy afternoons, we went to the hill to fly kites, and the children laughed as the [wind|wind1] lifted them high into the air. On rainy days, we stayed indoors and did photography projects, folded paper birds or invented new games. In the evening, we [laid|lay] the tables, lit a fire with dry [sticks|stick:wood] and told stories.
+
+The most important lesson came from the instructor. When a shy girl hurt her neck and was too scared to tell anyone, the instructor noticed her expression immediately. "Watch their faces, not just their words," she told me. "Children show their feelings through movement long before they explain them."
+
+By the end of the summer, I understood that looking after others is not about control. It is about attention, patience and respect. Those children taught me far more than I taught them.
+VI:
+Năm mười chín tuổi, tôi dành một mùa hè làm việc ở một trại thiếu nhi trên đồi. Khu trại gồm rừng, một cái hồ và vài ngôi nhà gỗ, và nó thu hút các gia đình từ khắp cả nước. Tôi được thuê làm trợ lý cho người hướng dẫn chính, một cô giáo đã nghỉ hưu làm việc ở đó hàng chục năm. Tôi tưởng đó là một công việc dễ dàng. Tôi đã nhầm.
+
+Ngày đầu tiên, tôi phải giúp bốn mươi đứa trẻ vào trại, tìm phòng và dỡ đồ đạc của chúng: quần áo, đồ lót, mũ lưỡi trai, kem chống nắng và vô số loại đồ ăn vặt mà bố mẹ chúng không hề biết. Hai cậu bé đã tranh nhau một chiếc mũ. "Của tớ!" một cậu hét lên. "Không, của bọn họ!" một cô bé nói, chỉ vào một nhóm khác. Tôi nhanh chóng nhận ra rằng trẻ con hiếm khi nói thật khi có liên quan đến kẹo — và một lời nói dối nhỏ thường là dấu hiệu của một nỗi lo lớn hơn.
+
+Ngày nào cũng theo lịch trình thường lệ. Buổi sáng, chúng tôi tổ chức trò chơi và các cuộc thi; các đội thi đua chèo thuyền và cố bắt cá bằng lưới. Những buổi chiều lộng gió, chúng tôi lên đồi thả diều, và lũ trẻ cười vang khi gió nâng diều lên cao. Những ngày mưa, chúng tôi ở trong nhà làm các dự án nhiếp ảnh, gấp chim giấy hay sáng tạo trò chơi mới. Buổi tối, chúng tôi dọn bàn ăn, nhóm lửa bằng cành khô và kể chuyện.
+
+Bài học quan trọng nhất đến từ cô hướng dẫn. Khi một cô bé nhút nhát bị đau cổ và sợ không dám nói với ai, cô ngay lập tức nhận ra nét mặt của em. "Hãy nhìn khuôn mặt chúng, đừng chỉ nghe lời nói," cô bảo tôi. "Trẻ con thể hiện cảm xúc qua cử động từ rất lâu trước khi chúng giải thích được."
+
+Cuối mùa hè, tôi hiểu rằng chăm sóc người khác không phải là kiểm soát. Đó là sự chú ý, kiên nhẫn và tôn trọng. Những đứa trẻ ấy dạy tôi nhiều hơn rất nhiều so với những gì tôi dạy chúng.
+GR:
+be hired to + V :: "I was hired to assist the leading instructor" — được thuê để làm gì (bị động).
+long before + mệnh đề :: "long before they explain them" — từ rất lâu trước khi.
+far more than :: "taught me far more than I taught them" — "far" nhấn mạnh so sánh hơn (= much more).

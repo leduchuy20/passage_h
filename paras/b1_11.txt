@@ -1,0 +1,25 @@
+=== 55 | B1 | What Detective Stories Taught Me | Truyện trinh thám đã dạy tôi điều gì
+EN:
+I have been a fan of detective fiction since I was twelve, when my uncle gave me an old copy of a famous mystery novel. Originally published in the age of printing presses and steam trains, it was set in a country house where a rich gentleman had been poisoned at dinner. Every guest, servant and even the host had a reason to commit the crime. I could not stop reading.
+
+At first, I simply enjoyed being entertained. Later, I realized that these stories were teaching me how to think. A good detective does not jump to conclusions. She collects clues, considers various possibilities and rejects explanations that do not fit the facts. She notices small details: a missing button, a poisonous plant in the garden, a cup that has been washed when it should be dirty. Only when every piece fits does she reach a definite conclusion.
+
+I started to apply this method to everyday life. When a friend seemed annoyed with me, I tried not to assume the worst. I looked for clues and asked questions before deciding what her intention was. When I read news about a prisoner who had escaped or a politician involved in illegal activities, I asked: what is the evidence, and where does it come from?
+
+Detective stories also made me think about justice. In many novels, the killer is punished at the end, and order returns. Real life is more complex. Sometimes innocent people are punished, and sometimes the guilty survive without punishment. The theme of many modern crime writers is exactly this gap between the law and true justice.
+
+Today I recommend the genre to anyone who wants to improve their critical thinking. Apart from being fascinating, a good mystery trains you to observe carefully, to question your first impression and, above all, to stay curious.
+VI:
+Tôi là fan của truyện trinh thám từ năm mười hai tuổi, khi chú tôi tặng tôi một bản cũ của một cuốn tiểu thuyết bí ẩn nổi tiếng. Ban đầu được xuất bản vào thời của máy in và tàu hơi nước, câu chuyện diễn ra trong một trang viên ở nông thôn, nơi một quý ông giàu có bị đầu độc trong bữa tối. Mọi vị khách, người hầu và thậm chí cả chủ nhà đều có lý do để gây án. Tôi không thể ngừng đọc.
+
+Lúc đầu, tôi chỉ đơn giản thích được giải trí. Sau này, tôi nhận ra những câu chuyện ấy đang dạy tôi cách tư duy. Một thám tử giỏi không vội kết luận. Cô ấy thu thập manh mối, xem xét nhiều khả năng khác nhau và loại bỏ những lời giải thích không khớp với sự thật. Cô để ý những chi tiết nhỏ: một chiếc cúc bị mất, một cây độc trong vườn, một chiếc cốc đã được rửa sạch trong khi lẽ ra nó phải bẩn. Chỉ khi mọi mảnh ghép khớp với nhau, cô mới đi đến một kết luận chắc chắn.
+
+Tôi bắt đầu áp dụng phương pháp này vào cuộc sống hằng ngày. Khi một người bạn có vẻ bực mình với tôi, tôi cố không nghĩ đến điều tồi tệ nhất. Tôi tìm manh mối và đặt câu hỏi trước khi kết luận ý định của cô ấy là gì. Khi đọc tin về một tù nhân vượt ngục hay một chính trị gia dính líu đến hoạt động phi pháp, tôi tự hỏi: bằng chứng là gì, và nó đến từ đâu?
+
+Truyện trinh thám cũng khiến tôi suy nghĩ về công lý. Trong nhiều tiểu thuyết, kẻ giết người bị trừng phạt ở cuối truyện và trật tự được lập lại. Đời thực phức tạp hơn. Đôi khi người vô tội bị trừng phạt, và đôi khi kẻ có tội thoát mà không bị trừng phạt. Chủ đề của nhiều nhà văn trinh thám hiện đại chính là khoảng cách giữa luật pháp và công lý thật sự.
+
+Hôm nay tôi giới thiệu thể loại này cho bất kỳ ai muốn rèn luyện tư duy phản biện. Ngoài việc hấp dẫn, một cuốn truyện bí ẩn hay còn rèn cho bạn khả năng quan sát cẩn thận, nghi ngờ ấn tượng đầu tiên và, trên hết, luôn giữ sự tò mò.
+GR:
+Only when ... does + S + V (đảo ngữ) :: "Only when every piece fits does she reach a definite conclusion" — đảo trợ động từ lên trước chủ ngữ sau "Only when".
+Mệnh đề phân từ quá khứ mở đầu câu :: "Originally published in the age of printing presses, it was set in..." — V3 mở đầu câu mang nghĩa bị động.
+Apart from + V-ing/N :: "Apart from being fascinating, ..." — ngoài việc...

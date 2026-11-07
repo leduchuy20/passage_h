@@ -1,0 +1,55 @@
+=== 74 | B2 | My Thesis Year: Learning to Do Real Research | Năm làm luận văn: học cách nghiên cứu thật sự
+EN:
+In my final year at university, I had to write a thesis on artificial intelligence. I was confident at first. I had good programming skills, a powerful laptop and access to a large database. How hard could it be? As it turned out, it was the most challenging and rewarding project of my life.
+
+My initial hypothesis was simple: a new model would detect spelling errors more accurately than the existing tools. I designed a sequence of tests, wrote the code and fed thousands of sentences into the system as input. The output looked promising, and I felt excited. Then my supervisor asked a question that changed everything: "How do you know your results are valid and not just random?"
+
+I realized I had not thought carefully enough about measurement. My test data was too small, and much of it was similar to the training data, so the high accuracy was misleading. I had to rebuild the whole experiment, collect a more varied sample and calculate the probability that my findings were due to chance. It was frustrating to delete weeks of work, but it taught me that research is not about proving yourself right. It is about being precise and honest.
+
+Technical problems were constant. A bug in my code produced strange results for a week. A software installation failed and I had to reinstall every component. Once, the university's server crashed and I lost my password and some files. I learned to save multiple copies automatically and to monitor every step of my pipeline.
+
+I also learned the value of collaboration. A specialist in statistics explained a complicated mechanism I had misunderstood, and a classmate from the electronics department helped me interpret some confusing graphs. Interaction with other people improved my thinking far more than working alone.
+
+When I finally submitted the thesis, the results were more modest than my original prediction, but they were reliable. My supervisor said that was exactly what a good researcher should achieve: not sophisticated claims, but careful, transparent work that others can test and build on.
+VI:
+Năm cuối đại học, tôi phải viết luận văn về trí tuệ nhân tạo. Ban đầu tôi rất tự tin. Tôi có kỹ năng lập trình tốt, một chiếc laptop mạnh và quyền truy cập vào một cơ sở dữ liệu lớn. Có thể khó đến đâu chứ? Hóa ra, đó là dự án thử thách nhất và đáng giá nhất đời tôi.
+
+Giả thuyết ban đầu của tôi rất đơn giản: một mô hình mới sẽ phát hiện lỗi chính tả chính xác hơn các công cụ hiện có. Tôi thiết kế một chuỗi thử nghiệm, viết code và đưa hàng nghìn câu vào hệ thống làm dữ liệu đầu vào. Đầu ra trông đầy hứa hẹn, và tôi rất hào hứng. Rồi giáo viên hướng dẫn hỏi một câu làm thay đổi mọi thứ: "Làm sao em biết kết quả của mình có giá trị chứ không chỉ là ngẫu nhiên?"
+
+Tôi nhận ra mình chưa suy nghĩ đủ kỹ về cách đo lường. Dữ liệu kiểm tra quá nhỏ, và phần lớn giống dữ liệu huấn luyện, nên độ chính xác cao là gây hiểu lầm. Tôi phải xây dựng lại toàn bộ thí nghiệm, thu thập một mẫu đa dạng hơn và tính xác suất để kết quả chỉ là do ngẫu nhiên. Thật bực bội khi phải xóa công sức nhiều tuần, nhưng nó dạy tôi rằng nghiên cứu không phải để chứng minh mình đúng. Nó là về sự chính xác và trung thực.
+
+Các vấn đề kỹ thuật liên tục xảy ra. Một lỗi trong code tạo ra kết quả lạ suốt một tuần. Một lần cài đặt phần mềm thất bại và tôi phải cài lại mọi thành phần. Có lần máy chủ của trường bị sập và tôi mất mật khẩu cùng một số tệp. Tôi học cách tự động lưu nhiều bản sao và giám sát từng bước trong quy trình của mình.
+
+Tôi cũng học được giá trị của sự hợp tác. Một chuyên gia thống kê giải thích một cơ chế phức tạp mà tôi đã hiểu sai, và một bạn cùng lớp ở khoa điện tử giúp tôi diễn giải vài biểu đồ khó hiểu. Tương tác với người khác cải thiện tư duy của tôi hơn hẳn làm việc một mình.
+
+Khi cuối cùng nộp luận văn, kết quả khiêm tốn hơn dự đoán ban đầu, nhưng đáng tin cậy. Thầy hướng dẫn nói đó chính xác là điều một nhà nghiên cứu giỏi nên đạt được: không phải những tuyên bố tinh vi, mà là công việc cẩn thận, minh bạch mà người khác có thể kiểm chứng và phát triển tiếp.
+GR:
+As it turned out, ... :: "As it turned out, it was the most challenging..." — hóa ra là (kết quả khác với dự đoán).
+due to + N :: "the probability that my findings were due to chance" — do, bởi vì.
+far more than :: "improved my thinking far more than working alone" — "far" nhấn mạnh so sánh.
+
+=== 75 | B2 | What School Did Not Teach Me | Những điều trường học không dạy tôi
+EN:
+I was a model pupil. From elementary school to university, I followed the curriculum, memorized every textbook and passed every examination with high marks. I won a scholarship, collected certificates and attended every compulsory seminar. Yet when I started my first job, I discovered that some fundamental skills had never been taught.
+
+At school, success was largely defined by correct answers. In real life, there is often no single correct answer. When my manager asked me to evaluate a new project, I was lost. There was no textbook, no revision guide and no clear criterion for success. I had to define the problem, gather information, interpret ambiguous evidence and make a judgement. In other words, I had to think for myself.
+
+So I began to educate myself again, this time intentionally. I read books on philosophy and psychology to understand how people think and make decisions. I learned to distinguish between facts and opinions, to classify information and to clarify vague ideas by asking better questions. I joined workshops on writing and public speaking, and I kept a notebook of observations about my own mistakes.
+
+I also discovered the value of abstract thinking. Concepts that once seemed purely academic — logical fallacies, comparative analysis, the notion of bias — became extremely practical when I had to analyse a contract or plan a budget. Likewise, reading scholars from different fields helped me see connections that specialists sometimes miss.
+
+None of this means that formal education is useless; it is a valuable [means] to an end. On the contrary, it gave me knowledge, discipline and access to institutions that opened many doors. However, it is relatively narrow. Real learning is thorough and comprehensive only when it continues after graduation. Hence my advice: treat your degree as the beginning of your education, not the end. Stay curious, cite your sources, question your assumptions and never stop learning.
+VI:
+Tôi từng là một học sinh gương mẫu. Từ tiểu học đến đại học, tôi đi theo chương trình học, thuộc lòng mọi sách giáo khoa và đỗ mọi kỳ thi với điểm cao. Tôi giành học bổng, sưu tầm chứng chỉ và dự mọi buổi hội thảo bắt buộc. Thế nhưng khi bắt đầu công việc đầu tiên, tôi phát hiện có những kỹ năng nền tảng chưa từng được dạy.
+
+Ở trường, thành công chủ yếu được định nghĩa bằng câu trả lời đúng. Ngoài đời, thường không có một câu trả lời đúng duy nhất. Khi quản lý yêu cầu tôi đánh giá một dự án mới, tôi lúng túng. Không có sách giáo khoa, không có tài liệu ôn tập và không có tiêu chí thành công rõ ràng. Tôi phải xác định vấn đề, thu thập thông tin, diễn giải những bằng chứng mơ hồ và đưa ra phán đoán. Nói cách khác, tôi phải tự mình suy nghĩ.
+
+Vì vậy tôi bắt đầu tự học lại, lần này một cách có chủ đích. Tôi đọc sách triết học và tâm lý học để hiểu con người suy nghĩ và ra quyết định ra sao. Tôi học cách phân biệt sự thật với ý kiến, phân loại thông tin và làm rõ những ý tưởng mơ hồ bằng cách đặt câu hỏi tốt hơn. Tôi tham gia các buổi workshop về viết và nói trước công chúng, và giữ một cuốn sổ ghi lại những quan sát về lỗi sai của chính mình.
+
+Tôi cũng khám phá ra giá trị của tư duy trừu tượng. Những khái niệm từng có vẻ thuần học thuật — ngụy biện logic, phân tích so sánh, khái niệm thiên kiến — trở nên cực kỳ thực tế khi tôi phải phân tích một hợp đồng hay lập ngân sách. Tương tự, đọc các học giả từ những lĩnh vực khác nhau giúp tôi thấy những mối liên hệ mà chuyên gia đôi khi bỏ lỡ.
+
+Điều này không có nghĩa là giáo dục chính quy vô dụng; nó là một phương tiện quý giá để đạt mục đích. Ngược lại, nó cho tôi kiến thức, kỷ luật và cơ hội tiếp cận những tổ chức đã mở ra nhiều cánh cửa. Tuy nhiên, nó tương đối hẹp. Việc học thật sự chỉ toàn diện và thấu đáo khi nó tiếp tục sau khi tốt nghiệp. Vì thế lời khuyên của tôi là: hãy coi tấm bằng là khởi đầu của việc học, không phải kết thúc. Hãy luôn tò mò, trích dẫn nguồn, chất vấn những giả định của mình và không bao giờ ngừng học hỏi.
+GR:
+In other words, ... :: "In other words, I had to think for myself" — nói cách khác; dùng để diễn đạt lại ý cho rõ.
+On the contrary, ... :: "On the contrary, it gave me knowledge..." — ngược lại (bác bỏ ý vừa nêu).
+Hence + N/mệnh đề :: "Hence my advice: ..." — vì thế; rất trang trọng, có thể đi với cụm danh từ.

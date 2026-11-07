@@ -1,0 +1,30 @@
+=== 53 | B1 | Studying Smarter, Not Harder | Học thông minh hơn, không phải chăm hơn
+EN:
+When I arrived on campus as a first-year student, I thought the smartest people were those who studied the longest. I tended to spend twelve hours a day in the library, reading every reference twice and copying long quotes into my notes. Yet my grades were disappointing, and I was always tired. I began to doubt my intelligence.
+
+A senior student, who was about to graduate, gave me some advice that totally changed my approach. "Being educated is not about how many hours you sit at a desk," she said. "It is about how effectively you learn. Stop wasting time on unnecessary things." She recommended an educational website with research on memory, and I made an appointment with a study adviser at the university.
+
+What I learned surprised me. First, reading the same text again and again is not worth much; it only makes material feel familiar. A better technique is to close the book and try to summarize the main elements from memory. Second, it is useful to combine different subjects and make comparisons, because the brain naturally builds connections between related ideas. Third, you ought to test yourself frequently: answer questions, explain a complex concept to a friend or pretend you are giving a lecture.
+
+I also changed my study setting. I switched off notifications, organized my computer files into clear categories and used free software to scan and store my notes, so I could access them anywhere. Instead of revising everything the night before an exam, I spread my revision over several weeks.
+
+Within one term, my results improved dramatically. More importantly, I felt calmer and happier. I no longer studied heavily without a plan; I studied with a purpose.
+
+My conclusion is simple. Talent and hard work matter, but strategy matters just as much. Unless you understand how learning works, you may be working very hard in the wrong direction. Surely it is better to study for four focused hours than for twelve confused ones.
+VI:
+Khi mới đặt chân vào khuôn viên trường với tư cách sinh viên năm nhất, tôi nghĩ người thông minh nhất là người học lâu nhất. Tôi thường dành mười hai tiếng mỗi ngày trong thư viện, đọc mọi tài liệu tham khảo hai lần và chép những trích dẫn dài vào vở. Thế nhưng điểm số của tôi đáng thất vọng, và tôi luôn mệt mỏi. Tôi bắt đầu nghi ngờ trí thông minh của mình.
+
+Một sinh viên năm cuối sắp tốt nghiệp đã cho tôi lời khuyên làm thay đổi hoàn toàn cách tiếp cận của tôi. "Có học thức không phải là ngồi bàn bao nhiêu tiếng," chị nói. "Mà là em học hiệu quả đến đâu. Đừng lãng phí thời gian vào những thứ không cần thiết." Chị giới thiệu một trang web giáo dục có các nghiên cứu về trí nhớ, và tôi đặt lịch hẹn với một cố vấn học tập của trường.
+
+Những gì tôi học được khiến tôi bất ngờ. Thứ nhất, đọc đi đọc lại cùng một văn bản chẳng mấy giá trị; nó chỉ làm tài liệu trông quen thuộc. Một kỹ thuật tốt hơn là gấp sách lại và cố tóm tắt những ý chính từ trí nhớ. Thứ hai, kết hợp các môn học khác nhau và so sánh chúng là rất hữu ích, vì não bộ tự nhiên xây dựng mối liên kết giữa các ý tưởng liên quan. Thứ ba, bạn nên tự kiểm tra thường xuyên: trả lời câu hỏi, giải thích một khái niệm phức tạp cho bạn bè hoặc giả vờ mình đang giảng bài.
+
+Tôi cũng thay đổi môi trường học. Tôi tắt thông báo, sắp xếp các tệp trên máy tính thành những danh mục rõ ràng và dùng phần mềm miễn phí để quét và lưu ghi chú, để có thể truy cập ở bất cứ đâu. Thay vì ôn mọi thứ vào đêm trước kỳ thi, tôi rải việc ôn tập ra nhiều tuần.
+
+Chỉ trong một học kỳ, kết quả của tôi cải thiện rõ rệt. Quan trọng hơn, tôi thấy bình tĩnh và vui vẻ hơn. Tôi không còn học cật lực mà không có kế hoạch; tôi học có mục đích.
+
+Kết luận của tôi rất đơn giản. Tài năng và chăm chỉ đều quan trọng, nhưng chiến lược cũng quan trọng không kém. Trừ khi bạn hiểu việc học diễn ra thế nào, bạn có thể đang nỗ lực rất nhiều nhưng sai hướng. Chắc chắn học bốn tiếng tập trung tốt hơn mười hai tiếng mơ hồ.
+GR:
+be about to + V :: "a senior student, who was about to graduate" — sắp sửa làm gì.
+ought to + V :: "you ought to test yourself frequently" — nên (gần nghĩa should, trang trọng hơn một chút).
+Unless + mệnh đề :: "Unless you understand how learning works, ..." — trừ khi (= if ... not).
+just as much :: "strategy matters just as much" — cũng quan trọng không kém.
